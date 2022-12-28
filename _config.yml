@@ -14,36 +14,36 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/Los_Angeles
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: From The Hart                         # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: A place for thoughts   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A blog about games in all their forms, stories in all their shapes, and tools to enrich our lives.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://blog.alexrinehart.net'
 
 github:
-  username: github_username             # change to your github username
+  username: asr1           # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: alexrinehart_            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com             # change to your email address
+  name: Alex Rinehart
+  email: alexandersrinehart@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/alexrinehart_      # change to your twitter homepage
+    - https://github.com/asr1       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -54,7 +54,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id:                 # fill in your Google Analytics ID
+  id: G-1TZGBE54N2                 # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -71,7 +71,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: light  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -81,20 +81,20 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/avatar_alex.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
 
 comments:
-  active:         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active:   utterances     # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo:         # <gh-username>/<repo>
-    issue_term:   # < url | pathname | title | ...>
+    repo:         asr1/.github.io
+    issue_term:   title
   # Giscus options › https://giscus.app
   giscus:
     repo:              # <gh-username>/<repo>
@@ -136,6 +136,8 @@ collections:
   tabs:
     output: true
     sort_by: order
+  tutorials:
+    output: true
 
 defaults:
   - scope:
@@ -198,3 +200,18 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+jekyll_compose:
+  auto_open: true
+  draft_default_front_matter:
+      description:
+      image:
+      category:
+      tags:
+  post_default_front_matter:
+    description:
+    image:
+    category:
+    tags:
+    published: false
+    sitemap: false

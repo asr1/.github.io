@@ -1,0 +1,95 @@
+
+body {
+    --lightOffset: #ebdbb2;
+    --warnColor: rgba(214, 93, 14, 0.47);
+    --exampleColor: #dcdcdc;
+}
+
+button.demo:hover {
+    background-color: #e32200 !important;
+}
+
+button.demo:active {
+    background-color: #ff6145 !important;
+}
+
+button:hover {
+    background-color: #dcdcdc;
+}
+button:active {
+    background-color: white;;
+}
+
+hr.demo {
+    border-top: 2px solid rgba(0,0,0,.4)
+}
+
+textarea.demo {
+    resize: both;
+    max-width: 100%;
+}
+
+/* 
+figure {
+    width:50%;
+    display:block;
+    margin-right: auto;
+    text-align: center;
+}
+
+figure.big {
+    width:80%
+}
+
+figure img.demo {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figcaption {
+    text-align: center;
+    margin-left: 5%;
+} */
+
+/* code {
+    background-color: #eff1f3;
+    border-radius: 6px;
+    padding: 0.2em 0.4em;
+    margin: 0;
+} */
+
+div.note, div.example, div.warn {
+    border-radius: 5px;
+    border: 3px solid black;
+    margin-bottom:15px;
+}
+
+div.note {
+    background-color: var(--lightOffset);
+}
+
+div.warn {
+    background-color: var(--warnColor);
+}
+
+div.example {
+    background-color: var(--exampleColor);
+}
+
+/* kbd {
+font-family: inherit;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 1.3rem;
+    min-width: 1.75rem;
+    text-align: center;
+    margin: 0 0.3rem;
+    padding-top: 0.1rem;
+    color: var(--kbd-text-color);
+    background-color: var(--kbd-bg-color);
+    border-radius: 0.25rem;
+    border: solid 1px var(--kbd-wrap-color);
+    box-shadow: inset 0 -2px 0 var(--kbd-wrap-color);
+} */
