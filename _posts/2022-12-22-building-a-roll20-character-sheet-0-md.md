@@ -24,22 +24,23 @@ You can find all of the code for this character sheet [on Github](https://github
 
 ## This Guide
 
-This guide is a series of tutorials split into 10 session. You are in session 0, which is **The Overview**. As I write other sections, I will link to them here.
+This guide is a series of tutorials split into 12 sessions. You are in session 0, which is **The Overview**. As I write other sections, I will link to them here.
 
 The sessions are as follows:
 
 Session 0. Overview  
 [Session 1. Crash Course on HTML]({% link _posts/2022-12-22-building-a-roll20-character-sheet-1-md.md%})  
-[Session 2. Basic CSS and styling]({% link _posts/2022-12-23-building-a-roll20-character-sheet-2-md.md%})  
+[Session 2. Basic CSS and Styling]({% link _posts/2022-12-23-building-a-roll20-character-sheet-2-md.md%})  
 [Session 3. Getting started with Roll20]({% link _posts/2022-12-24-building-a-roll20-character-sheet-3.md%}) (**Tutorial starts here!**)  
-[Session 4. Putting it all together]({% link _posts/2022-12-25-building-a-roll20-character-sheet-4.md%})  
+[Session 4. Putting it All Together]({% link _posts/2022-12-25-building-a-roll20-character-sheet-4.md%})  
 [Session 5. Filling It In (With Flex)]({% link _posts/2022-12-26-building-a-roll20-character-sheet-5.md%})  
 [Session 6. The Body]({% link _posts/2022-12-27-building-a-roll20-character-sheet-6.md%})  
-Session 7. Advanced CSS  
-Session 8. JavaScript and events  
-Session 9. Roll templates  
-Session 10. Advanced tips and  tricks  
-Session 11. Making it official (and available)
+[Session 7. Advanced CSS]({% link _posts/2022-12-27-building-a-roll20-character-sheet-session-7-advanced-css.md%})  
+[Session 8. JavaScript Overview ]({% link _posts/2022-12-29-building-a-roll20-characer-sessionn-8-javascript-and-events.md%})  
+[Session 9. Reacting in Roll20 With JavaScript]({% link _posts/2022-12-29-building-a-roll20-characer-sessionn-9-reacting-in-roll20-with-javascript.md%})  
+[Session 10. Roll Templates]({% link _posts/2023-01-01-building-a-roll20-character-session-10-roll-templates.md%})  
+Session 11. Advanced Tips and Tricks  
+Session 12. Making it Official (and Available)
 
 Sessions 1 and 2 are high-level overviews of their respective technologies. In sessions 3 and 4 we'll actually start building a basic character sheet, and the rest of the sessions will teach you techniques to make those sheets interactive, stylish, and all-around better.
 

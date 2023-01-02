@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022-12-27-building-a-roll20-character-sheet-6
+title: 'Building A Roll20 Character Sheet Session 6: The Body'
 categories:
 - Tutorial
 - Roll20 Character Sheet Tutorial
@@ -26,7 +26,7 @@ We don't know how many powers or weapons our players will have. We could make an
 
 Here, flexibility means letting the user add as many powers as they want. Luckily, Roll20 provides an excellent tool for this called `fieldset`. The way `fieldset` works is that we define what one power looks like, and Roll20 gives players a convenient "add" button to duplicate as many as they want. Neato!
 
-So what is a power? Well, it has a name, a description, and a biotech cost. And we should probably include some way for the player to send all of that info to the chat (more on this when we get to Roll Templates).
+So what is a power? Well, it has a name, a description, and a biotech cost. And we should probably include some way for the player to send all of that info to the chat (more on this when we get to [Roll Templates]({% link _posts/2023-01-01-building-a-roll20-character-session-10-roll-templates.md%})  ).
 
 So let's toss that all together. For now, we can put this direction under our "All Known Powers" `h2`.
 
@@ -327,7 +327,7 @@ If the character doesn't have an avatar, it matches the character sheet:
 
 ## Summary
 
-In this session, we learned about repeating sections, the CSS child selector, images and portraits, **and** set the stage to learn about JavaScript and Roll Templates in the future.
+In this session, we learned about repeating sections, the CSS child selector, images and portraits, **and** set the stage to learn about JavaScript and [Roll Templates]({% link _posts/2023-01-01-building-a-roll20-character-session-10-roll-templates.md%})   in the future.
 
 We're not going to fill out the rest of the information panel in this tutorial. If you'd like to, you can (or deviate and build your own sheet instead!)
 
@@ -335,7 +335,7 @@ You should have all the knowledge you need by now to build the structure of your
 
 Need to add an extra column or row? Go wild! You've got this.
 
-Next time we'll focus on "advanced" CSS techniques that will let you do things like:
+[Next time]({% link _posts/2022-12-27-building-a-roll20-character-sheet-session-7-advanced-css.md%}) we'll focus on "advanced" CSS techniques that will let you do things like:
 
 * Let users toggle an expansion or supplement on or off, and change the character sheet accordingly
 * Affect only the first element in a repeating section
@@ -346,6 +346,8 @@ Next time we'll focus on "advanced" CSS techniques that will let you do things l
 And more!
 
 The end is in sight! We have just a few more topics remaining, including JavaScript listeners, Roll Templates, Action buttons vs Roll buttons, and dark mode!
+
+[On to Session 7!]({% link _posts/2022-12-27-building-a-roll20-character-sheet-session-7-advanced-css.md%})
 
 ## Code So Far
 
