@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 'Building a Roll20 Character Sheet Session 10: Roll Templates'
+categories:
+- Tutorial
+- Roll20 Character Sheet Tutorial
 tags:
 - roll20
 - rpg
@@ -608,7 +611,8 @@ In the next session, we'll learn about advanced topics, like dark mode, promptin
 
 ## Code So Far
 
-This does not include the Action Roll or Isolating Rolls code.
+> This does not include the Action Roll or Isolating Rolls code.
+{: .prompt-info}
 
 ```html
 <div class="character-sheet">

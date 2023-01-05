@@ -15,7 +15,7 @@ I recently made a Roll20 character sheet for [Cyberrats](https://alrine.itch.io/
 It took me around 60 hours to make the Cyberrats character sheet, though it's more complex than most. My goal with this guide is to help you make your next character sheet (whether it's your first or your fifth) in a fraction of that time.
 
 ![Cyberrats character sheet](../../assets/img/CyberratsPreview.png){: width="500"}
-_A small preview of the first parge of the Cyberrats character sheet on Roll20._
+_A small preview of the first page of the Cyberrats character sheet on Roll20._
 
 You can find all of the code for this character sheet [on Github](https://github.com/asr1/roll20-character-sheets/tree/master/Cyberrats), though jumping in to it directly is probably overwhelming.
 
@@ -53,7 +53,7 @@ Roll20 character sheets are built using the same tools as most web sites: HTML, 
 
 **HTML** is used to determine the structure of your page (how the sheet is laid out), **CSS** determines the style of those elements (how the page, and the elements on it, look). **JavaScript** is used for interaction (when the user clicks on a button, do something).
 
-> **Note:** While proficiency with these three technologies is useful, it is not required: my goal is for these tutorials to be accessible to anyone, regardless of experience.
+> **Note:** While proficiency with these three technologies is useful, it is not required. My goal is for these tutorials to be accessible to anyone, regardless of experience.
 <br><br>
 **That said, the less experience you have, the longer it will take you.** I am fairly experienced with many of these technologies, and it took me around 60 hours to make the character sheet for Cyberrats. It's on the complex end, as far as character sheets go. Some of that time was spent learning new things, which I'm hoping to share with you through these posts.
 <br><br>
