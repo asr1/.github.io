@@ -763,6 +763,17 @@ Templates are very similar, except that they have the property `.sheet-rolltempl
 
 ```
 
+## Change your default sheet settings
+
+I won't go into a lot of detail, because frankly I just learned about this feature minutes ago. You can set up default settings in your custom sheet.
+
+This is useful for GMs, so they can change certain settings once and have those settings apply to every character sheet. For example, the Cyberrats Character sheet could have used a default setting to expose the "Briny Bastards" setting, so a GM doesn't have to manually click it, or ask their players to. They could simply set up a game and check it once.
+
+> There is no way to use default settings on a character sheet that has not been submitted to Roll20, that is you cannot test these settings with your own custom sheet, they should be added after the sheet is approved.
+{: .prompt-warning}
+
+See the [Roll20 Wiki](https://wiki.roll20.net/Default_Sheet_Settings#For_sheet_authors) or the [Roll20 help pages](https://help.roll20.net/hc/en-us/articles/360041542554) for more details.
+
 ## Summary
 
-There you have it! You know most of the tricks and tips that I know, and are ready to publish your character sheet! Let's learn how in the next session.
+There you have it! You know most of the tricks and tips that I know, and are ready to publish your character sheet! Let's learn how in the [next session]({% link _posts/2023-01-06-building-a-roll20-character-sheet-session-12-publishing-your-sheet.md%}).

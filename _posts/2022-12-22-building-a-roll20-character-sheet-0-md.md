@@ -39,8 +39,8 @@ Session 0. Overview
 [Session 8. JavaScript Overview ]({% link _posts/2022-12-29-building-a-roll20-characer-sessionn-8-javascript-and-events.md%})  
 [Session 9. Reacting in Roll20 With JavaScript]({% link _posts/2022-12-29-building-a-roll20-characer-sessionn-9-reacting-in-roll20-with-javascript.md%})  
 [Session 10. Roll Templates]({% link _posts/2023-01-01-building-a-roll20-character-session-10-roll-templates.md%})  
-Session 11. Advanced Tips and Tricks  
-Session 12. Making it Official (and Available)
+[Session 11. Advanced Tips and Tricks]({% link _posts/2023-01-04-building-a-roll20-character-sheet-session-11-advanced-topics.md%})  
+[Session 12. Making it Official (and Available)]({% link _posts/2023-01-06-building-a-roll20-character-sheet-session-12-publishing-your-sheet.md%})  
 
 Sessions 1 and 2 are high-level overviews of their respective technologies. In sessions 3 and 4 we'll actually start building a basic character sheet, and the rest of the sessions will teach you techniques to make those sheets interactive, stylish, and all-around better.
 

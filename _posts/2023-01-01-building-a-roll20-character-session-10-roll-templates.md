@@ -607,7 +607,7 @@ on("clicked:repeating_weapon:weapon", function(eventInfo) {
 
 There you have it! You can now make a roll template like the best of them. And you know how to reuse them! 
 
-In the next session, we'll learn about advanced topics, like dark mode, prompting users for input, translations, fake tabs, and more!
+In the [next session]({% link _posts/2023-01-04-building-a-roll20-character-sheet-session-11-advanced-topics.md%}), we'll learn about advanced topics, like dark mode, prompting users for input, translations, fake tabs, and more!
 
 ## Code So Far
 
