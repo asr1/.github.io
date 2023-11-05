@@ -244,7 +244,7 @@ That seems pretty useful, especially if you're butting heads with one of Roll20s
 A few reasons:
 
 * **Confusion**. The more of these you add to your code, the harder it is to figure out exactly where an element's stylings come from. You can mitigate this somewhat with the Element Inspector, which we'll discuss in session 4, but trust me on this for now.
-* **Arms Race**. Once you mark something important, it's easy to get into a situation where something else is *more important*, so you mark that as important as well, and pretty soon everything in your CSS file is marked as important. Not only is that hard to follow, it's also meaningless. If everything's important, nothing is[^1]. 
+* **Arms Race**. Once you mark something important, it's easy to get into a situation where something else is *more important*, so you mark that as important as well, and pretty soon everything in your CSS file is marked as important. Not only is that hard to follow, it's also meaningless. If everything's important, nothing is. 
 * **Bad Practice**. You'll be grateful at the end of the day when you have a CSS file that's clean, with few (if any) `!important` declarations. It's easy to see at a glance exactly how a given element is styled, without having to worry if a property from some other, less specific, rule is taking precedent.
 
 ### Selector Summary
@@ -465,4 +465,3 @@ In the [next session]({% link _posts/2022-12-24-building-a-roll20-character-shee
 Lucky for your, this was the last of the info-dump posts, at least for a while. [Onward!]({% link _posts/2022-12-24-building-a-roll20-character-sheet-3.md%})
 
 
-[^1]: That's the plot of The Incredibles.
