@@ -6,6 +6,13 @@ jekyll rename _drafts/my-new-draft.md "My Renamed Draft"
 ### Publishing the Draft
 jekyll publish _drafts/my-new-draft.md
 
+
+I think to publish we just copy to winscp? From the site folder!
+How do I generate the site?
+Jekyll build! I think
+
+Must use bundle exec in front because of version mismatch?
+
 ### Serving locally with drafts
 bundle exec jekyll s --drafts  
 http://localhost:4000/

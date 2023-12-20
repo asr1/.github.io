@@ -2,6 +2,8 @@
 layout: post
 title: You should use an RSS reader
 img_path: "../../assets/img/"
+tags:
+- persuasive
 categories:
 - Software
 tags:
