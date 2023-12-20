@@ -5,13 +5,13 @@ img_path: "../../assets/img/"
 categories:
 - Recap
 image:
-  path: templateHeaders/bookDoor.png
+  path: templateHeaders/bookDoor.jpg
   alt: A door surrounded by shelves of books at all angles
 date: 2023-12-20 15:19 -0800
 ---
-I've been reading 75 books lately. 
+I've been reading 75 books lately.
 
-At least, that's what Goodreads says, and it's true, as long as you count audiobooks, comics, RPG supplements, and the like. Some people don't. People draw lines in different ways. I figure most years I pad my numbers with a few comics or young adult books, but it balances out when I read some textbooks or something like Ulysses that takes me months to digest.
+At least, that's what Goodreads says, and it's true, as long as you count audiobooks, comics, RPG supplements, and the like. Some people don't. People draw lines in different ways. I figure most years I pad my numbers with a few comics or young adult books, but it balances out when I read some textbooks or something like Ulysses that takes me months to digest. If you count the way Goodreads counts, I've been above 75 books every year since 2019. Until now.
 
 This year, I thought I set my goal at 50, and was unpleasantly surprised this summer to learn I'd aimed for the more ambitious 55. I could have padded my way in easily, but I elected not to. Mostly because I haven't read all that many books this year. Most of what I've read has been Spider-Man comics, and that feels a little too much like cheating.
 
@@ -19,9 +19,9 @@ At the time of this writing, I've finished 54 books per Goodreads, and an I'm wo
 
 But that's not to say I haven't read *any* books this year. By my count, the breakdown looks like this:
 
-**Kids books / Novellas:** 3
-**Comics:** 23 (Mostly Spider-Man (mostly Ultimate), followed by Ninja Turtles, Static Shock, indie Image books, and Batman)
-**Non-Fiction:** 4 (My favorite was What If 2 or the first half of Paul Allen's Biography, my least favorite was The Curse of Oak Island)
+**Kids books / Novellas:** 3  
+**Comics:** 23 (Mostly Spider-Man (mostly Ultimate), followed by Ninja Turtles, Static Shock, indie Image books, and Batman)  
+**Non-Fiction:** 4 (My favorite was What If 2 or the first half of Paul Allen's Biography, my least favorite was The Curse of Oak Island)  
 **Fiction:** 24. Mystery (lots of Agatha Christie books), Classics (Dracula, Treasure Island, The Stranger), Sci-Fi (Wool, Red Team Blues, Titanicus (40k), Area 51, The Fifth Season), Spy, Romance.
 
 My favorite book of the year was a surprise to me: The Girl Who Kicked The Hornet's Nest. I really did not care for the sequel to *Girl With A Dragon Tattoo*, so I put off reading the third book in that series for a long time. It picks up right where the second ends, and improves on it in almost every way! A pleasant surprise.
