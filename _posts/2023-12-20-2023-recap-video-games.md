@@ -13,6 +13,11 @@ As of the time I write this post, I have finished 25 video games this year. I'm 
 
 So what have I played and what have I liked? You can find the [whole list here](https://alexrinehart.net/games/), but here's a summary:
 
+**Best:** Mario + Rabbids Kingdom Battle: Donkey Kong Adventure
+**Worst:** Bully / Neverwinter Nights 2: Storm of Zehir
+**Weirdest:** Eternal Sonata
+**Most Impressive:** The Legend of Zelda: Tears of the Kingdom
+
 ## The Bad
 
 ### Bully
