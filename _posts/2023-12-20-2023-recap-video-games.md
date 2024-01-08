@@ -75,6 +75,8 @@ My only complaint about this mystery game is that by the 5th of 6th missions, th
 
 I do wish there had been more puzzles that involved rotating shapes in space, and fewer about lockpicking, but so it goes.
 
+Update 01/08/2024: I think about this game more often than most others on this list. I think I would enjoy having one of these in the background, solving one case every week while I play other games. My only complaint was doing it all at once felt repetitive.
+
 * **The Murder of Sonic The Hedgehog** (4/5)
 
 I wish this had cracked my top 10. It was unique, ambitious, and enjoyable. Truly a breath of fresh air *and* a love letter to the franchise. For a free visual novel, I can't recommend it enough.
