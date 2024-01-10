@@ -10,8 +10,8 @@ img_path: "../../assets/img/"
 image:
   path: templateHeaders/Sly2.png
   alt: Banner uploaded by Spaghetti Overlord on SteamGridDB https://www.steamgriddb.com/grid/80136
+date: 2024-01-09 18:46 -0800
 ---
-
 I know I'm 20 years late to this one. I don't promise timely takes. I get to games when I can, which is often way after they come out. It's part of the reason I'm so [averse to spoilers]({% link _posts/2023-12-19-against-spoiler-culture.md%}).
 
 Sly 2 is, according to Wikipedia, considered to be the best of the Sly Cooper trilogy. I have not played Sly 3, but I have played the first two , and I can confidently say that I both understand why this claim was made, and that I disagree with it thoroughly.
