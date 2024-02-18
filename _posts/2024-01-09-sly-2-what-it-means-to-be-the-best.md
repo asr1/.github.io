@@ -60,7 +60,7 @@ But the mini games themselves are drawn out. One of the many piloting missions h
 
 Early on, there's a sort of slow-paced dance, where the player is prompted with a Simon Says sequence of three buttons to push. These sequences are slow and long. Seriously, here's a clip of one:
 
-![Sly 2 dance scene](../assets/vid/slyDance.mp4)
+<iframe width="420" height="315" src="../../assets/vid/slyDance.mp4" frameborder="0" allowfullscreen></iframe>
 
 You watch as these buttons are revealed, one at a time, and then you get a leisurely window to press them, one at a time. This goes on for 3 minutes! This isn't fast-paced, challenging, *or* fun! Why was this sequence left in? Is it possible to lose this? I don't want to try, for the risk of having to do more of it!
 
@@ -86,7 +86,7 @@ This is a *lot* of Bentley's missions. Some of the non-hacking ones are great! T
 
 ### The plot doesn't make sense
 
-1. At the end of Sly 1, you destroy a big evil mechanical bird named clockwork. At the start of Sly 2, that bird has been chopped into bits and distributed across the globe. Each of those pieces is being vigorously guarded by a different criminal mastermind and their retinues. 
+1\. At the end of Sly 1, you destroy a big evil mechanical bird named clockwork. At the start of Sly 2, that bird has been chopped into bits and distributed across the globe. Each of those pieces is being vigorously guarded by a different criminal mastermind and their retinues. 
 
 You recognize that these artifacts would be disastrous if someone combined all of them, so you proceed to sneak into every single criminal empire and steal them. Once they're in one place, guarded by 3 dweebs with no minions, someone inevitably steals them.
 
@@ -94,11 +94,11 @@ Then you have to stop them with a big set piece boss battle.
 
 So okay, this was entirely preventable. It gets worse.
 
-\2. The new Clockwork bird has a plan that involves using a giant battery to hypnotize all of Paris.
+2\. The new Clockwork bird has a plan that involves using a giant battery to hypnotize all of Paris.
 
 Except it's clearly established (in the scene before this plan is revealed) that your gang personally shorted out, drained the power from, and then HOLLOWED OUT the battery needed for this plan. There was never any threat, but your team acts as if there is. Why??
 
-\3. The first betrayal (of many) in this game is when Neyla turns on Carmelita. She gets witnesses at a nightclub to testify that Sly was dancing with Carmelita, ignoring the fact that she herself was dancing with him mere minutes earlier! This is ultimately a nit, but it's one more thing on the stack, you know?
+3\. The first betrayal (of many) in this game is when Neyla turns on Carmelita. She gets witnesses at a nightclub to testify that Sly was dancing with Carmelita, ignoring the fact that she herself was dancing with him mere minutes earlier! This is ultimately a nit, but it's one more thing on the stack, you know?
 
 ### Enemy variety
 
