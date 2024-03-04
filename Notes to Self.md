@@ -6,6 +6,12 @@ jekyll rename _drafts/my-new-draft.md "My Renamed Draft"
 ### Publishing the Draft
 jekyll publish _drafts/my-new-draft.md
 
+git add, commit so it updates
+
+Then run `bundle exec jekyll build`
+
+
+
 
 I think to publish we just copy to winscp? From the site folder!
 How do I generate the site?

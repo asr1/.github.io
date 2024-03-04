@@ -6,7 +6,7 @@ categories:
 tags:
 - game-design
 - announcement
-- img_path: "../../assets/img/"
+img_path: "../../assets/img/"
 image:
   path: templateHeaders/blocksHeader.png
   alt: A collection of colored blocks

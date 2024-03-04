@@ -19,6 +19,6 @@ The band of revolutionaries headed downspire towards Derelictus, where they soug
 
 George told the party of how he had kicked a ball into the mirror manufactury in the works, destroying dozens of mirrors all at once, and has been fighting off bad luck ever since. Woe is him! While this is going on, Inshalle notices two familiar shapes walking towards the bar, one tall and one sturdy.  He shouts, but no one is listening, and begins to attack.
 
-The guards call for help, "Guards are under attack!" but the only response is someone in a nearby apartment yelling "It's about time!" and closing their window. Soon the entire pub gets involved, and the skinny guard is chased away by a hyena, while the larger one is killed and hidden in a manhole. Nix pats him down first, finding all of the coin that had been taken from him, and from the rest of the bars the guard had shaken down that evening. 
+The guards called for help, "Guards are under attack!" but the only response was someone in a nearby apartment yelling "It's about time!" and closing their window. Soon the entire pub got involved, and the skinny guard was chased away by a hyena, while the larger one was killed and hidden in a manhole. Nix patted him down first, finding all of the coin that had been taken from him, and from the rest of the bars the guard had shaken down that evening. 
 
 Back inside the tavern, the revolutionaries stopped for a quick drink, paid their tab, and continued their trek to Derelicuts, ignoring the many orange lanterns that hung outside the tavern and throughout Pilgrim's Walk.
