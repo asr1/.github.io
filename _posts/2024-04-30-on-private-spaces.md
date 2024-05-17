@@ -102,6 +102,4 @@ Involving everyone is where the magic happens. That’s the Goldilocks zone wher
 
 If you take one thing away from this, it should be this: as a designer, you’re going to need somewhere you can talk, vent, and be yourself that *isn’t* on display to the public. That might be in real life with your partner, friends, or just in the DMs. The comradery you can find from a space where you can truly be yourself is unmatched. If you’re craving this kind of thing and haven’t been invited to one of these spaces yet, well — all your friends might be chomping at the bit for the very same experience.
 
-===
-
 *Ty, a gold ENNIE-winning designer, wakes up every morning and goes to battle with his thoughts, trying to wrangle them into words and the occasional good idea. Sometimes he wins. Find his work on [Mindstorm](https://www.mindstormpress.com/).*

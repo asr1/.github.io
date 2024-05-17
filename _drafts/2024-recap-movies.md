@@ -12,11 +12,13 @@ image:
 Below is the list of movies I've seen this year, very roughly sorted by how much I enjoyed them (least favorite at the top, favorite at the bottom). Commentary included for select movies.
 
 * **Moneyball**
+* **Asteroid City**
 * **Goldfinger**
 * **Venom 2: Let There Be Carnage** *Not nearly as charming as the first. Lots of callbacks to jokes that were done better the first time around.*
 
 * **The Disruptors**
 * **The Goldfinch**
+* **All the President’s Men**
 * **From Russia with Love**
 * **North By Northwest**
 * **21 Jump Street (2012)** *Brie Larson can act! Turns out her wooden Captain Marvel was a directoral decision.
