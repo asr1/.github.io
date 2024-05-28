@@ -26,5 +26,6 @@ Below is the list of movies I've seen this year, very roughly sorted by how much
 * **Lock, Stock, and Two Smoking barrels** *Basically a game of Fiasco with a baller soundtrack. Unusual cinematography at times.*
 
 * **The Mighty Ducks**
+* **Murder on the Orient Express (2017)**
 * **Dungeons and Dragons: Honor Among Thieves** *Really fun adventure movie, in the style of The Mummy. The tiefling design was cowardice, but fun all around.*
 * **His Girl Friday** 

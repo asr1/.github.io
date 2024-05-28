@@ -37,7 +37,7 @@ Some backers prefer to pay shipping up front, and feel ambushed by delayed or la
 
 #### Shipping
 
-Figure out your shipping plan BEFORE you Kickstart. Are you planning to use a fulfillment service like Blackbox, Pirate Ship, or Ship Naked? Will you use the USPS directly? Are you eligible to use Media Mail rates (for books only)? If so, this is usually the cheapest way to mail books. Don't forget to account for envelope costs!
+Figure out your shipping plan BEFORE you Kickstart. Are you planning to use a fulfillment service like [Blackbox](https://blackbox.cool/), [Pirate Ship](https://www.pirateship.com/), ~~or Ship Naked~~? Will you use the USPS directly? Are you eligible to use Media Mail rates (for books only)? If so, this is usually the cheapest way to mail books. Don't forget to account for envelope costs!
 
 If you're using a fulfillment partner, reach out before your campaign.
 
@@ -90,6 +90,6 @@ Refine your pitch. For [Gratitude: A Horror Game](https://alrine.itch.io/gratitu
 
 For Cyberrats, I only used about 40 unique pitches. Once I found one that worked reasonably well, I stick with it. If someone tells you you have a good pitch, stick with it.
 
-![Pitch-Praise.png](A picture of a Twitter user replying "Best elevator pitch I've seen in a long time" in response to the pitch, "I just launched a zine about stealing power and making sacrifices. You can ride giant golden retrievers, if you can get them to sit still long enough.")
+![A picture of a Twitter user replying "Best elevator pitch I've seen in a long time" in response to the pitch, "I just launched a zine about stealing power and making sacrifices. You can ride giant golden retrievers, if you can get them to sit still long enough."](Pitch-Praise.png)
 
 [More in part 2]({% link _posts/2024-05-16-what-to-expect-when-you-re-kickstarting-part-2.md%}) 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to expect when you're Kickstarting part 2
+title: What to expect when you're Kickstarting (part 2)
 categories:
 - So you want to make a game
 tags:
@@ -85,7 +85,7 @@ Quality improvements. More are, more content, thicker pages, built-in bookmarks.
 
 Keep talking about your game while it's funding. Continue to run it at local game stores and in public. But know this: Kickstarter works on a bathtub curve.
 
-![bathtub.png](A bathtub curve)
+![A bathtub curve](bathtub.png)
 
 The first two days and the last two days are the biggest. The middle? A terrible slump of very little sales. It's hard to keep the excitement up. 
 
