@@ -6,8 +6,8 @@ categories:
 tags:
 - roundup
 - links
+date: 2024-06-01 15:36 -0700
 ---
-
 # May Roundup
 
 Below are things I've learned or found interesting in the past month:
@@ -41,3 +41,11 @@ Below are things I've learned or found interesting in the past month:
 - Two[ speedrunning strategies](https://wiki.the-elite.net/wiki/Lookdown) for N64's Goldeneye were discovered by a 55-year-old man from Illinois. The first was to affix a physical crosshair to the TV so you can see where the gun will fire (the game has no reticule, and guns always fire in the exact middle of the screen). The second was more controversial: look down when you run. 
 - When this was suggested, it was blown off and ignored. Later, it was used to beat several records that were previously thought to be unbeatable. The balance is to look down at about 45°, so you can still see where you're going, and look up when needed to shoot.
 - This strategy saves about 1 second every 75 seconds, and works because the game has to render less, which improves the frame frate (and speed of Bond).
+
+- [Tornado Alley has moved](https://www.theweathernetwork.com/en/news/weather/severe/shifting-tornado-dixie-alley-us-severe-weather-el-nino-impact-sea-surface-temperatures-climate-change) 500 miles east in the last 40 years.
+
+- Only one person has ever survived rabies. The controversial treatment (which has never succeeded since) is known as the [Milwaukee Protocol](https://www.scientificamerican.com/article/jeanna-giese-rabies-survivor/) and involved putting the patient in a medically induced coma and providing her with a variety of drugs, [including ketamine and a variety of antivirals](https://www.esanum.com/today/posts/the-milwaukee-protocol-is-applied-on-a-human-rabies-case-in-the-usa).
+
+- In 2020, a Costco co-founder made waves by [threatening to kill the CEO](https://www.today.com/food/costco-co-founder-reportedly-told-ceo-he-d-kill-him-t192310) if he raised the price of the hot dog + soda combo, which has been priced at $1.50 since its debut in 1985. [Recently the new CFO confirmed the price would remain the same](https://www.msn.com/en-us/money/companies/costco-cfo-assures-investors-its-150-hot-dog-combo-won-t-see-price-increase/ar-BB1nsq5Y), but was silent on the matter of threats.
+
+- A fine example of the [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle), or 80/20 rule: four bike thieves were arrested in london, dropping the monthly number of stolen bikes from 68 to 19. There may be other chilling effects (if you see the police cracking down on bike thieves, you might think twice or pick a different crime), but it's possible that these 4 people accounted for over 70% of bike thefts in London.

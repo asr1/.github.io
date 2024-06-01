@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cornhenge
-date: 2024-05-28 09:35 -0700
+date: 2024-07-08 09:35 -0700
 ---
 Twelve years ago, my hometown spent 1.5 million dollars on corn. Not the kind you can eat, mind you, but big metal stalks in the middle of a roundabout. Not a roundabout people used, either. When the installation was installed, the roundabout was on the northernmost part of town, five stalks of corn, each ten feet tall in the middle of a roundabout with only a single entrance and exit.
 
@@ -27,4 +27,4 @@ We got out of the car and I immediately stepped in a puddle, soaking my foot to 
 
 I was home. The first car saw us with a problem they could help with. Iowa nice. She called it Cornhenge. Just like us. This was Iowa, exactly how I'd describe it. 
 
-Did it live up to expectation? Well, he wants to go back, and next time to bring a friend.
+Did it live up to expectations? Well, he wants to go back, and next time to bring a friend.
