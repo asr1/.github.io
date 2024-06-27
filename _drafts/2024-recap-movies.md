@@ -20,6 +20,7 @@ Below is the list of movies I've seen this year, very roughly sorted by how much
 * **The Goldfinch**
 * **All the President’s Men**
 * **From Russia with Love**
+* **Thank You For Smoking**
 * **North By Northwest**
 * **21 Jump Street (2012)** *Brie Larson can act! Turns out her wooden Captain Marvel was a directoral decision.
  
