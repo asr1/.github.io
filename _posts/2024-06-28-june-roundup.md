@@ -1,8 +1,8 @@
 ---
 layout: post
 title: June Roundup
+date: 2024-06-28 17:22 -0700
 ---
-
 1. A [British Super Smash Brothers player](https://www.ssbwiki.com/Smasher:Darkstalker#Trivia) was disqualified from a North-American tournament he had illegally entered. The ruse was exposed due to British spelling when saying that defeating his [opponent would be "an honour".](https://clips.twitch.tv/DeterminedViscousCheeseCharlietheUnicorn-N7twIytrhpItRUqT)
 
 2. Cory Doctorow on how the future of Jet Packs was a ruse, with every [public demonstration being performed by a single man](https://doctorow.medium.com/https-pluralistic-net-2024-05-17-fake-it-until-you-dont-make-it-twenty-one-seconds-f8e89c5ccde6).
@@ -27,3 +27,6 @@ It is unclear whether political believes impact brain structure, or if brain str
 
 10. President Benjamin Harrison didn't want either of the Dakotas to feel superior, so before and after signing the papers admitting them as states to the Union, [he shuffled the papers](https://www.ndstudies.gov/gr4/early-settlement-north-dakota/part-1-early-settlement-north-dakota/section-6-statehood), never knowing which order they were signed in.
 
+11. The [Barkley Marathon](https://en.wikipedia.org/wiki/Barkley_Marathons) is an annual 100-mile unmarked race, where 40 runners are selected from a pool of applicants. The requirements are kept secret, and include a written essay. It's considered to be one of the hardest ultramarathons in the world.
+
+12. The [Mary Celeste](https://en.wikipedia.org/wiki/Mary_Celeste), or Marie Celeste, was a ship found abandoned at sea wth the alcohol intact. It was salvaged and later destroyed as part of attempted insurance fraud.

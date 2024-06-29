@@ -8,10 +8,14 @@ tags:
 - rpg
 - ttrpg
 - games
+img_path: "../../assets/img/"
+image:
+  path: templateHeaders/pinocchio.jpg
+  alt: 'Pinocchio'
+date: 2024-06-27 12:50 -0700
 ---
 
-
-# Two Truths and a Lie approach to NPC design.
+# Two Truths and a Lie approach to NPC design
 
 All you have to do is imagine a character and say three things that are true.
 
