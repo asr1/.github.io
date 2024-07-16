@@ -31,3 +31,7 @@ Below are things I've learned or found interesting in the past month:
 8. American vs Finnish [customer service](https://x.com/xuenay/status/1809646222568743003?t=Jnvip6Vao08fC7NeDvjTGg&s=19) (anecdotal).
 
 9. [This thread](https://x.com/Ben_Reinhardt/status/1810485825936691352?t=6G5o6YmSnGO7d5kfOIS-1w&s=19) about our waning ability to accomplish things (related to forgotten knowledge). Mostly around bureaucracy ($30 million to fix a vibration problem at a nuclear plant that would be fixed in a matter of hours at a conventional power plant) and knock on effects ("There used to be tons of smaller trucks on the road before Obama-era emissions standards made them near impossible. Since standards decrease as vehicle size increases, the easiest way for manufacturers to comply is to build a bigger truck.").
+
+10. In 1968, the Stock Market used to [close on Wednesdays](https://money.stackexchange.com/questions/39335/did-the-new-york-stock-exchange-ever-close-on-a-weekday-so-they-could-file-paper) to catch up on paperwork, something hard to imagine in the modern day of computerized trading.
+
+11. Jake's Crawfish bar in Portland, Oregon had a urinal duct [built in to the floor beneath the bar](https://www.tripadvisor.com/LocationPhotoDirectLink-g52024-d461347-i36982246-Jake_s_Famous_Crawfish-Portland_Oregon.html) for, uh, efficiency?
