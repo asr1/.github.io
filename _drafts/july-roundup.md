@@ -35,3 +35,11 @@ Below are things I've learned or found interesting in the past month:
 10. In 1968, the Stock Market used to [close on Wednesdays](https://money.stackexchange.com/questions/39335/did-the-new-york-stock-exchange-ever-close-on-a-weekday-so-they-could-file-paper) to catch up on paperwork, something hard to imagine in the modern day of computerized trading.
 
 11. Jake's Crawfish bar in Portland, Oregon had a urinal duct [built in to the floor beneath the bar](https://www.tripadvisor.com/LocationPhotoDirectLink-g52024-d461347-i36982246-Jake_s_Famous_Crawfish-Portland_Oregon.html) for, uh, efficiency?
+
+12. Concrete never stops hardening while moisture is present. The Hoover Dam was built to outlast humanity, and concrete from the project [is still settling today](https://delzottoproducts.com/2017/03/15/long-will-take-concrete-hoover-dam-cure/).
+
+13. This thread (and quoted tweets) about ["raising your vibration"](https://x.com/danallison/status/1813333918416056548). From one of the quotes: ![emulating the world's quietest choir](choir.png)
+
+14. Certain polymers [no longer form](https://x.com/eigenrobot/status/1813083463722934711?t=Acs_1EG41r6x06pVeBEHBQ&s=19) because they have been exposed to a more stable form. This had disastrous effects on ritonavir, an HIV medication, where the stable alternative lacks the medicinal effects of the original. Of especial note, the corruption is so virile that hiring someone who previously was exposed to the more stable form is enough to ruin production at future facilities.
+
+15. The US gets[ more tornados than any other country](https://www.cnn.com/2022/11/28/weather/us-leads-tornado-numbers-tornado-alley-xpn/index.html). Estimates claim as many as 75% of the world's tornados occur in the US, though this number may be inflated due to [under-reporting in places like Russia](https://www.britannica.com/story/why-does-the-united-states-have-more-tornadoes-than-any-other-country) and Australia.
