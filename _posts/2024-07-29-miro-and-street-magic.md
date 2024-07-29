@@ -24,3 +24,17 @@ This weekend, I used Miro for a game of *i'm sorry did you say street magic*, a 
 I don't see myself using it for most RPGs, but for a storytelling game, or something like Fiasco, Miro is a great tool to quickly spin up some notecards everyone can see.
 
 ![Miro board](street-magic-miro.png)
+
+We created a floating city, prone to floods, with large high rises where wealthy elites live. A place of fantasy and magic. A place of humanity.
+
+Visitors to the city would inevitably end up at the Door, a restaurant that floated on a door in the docks district. The only place where the noise of the docks can be tuned out by those who don't hear it every day. A place to grab din among the din.
+
+The diner is run by two twin brothers who are never seen at the same time. They show their appreciation for their customers in their own ways — one with words, and one with food. No one leaves hungry.
+
+Our city has a library, a place with Too Many Books. It has a statue that looks like an upended toilet, but is actually load bearing, the only thing keeping the enormous snooty community of Ocean Heights viable.
+
+We told a story of the Flood, a pouring of broth and beef spun out from the broth and beef between the brothers. They fought, no one knows over what (but of course they speculate), and the whole city feels the divide. Some say the food at the Door has never been as good as it was before the storm, but visitors can't imagine it ever being better.
+
+Cities change. Especially this one, where if you believe in something hard enough, it becomes true. More so here than in any other city. There's an essence to this place. A spirit. It's listening. It's spinning. It's changing.
+
+Stop on by when you're around.
