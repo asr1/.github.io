@@ -10,6 +10,7 @@ img_path: "../../assets/img/"
 image:
   path: templateHeaders/roundup.jpg
   alt: A wide shot of a library
+date: 2024-07-30 19:06 -0700
 ---
 Below are things I've learned or found interesting in the past month:
 
@@ -43,3 +44,9 @@ Below are things I've learned or found interesting in the past month:
 14. Certain polymers [no longer form](https://x.com/eigenrobot/status/1813083463722934711?t=Acs_1EG41r6x06pVeBEHBQ&s=19) because they have been exposed to a more stable form. This had disastrous effects on ritonavir, an HIV medication, where the stable alternative lacks the medicinal effects of the original. Of especial note, the corruption is so virile that hiring someone who previously was exposed to the more stable form is enough to ruin production at future facilities.
 
 15. The US gets[ more tornados than any other country](https://www.cnn.com/2022/11/28/weather/us-leads-tornado-numbers-tornado-alley-xpn/index.html). Estimates claim as many as 75% of the world's tornados occur in the US, though this number may be inflated due to [under-reporting in places like Russia](https://www.britannica.com/story/why-does-the-united-states-have-more-tornadoes-than-any-other-country) and Australia.
+
+16. Anecdotally, I've heard that Friday afternoons are the best time to send marketing emails, while Sundays are especially terrible. Sendgrid suggests that [Tuesday at 11am is an ideal time](https://sendgrid.com/en-us/blog/the-best-time,-to-send-your-email-campaign), but notes that you should avoid peak times. Another example where the more people take the advice, the less applicable it is. See also, [the tragedy of the commons.](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
+
+17. [WaPo analyzes](https://www.washingtonpost.com/climate-environment/interactive/2024/how-accurate-is-the-weather-forecast/) how accurate weather forecasting is across the US.
+
+![Weather map](wapo-weather.png)

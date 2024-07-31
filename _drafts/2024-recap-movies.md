@@ -19,6 +19,7 @@ Below is the list of movies I've seen this year, very roughly sorted by how much
 * **Venom 2: Let There Be Carnage** *Not nearly as charming as the first. Lots of callbacks to jokes that were done better the first time around.*
 
 * **The Disruptors**
+* **But I'm a Cheerleader**
 * **Terminator 2: Judgment Day** (rewatch) *Not nearly as good as I remember, and not nearly as tightly scripted as the first one.*
 
 * **The Goldfinch**
