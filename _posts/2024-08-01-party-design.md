@@ -6,8 +6,12 @@ categories:
 tags:
 - party
 - culture
+img_path: "../../assets/img/"
+image:
+  path: templateHeaders/party.jpg
+  alt: Neon lights surround a group of teens dancing under red disco lights
+date: 2024-08-01 19:04 -0700
 ---
-
 So you want to throw a party. Get some friends together to hang out, maybe a group that doesn't all know each other. Great! How do you do it?
 
 I'm no expert on parties, but I've been to a bunch of bad ones and a handful of good ones. I've talked to people about what isn't working, especially as they leave. Here's what I've noticed:
