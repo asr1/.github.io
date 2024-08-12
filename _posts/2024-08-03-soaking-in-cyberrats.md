@@ -62,6 +62,8 @@ It's true! I really like the threshold mechanic! And in a game where we didn't h
 
 It does present a problem where your numbers get really big without getting too powerful. If you have 20 hit points and 10 threshold, the only attacks that are going to hit you are going to hit you **hard**.
 
+![Soak vs Bastion](soak-vs-bastion.png)
+
 But these kinds of problems can be designed around.
 
 For now? For Cyberrats? 
