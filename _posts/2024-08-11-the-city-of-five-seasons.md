@@ -2,6 +2,8 @@
 layout: post
 title: The city of five seasons
 date: 2024-08-11 21:36 -0700
+categories:
+- Misc
 ---
 Cedar Rapids is the second-largest city in Iowa, after the capital. It's a city that's only relevant on leap years because Iowa is the first state to hold a caucus, the first step in the Byzantine process of electing someone to preside over our fractured congress.
 

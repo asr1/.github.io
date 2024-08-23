@@ -8,7 +8,6 @@ tags:
 - movies
 - music
 - tv
-- video-games
 date: 2024-07-28 18:04 -0700
 ---
 *I considered this as an entry to my [Digital Garden](https://garden.alexrinehart.net/), but that is a place for organizing personal thoughts, and this is a place to share. These, I want to share. I may continue this series in the future*
