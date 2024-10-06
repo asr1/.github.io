@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The city of five seasons
+title: The City of Five Smells
 date: 2024-08-11 21:36 -0700
 categories:
 - Misc
