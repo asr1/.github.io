@@ -1,0 +1,91 @@
+---
+layout: post
+title: '2 and 1: Tech'
+categories:
+- Technology
+- 2 and 1
+tags:
+- tech
+- tablet
+- pushbullet
+- twilight
+- pokemon
+- nintendo
+- video-games
+img_path: "../../assets/img/"
+image:
+  path: templateHeaders/advancedTechniques.jpg
+  alt: High tech blue swirls.
+---
+
+# Two pieces of technology that I love, and one that I do not.
+
+*I am not affiliated with any of the below products or companies.*
+
+We use pieces of technology every day. The best ones are entirely invisible to us. My phone is rarely a source of frustration to me, and yet it doesn't make this list. There's no use writing about how great my phone is. There isn't anyone lacking a phone I would persuade to desire one, and nothing novel I can present to those who have them.
+
+## Charge brick
+
+And yet here I am writing about my phone. 
+
+For years I used my phone as-is, out of the box. I used it in a way the youths of today would call "raw-dogging". Countless ads (especially on [meh.com](https://meh.com)) attempted to sell me on why I needed a portable charger for my phone. I resisted. 
+
+I used my phone until it died, and then I charged it. If I needed a boost during the day, I'd find a cable and plug it into a nearby laptop, car, or wall. 
+
+And then I started playing [Pokemon Go]({% link _posts/2024-08-22-pokemon-go-2024.md%}) again, and I found my phone dying more often.
+
+I also started traveling again, and it was great to not have to fight for a seat with a plug in the airport, or try to figure out where the "outlet under every seat" had been hidden on *this* model of plane (if it had one at all). The charge brick meant never having to plug my phone into the seatback USB charager, fighting for bouyancy as my phone stays steady at 39% for the duration of the flight.
+
+The charge brick is utility, but it's also peace of mind. Not just when I flying and I know I'll need GPS directions to my hotel, but also for my day-to-day thoughts. 
+
+I use Pushbullet constantly. My home screen looks like this:
+
+![Minimalistic phone screen with labels instead of apps. They read Web, Pushyb, Audio, Log, More](homescreen.png)
+
+Pushbullet is one of two apps I can open with one click. The other is my web browser. Technically, I can also open my timers and alarms by clicking on the clock at the top of the screen. 
+
+I use Pushbullet to send ideas to myself, ideas, todos and snippets of thoughts I want to act on later. Sometimes these languish for hours or days as persistent notification. If my phone dies, these notifications disappear, and I have to trawl back through my history to see what items were outstanding. 
+
+I don't like letting my phone die.
+
+## Nintendo Switch
+
+The Nintendo Switch is one of the most marvelous pieces of technology around. 
+
+I mostly play it in handheld mode, where it is light and portable (compare to the bulky Steam Deck), while having a good screen size and a shape that is somehow comfortable for my massive hands. 
+
+It can also seamlessly dock and project to a TV without having to fiddle with lining up ports or cables. The controllers slide on and off, *and also instantly pair to bluetooth when they do!*
+
+If you can look at this machine and not see a sense of wonder, back up! You are too close to the source! Sure, it's got a flimsy little half-assed kickstand. Sure, the internal storage can fill up quickly *unless you slide a tiny little terabyte into its memory slot!* This device is incredible! It can suspend games at any moment by going to the main screen. It all *just works*.
+
+Nintendo (along with Apple) have long been masters of handheld hardware. But sometimes, you just gotta marvel.
+
+## Tablet
+
+Years ago, I borrowed a tablet form a friend. I don't know what kind it was, but I loved it. It was small and reliable, and I could use it to read comics. 
+
+Then, it started getting slow. The comics app I was using (Marvel Unlimited, mostly) started bogging down. 
+
+I realized the tablet was very old, and went to replace it.
+
+What I bought was the **Lenovo Tab P11 Plus**. I do not recommend the **Lenovo Tab P11 Plus**. I do not particularly like the **Lenovo Tab P11 Plus**. Here is why.
+
+1. When I bought the **Lenovo Tab P11 Plus**, it was full of bloatware. It had more than 30 apps I needed to uninstall one-by-one. This included, inexplicably, two different version of Candy Crush.[^1]. I had to uninstall these individually, and was frequently asked if I wanted to add *even more* applications. 
+
+I did not. I only wanted my comic readers, Pushbullet (see above), and Twilight.
+
+2. The size. This one is on me. I did not measure my friend's tablet, and I went to the store and got something I thought would be similar. When I brought it home and laid in bed, I realized I had made a huge mistake (literally): the thing is MASSIVE. It's not particularly comfortable to hold in your hands, especially while laying down. Now, I've managed to find a position that isn't entirely uncomfortable, but the thing is rather cumbersome.
+
+3. The battery life. No, wait! The battery life is actually pretty good! If I'm reading comics, I can go for several hours without needed a charge. And yet, it's always dead when I want to use it. Why? Two reasons:
+
+a. It always turns itself on. Night after night, this device wakes itself up, shines at full brightness for a bit, and then goes back to sleep. I've turned off all notifications, I've turned on do not disturb mode, I've installed "app wakeup monitors". Nothing works! I can only assume it's some bloatware that I missed, probably waking up to spy on me.
+
+b. Most devices, when they are off, preserve battery. Not this little guy! SLURP SLURP, this sucker is THIRSTY for juice, and it I turn it off for 2 weeks, it'll be at 0%. I can only assume that off isn't really off for this guy. Not in the way that you or I understand it.
+
+The only other Lenovo products I've used are their laptops where they swap function and control from *every other keyboard* for new good reason. Yes, I'm aware this can be toggled in the BIOS. No, I don't think that's an acceptable excuse. 
+
+When this guy dies, I'll probably try an iPad mini out for size.
+
+
+
+[^1]: It probably is explicable pretty easily: money. To a consumer, it's inexcusable.
