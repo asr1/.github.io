@@ -5,10 +5,9 @@ categories:
 - Personal
 tags:
 - lacy
-permalink: tutorials/roll20-character-sheet/10
 img_path: "../../assets/img/"
 image:
-  path: templateHeaders/lacy.jpg
+  path: templateHeaders/lacy.png
   alt: A brown dog on a pink leash
 date: 2024-10-18 20:03 -0700
 ---
@@ -39,8 +38,6 @@ It wasn't funny then, but I can laugh now.
 
 A week ago we said goodbye to our dog. When I broke the news to a friend, he responded like this 
 
-
-![Minimalistic phone screen with labels instead of apps. They read Web, Pushyb, Audio, Log, More](homescreen.png)
 ![Screenshot of a message saying 'I'll be telling stories about Lacy for the rest of my life. She was a special girl.](kyletext.png)
 
 The first time this friend (we'll call him Kyle, because well, that's his name) met Lacy it was to drive her to be boarded for a couple days while my wife and I were traveling. Kyle pulled up and popped his trunk to put her food in the back. Without hesitation, Lacy jumped in to trunk, resurfacing with a tennis ball she had found inside. She immediately and implicitly loved everyone she ever met.
