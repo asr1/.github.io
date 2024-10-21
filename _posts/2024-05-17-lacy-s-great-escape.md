@@ -26,7 +26,7 @@ I used to work about thirty minute from my home. Part of the joy of this door is
 
 As I was processing this, my wife called.
 
-"Hey, I just got a call from the mail main, he has our dog."
+"Hey, I just got a call from the mail man, he has our dog."
 
 "Oh, the mail man! That makes more sense, I just got a voice mail, and I thought it was the milk man."
 
