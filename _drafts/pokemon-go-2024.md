@@ -1,0 +1,29 @@
+---
+layout: post
+title: Pokemon Go (2024)
+categories:
+- Video Games
+tags:
+- video-games
+- pokemon
+---
+
+Like everyone else, I played Pokemon Go in 2026. And like many people, I put it down sometime in 2017 (a reasonable guess in March, when I took a trip to Chicago and spun pokestops around all the famous monuments).
+
+Recently, my son started getting into it, so I reinstalled the app. Initially I did this just to give him all my "high level pokes", but it turns out I wasn't all that much higher level than he was, and he wanted to earn the pokes instead of having them given to him. Fair game!
+
+I've been enjoying the game a ton! A lot of features have been added since I last played, with daily challenges, missions resembling a plot, and at-will battling being the most compelling. There's also team rocket balloons, tons of new 'mons, and things called "routes" that I haven't had the opportunity to explore fully. 
+
+There's also raids, including Shadow raids, and purifying pokemon you get from fighting the Team Rocket grunts. 
+
+At the end of the day, it's still a free-to-pay mobile game with tons of in-game-currency and at times obvious hooks into microtransactions. But for now, I'm really enjoying it, and it's made my daily step goal both more obtainable, and has inspired me to walk well above my usual 6,000 steps. 
+
+At least for me, it definitely feels like the summer of pokemon go again (though admittedly, it's nowhere near as ubiquitous as it was then. I remember shops advertising nearby poke stops). 
+
+It really helps that there's a gym and a pokestop not far from my house, and that there are active players from rival (and friendly) factions around. My team, blue (valor?) is predominant in the area, but if I wake up early enough I can reclaim the gym myself after Red takes it late at night. 
+
+If it wasn't for that, the game would feel a lot more dead: my son dropped a Snorlax off at a gym across town days ago and has been bemoaning the fact that no one has fought it, nor has it been generating coins. It's just gone from his party until someone walks by and beats it up.
+
+---
+
+There's no grand moral here. I didn't see myself reinstalling this one, but I'm glad I did. It's a good time, and the quests make the game.

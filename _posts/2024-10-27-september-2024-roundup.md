@@ -1,6 +1,7 @@
 ---
 layout: post
 title: October 2024 Roundup
+date: 2024-10-27 10:13 -0700
 ---
 categories:
 - Roundup
@@ -35,3 +36,10 @@ One comes to mind: the expression "The game is afoot" means that the game (being
 8\. The [numbering of Popes John](https://en.wikipedia.org/wiki/Pope_John_numbering). Lots of good stuff in here, but the takeaway is that there was no Pope John XX (but there was a Pope John XXI), and Pope XVI (now considered an antipope) has been left in the order.
 
 9\. Courtesy of [XKCD](https://xkcd.com/3001/), the original Celsius scale was backwards, with 0 being the boiling point of water and 100 being the freezing point.
+
+10\. [Support for the death penalty](https://web.archive.org/web/20051227000441/http://www.texasobserver.org/showArticle.asp?ArticleID=275) seems to be down about 20 percentage points over the last 30 years. Good! 
+
+Several interesting quotes from this 1998 article. Like that the cries of communism never change. "No one in elected office will say they're against the death penalty. That's seen as practically communistic."
+
+Or this from a reverend: "Some of the very best people who are concerned about other injustices are completely silent on the death penalty," says Moore. He notes that polls show that church members, particularly Protestants, are more supportive of the death penalty than others: "Church people tend to be punitive in their attitude towards people who mess up. It's very strange. All the business you hear in church about redemption, forgiveness - if you commit a crime, then church people don't believe it applies. And if you commit a capital crime, then you're beyond the pale. Forgiveness is for small, everyday infractions."
+

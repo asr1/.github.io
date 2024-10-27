@@ -9,8 +9,8 @@ img_path: "../../assets/img/"
 image:
   path: scruffles.png
   alt: A small white dog with a censor bar over its eyes.
+date: 2024-10-25 07:50 -0700
 ---
-
 April 2024. I'm picking up my son from track practice when we spot a small white ball of fur on the sidewalk. It's a dog. A small thing, not big like Lacy. The kind of dog you could carry in your arms, almost in a purse.
 
 I pull over and we coax the dog to us. It comes, reluctantly. It's got a collar with a shock box on it, but no identifying tags. We knock on a nearby door. "Do you know this dog?" they do not.

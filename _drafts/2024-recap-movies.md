@@ -37,5 +37,6 @@ Below is the list of movies I've seen this year, very roughly sorted by how much
 * **The Mighty Ducks**
 * **Murder on the Orient Express (2017)**
 * **The Italian Job**
+* **Panic Room**
 * **Dungeons and Dragons: Honor Among Thieves** *Really fun adventure movie, in the style of The Mummy. The tiefling design was cowardice, but fun all around.*
 * **His Girl Friday** 
