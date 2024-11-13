@@ -4,8 +4,10 @@ title: A partial list of things Lacy ate (by the evidence left behind)
 date: 2024-11-01 12:45 -0700
 categories:
 - Personal
+- Lacy
 tags:
 - lacy
+- dog
 ---
 
 * One pit (6 avocados)

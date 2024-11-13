@@ -3,8 +3,11 @@ layout: post
 title: Meeting Lacy
 categories:
 - Personal
+- Lacy
+- Stories
 tags:
 - lacy
+- dog
 img_path: "../../assets/img/"
 image:
   path: templateHeaders/carride-lacy.jpg

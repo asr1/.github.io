@@ -3,6 +3,8 @@ layout: post
 title: Lacy's Great Escape
 categories:
 - Stories
+- Lacy
+- Personal
 tags:
 - stories
 - lacy

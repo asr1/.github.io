@@ -3,8 +3,12 @@ layout: post
 title: The Scruffles Saga
 categories:
 - Personal
+- Lacy
+- Stories
 tags:
 - lacy
+- dog
+- Stories
 img_path: "../../assets/img/"
 image:
   path: scruffles.png

@@ -3,8 +3,10 @@ layout: post
 title: Saying goodbye to my friend
 categories:
 - Personal
+- Lacy
 tags:
 - lacy
+- dog
 img_path: "../../assets/img/"
 image:
   path: templateHeaders/lacy.png
