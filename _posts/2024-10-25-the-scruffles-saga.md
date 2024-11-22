@@ -8,7 +8,7 @@ categories:
 tags:
 - lacy
 - dog
-- Stories
+- stories
 img_path: "../../assets/img/"
 image:
   path: scruffles.png

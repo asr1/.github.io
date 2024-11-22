@@ -9,3 +9,7 @@ Below are things I've learned, remembered, or found interesting in the past mont
 2\. [Pipe Four](https://pipefour.com/pa/), a search engine for Penny Arcade.
 
 3\. [Ants outnumber people](https://www.nbcnews.com/science/science-news/ants-how-many-number-earth-planet-population-humans-rcna48534) in every single city in the world. For every person, there are more than 2.5 MILLION ants.
+
+4\. Tom Scott, retired Youtuber and current podcaster, has a [weekly newsletter](https://www.tomscott.com/newsletter/) full of gems *he* finds online. I need to make sure not to drink too deep from this well for my own segment here!
+
+5\. 1% of the [United States's federal budget](https://strivehealth.com/news/patients-vs-profits-who-wins-in-the-traditional-u-s-dialysis-system/) is spent on kidney dialysis. That seems high!

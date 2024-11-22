@@ -7,7 +7,7 @@ categories:
 - Personal
 - Stories
 tags:
-- Stories
+- stories
 - Iowa
 ---
 Twelve years ago, my hometown spent 1.5 million dollars on corn. Not the kind you can eat, mind you, but big metal stalks in the middle of a roundabout. Not a roundabout people used, either. When the installation was installed, the roundabout was on the northernmost part of town, five stalks of corn, each ten feet tall in the middle of a roundabout with only a single entrance and exit.
