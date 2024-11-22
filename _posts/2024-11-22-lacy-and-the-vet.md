@@ -14,6 +14,10 @@ image:
   alt: A brown dog smiling in the back seat of a car
 date: 2024-11-22 12:59 -0800
 ---
+First off, let me say that Lacy loved the vet. They would get down on the ground with her, roll around and take her temperature. Lacy loved everyone, but she **especially** loved anyone who would get down on the ground with her. She had no problems jumping into the car for a ride to the vet. They spoiled her there!
+
+<hr>
+
 Lacy was a large dog. Her healthy weight was around 78 lbs. When we got her, she was close to 90. With frequent walks, runs, and playtime, we quickly trimmed her down to a much healthier weight.
 
 During the first month of COVID, before I started her daily mile, she started gaining weight again. I took her to a routine vet appointment, and my wife was sure she was going to be told that we'd have to put the dog on another diet. 
