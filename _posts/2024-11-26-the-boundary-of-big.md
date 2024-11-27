@@ -2,13 +2,12 @@
 layout: post
 title: The boundary of big
 categories:
-- misc
+- Misc
 tags:
 - stream-of-consciousness
 img_path: "../../assets/img/"
+date: 2024-11-26 18:39 -0800
 ---
-
-
 I started thinking of this from a meme that it turns out [originates from YikYak](https://knowyourmeme.com/memes/depends-on-the-context), an app I haven't thought about since 2016. I saw it in the context of fake dialogue someone had put over a Doctor Who post. One character asks "Is four a lot?" The other responds "Depends on the context. Dollars? No. Murder? Yes."
 
 ![Depends on context, the meme described above](context.png)
