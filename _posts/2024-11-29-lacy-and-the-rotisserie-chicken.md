@@ -88,11 +88,11 @@ Oops.
 
 <h2>V</h2>
 
-But this isn't a story about my dog. This is a story about a rotisserie chicken.[^2]. 
+But this isn't a story about my dog. This is a story about a rotisserie chicken.[^2]
 
 Aha, said the second neighbor. I know how to lure the dog out. I have a fresh rotisserie chicken that I can use as bait. 
 
-Sure, said the first neighbor, clearly exhausted (and very British. I hadn't mentioned that before, but she was very British and very tired sounding). And so the second neighbor retreated and returned with a hot rotisserie chicken. He held it up like bait and the white fluffy British[^3] dog carefully stepped beneath the single light illuminating the dog area t the bottom of the hill (which is, of course, at the bottom of the big hill).
+Sure, said the first neighbor, clearly exhausted (and very British. I hadn't mentioned that before, but she was very British and very tired sounding). And so the second neighbor retreated and returned with a hot rotisserie chicken. He held it up like bait and the white fluffy British[^3] dog carefully stepped beneath the single light illuminating the dog area at the bottom of the hill (which is, of course, at the bottom of the big hill).
 
 She took two cautious steps forward, but the chicken man overplayed his hand. This was, as we mentioned, a smart dog. He made a grab for her collar and she bolted back, behind the apartments and into shadow. Resigned, he lowered his arms in a gesture of defeat.
 
@@ -109,7 +109,4 @@ Eventually, we captured the dog and all went to bed. Lacy, triumphant, returned 
 [^2]: Okay, this is *also* a story about my dog.
 
 [^3]: I mean, presumably 
-
-
-Illegal, 2 dogs trench coat, late night parking lot paries, misreading the room, the chicken.
 
