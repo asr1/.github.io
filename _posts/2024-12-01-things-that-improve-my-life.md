@@ -128,6 +128,34 @@ Whenver I cut onion, I ask for my onion cutting goggles, and my kiddo will fetch
 
 Not until the milk is spilt, anyway.
 
+## [Popcorn popper](https://amzn.to/3B8PGBq) (SOR: 3/5)
+
+I like popcorn, and so do my kids. This popcorn popper lets me control the amount I make, as well as how heathy it is (I don't use a lot of butter, or very much salt at all).
+
+It makes a lot of popcorn too, if you want to! I use coconut oil, which impacts the taste slightly, but seasonings and nutritional yeast can override it.
+
+My one complaint with this one is that you have to take the lid off while it pops, or the popcorn comes out a bit soggy. Which means you need to pre-melt any butter first, or it won't drizzle on.
+
+## [Sealable Tupperware](https://amzn.to/4fVzToS) (identical) (SOR: 5/5)
+
+We have about a dozen of these identical tupperware containers for storing leftovers. No fussing about with finding the right lids, just grab, snap, and clean. The lids do need to be hand-washed, but the lack of fuss is a huge selling point.
+
+## [Reusable takeout container](https://amzn.to/3CXm4HW) (SOR: 5/5)
+
+My college dining center used these, and we bought a load of them ourselves. They're perfectly portioned to pack a meal in for work, and are microwave and dishwasher safe. 
+
+This is my daily "lunchbox", and they stack nicely too!
+
+## [A quiet dishwasher](https://www.mieleusa.com/e/dishwashers-1015063-c) (SOR: 5/5)
+
+My old dishwasher was LOUD. It was louder than a hair dryer. We would start it only when we were about to leave the house, or to sleep (on a different floor). We couldn't have conversations in or near the kitchen while it was running.
+
+When it came time to replace it, my priority was silence. I went with a Miele dishwasher, one of the quietest available. Bosch had one model that was quieter, for about 3x the price. Ours is almost *too* quiet, with guests (and sometimes the kiddos) opening it mid-cycle, not realizing it's running.
+
+Still, it's hard to explain just how much nicer a quiet kitchen is.
+
+I don't know that I recommend the Miele exclusively; it also takes a long time to run (almost 4 hours for a full load and dry), but it's a helluva lot better than what we had before!
+
 # Home
 
 ## [Air Filter ](https://amzn.to/49fchsA)(SOR: 3/5)
@@ -217,6 +245,23 @@ Every single person who has seen me use this has lit up and asked where I got it
 ## [Bag holder](https://amzn.to/3Ox5qkX) (SOR: 3/5)
 
 Do you have a bag of bags? Or a bag drawer? I don't! I have a wall-mounted bag holder, and when I need a bag, I pull one out. It's efficient!
+
+## [The Shark](https://amzn.to/4f5qjOI) (SOR: 4/5)
+
+Okay, first let me say that it doesn't *have* to be a shark, but it COULD be, and I get great joy out of the fact that mine is. 
+
+What am I talking about? This:
+
+![shark hamper](https://m.media-amazon.com/images/I/81I7P6Ms28L._AC_SX679_.jpg)
+
+It's a hamper in the shape of a shark. My laundry unit is on a different floor than my kitchen. So tucked in a small bathroom we have the shark. If you need to replace a towel or washcloth, or if one falls on the floor, you "feed it to the shark". That way we don't have a pile of dirty rags piling up in the sink, and we can easily carry a load of towels and the like up to be washed.
+
+Like I said, any old hamper will do, but the shark is both charming, as well as being a convenient shorthand.
+
+There is one rule though: whenever you empty it into the laundry machine, you've gotta make terrible wretching noises.
+
+*This model is glow-in-the-dark. Mine is not. Be warned.*
+
 
 # Clothes
 

@@ -13,3 +13,7 @@ Below are things I've learned, remembered, or found interesting in the past mont
 4\. Tom Scott, retired Youtuber and current podcaster, has a [weekly newsletter](https://www.tomscott.com/newsletter/) full of gems *he* finds online. I need to make sure not to drink too deep from this well for my own segment here!
 
 5\. 1% of the [United States's federal budget](https://strivehealth.com/news/patients-vs-profits-who-wins-in-the-traditional-u-s-dialysis-system/) is spent on kidney dialysis. That seems high!
+
+6\. Some elevators have a seismic button, which calls the elevator to the nearest floor, opens the doors, and applies brakes. More interestingly, elevators have a [fandom wiki](https://elevation.fandom.com/wiki/Earthquake_emergency_return_(EER))! I can't believe it isn't called "Liftipedia".
+
+7\. [This article](https://augmentingcognition.com/ltm.html) about using Anki to learn, memorize, and understand complex topics.
