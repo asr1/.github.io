@@ -13,6 +13,9 @@ image:
   alt: High tech blue swirls.
 date: 2024-12-01 17:10 -0800
 ---
+
+# A frugal man's essentials
+
 Back in late October, I [made a post]({% link _posts/2024-10-22-2-and-1-tech.md%})  about two things I love and one thing I don't. It ended up being one of my more popular posts, so I'm expanding it today to a full list of things I recommend.
 
 Inspired by posts like [this one](https://s8mb.medium.com/things-i-recommend-you-buy-and-use-second-edition-457a8e7163f6) by Sam Bowman, what follows is a list of things I've purchased that have improved my life.

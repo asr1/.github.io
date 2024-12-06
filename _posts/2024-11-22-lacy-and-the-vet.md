@@ -42,4 +42,22 @@ Whenever we'd take her to the vet, Lacy would walk up to the counter, stand up a
 
 This habit was largely broken when she tried to do the same at the Pet Smart, but choose not a counter but a swinging wooden door to lean her weight on. The door swung forward, Lacy with it, and she panicked, reverting to her normal, unenlightened form.
 
+<hr>
+
+Lacy used to drink a lot of water. A **lot** of water. On two separate occasions, we took her to the vet and had the following conversation:
+
+Us: She drinks a lot of water
+
+Vet: She's a big dog, that's normal.
+
+Us: Like a gallon a day.
+
+Vet: That's concerning, let's run tests!
+
+Vet: Okay, we've ran some tests and learned that Lacy **really** likes water. That'll be $300
+
+This happened TWICE!
+
+<hr>
+
 *For the rest of 2024, each Friday I am sharing a story about my dog. We said goodbye to Lacy in October. From the Hart is wearing black and acting in a somber fashion.*

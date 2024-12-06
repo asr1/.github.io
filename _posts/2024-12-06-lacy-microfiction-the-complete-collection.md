@@ -1,8 +1,19 @@
 ---
 layout: post
 title: 'Lacy microfiction: the complete collection'
+categories:
+- Personal
+- Lacy
+- Stories
+tags:
+- lacy
+- dog
+img_path: "../../assets/img/"
+image:
+  path: templateHeaders/lacytweet.jpg
+  alt: A tweet reading "Devastated to announce that I have good news for whoever previously had the second-best dog in the world."
+date: 2024-12-06 12:39 -0800
 ---
-
 In 2021, I started tweeting microfiction about my dog.
 
 Here is the complete set:
@@ -94,4 +105,8 @@ Late at night, she smells like home.
 * Lacy isn't allowed in Seattle anymore. Last time we were there, she picked up the Space Needle and carried it around like a large bone
 * Lacy's tail always points due East.
 
-This makes her particularly difficult to walk
+This makes her particularly difficult to walk.
+
+<hr>
+
+*For the rest of 2024, each Friday I am sharing a story about my dog. We said goodbye to Lacy in October. From the Hart is wearing black and acting in a somber fashion.*
