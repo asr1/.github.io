@@ -199,20 +199,6 @@ Like I said, I get a lot of mail. Most letter openers are bulky and heavy, but t
 
 I don't expect most people to get as much use out of these as I do, but I love mine. Full disclosure: I got mine as a freebie from a career fair a decade ago from a company I had no interest in working for and do not remember the name of (even though it's firmly stamped upon my letter opener.)
 
-## [Bidet](https://amzn.to/4icR8n4) (SOR: 4/5)
-
-I've always been reluctant to poop in public restrooms, and that was before I got a bidet. It has recently been brought to my attention that everybody poops. I don't know what I can say about a bidet that has not already been said: it's clean, it uses far less toilet paper, easy to install, it's good!
-
-This model is actually nicer than the one I have. Mine came attached to a plastic toilet seat, whereas the one above seems like it works with your existing toilet seats. 
-
-Speaking of,
-
-## [Slow fall toilet seat](https://amzn.to/3ViHBkF) (SOR: 2/5)
-
-This is firmly in the "nice to have" category, but I do notice it, especially when I'm at friends' houses who don't have them. Pssss CRASH! Flush. That's the sound of me peeing and then embarrassing myself as I throw the toilet seat down with the full force of Thor.
-
-Anyway, make sure you get one that matches the shape of your toilet bowl (round vs elongated).
-
 ## [Outlet splitters](https://amzn.to/3OAjlXu) (SOR: 5/5)
 
 Do you have enough outlets? I don't! Near my desk, I keep a lamp, an an air purifier, occasionally a fan, a diffuser, and a phone charger. That's more than two things!
@@ -288,6 +274,28 @@ My hair doesn't always like to cooperate (that's one reason I'm often bald). The
 
 I don't know anything about fashion, but I often get complements when wearing these, so they must be working for me.
 
+# Bathroom
+
+## [Removable showerhead](https://amzn.to/49uE4Fs) (SOR: 5/5)
+
+I'm 6'4. I've spent years living in places that only had fixed showerheads. This is probably the single biggest improvement to my life on this list. If you don't have a showerhead that you can lift from its cradle, hold above your head, or angle how you need, I cannot recommend one highly enough. It's simple, it's cheap, and you'll use it every day.
+
+I assume most of the people reading this have one of these. The first draft of this left it off entirely. But by gum, this thing improves my life and I don't know what this list would be about without it.
+
+## [Bidet](https://amzn.to/4icR8n4) (SOR: 4/5)
+
+I've always been reluctant to poop in public restrooms, and that was before I got a bidet. It has recently been brought to my attention that everybody poops. I don't know what I can say about a bidet that has not already been said: it's clean, it uses far less toilet paper, easy to install, it's good!
+
+This model is actually nicer than the one I have. Mine came attached to a plastic toilet seat, whereas the one above seems like it works with your existing toilet seats. 
+
+Speaking of,
+
+## [Slow fall toilet seat](https://amzn.to/3ViHBkF) (SOR: 2/5)
+
+This is firmly in the "nice to have" category, but I do notice it, especially when I'm at friends' houses who don't have them. Pssss CRASH! Flush. That's the sound of me peeing and then embarrassing myself as I throw the toilet seat down with the full force of Thor.
+
+Anyway, make sure you get one that matches the shape of your toilet bowl (round vs elongated).
+
 # Technology and hardware
 
 Note: I will do a separate follow-up post about software. Most of the software I use is free, this post is long, and it feels like a different vibe. I'll link it here when I do.
@@ -317,10 +325,11 @@ I shouldn't bad-talk Amazon here with these affiliate links I'm tossing around. 
 But there's a few reasons I stick with my nook over what seems to be the better Kindle. 
 
 1. Amazon uses DRM on their books. I like to own my books. Bah!
-2. The Nook isn't *that much* worse. It's still very usable!
-3. There are no ads on the Nook. I don't like ads. Especially on something I paid to use!
-4. I can preview ebooks while inside a Barnes and Noble store. It's neat!
-5. I like rooting for the underdog, and I'm glad this exists.
+2. Related, Amazon uses proprietary book formats.
+3. The Nook isn't *that much* worse. It's still very usable!
+4. There are no ads on the Nook. I don't like ads. Especially on something I paid to use!
+5. ~~I can preview ebooks while inside a Barnes and Noble store. It's neat!~~ Read in store was discontinued in April of 2024 :(
+6. I like rooting for the underdog, and I'm glad this exists.
 
 Probably I should recommend the Kindle here. I won't. I haven't really used one enough to say, and I do like my Nook. But I can't in good faith give it a 5/5 recommendation to you without knowing what's important to you. 
 

@@ -19,6 +19,11 @@ Jekyll build! I think
 
 Must use bundle exec in front because of version mismatch?
 
+### Including a picture or image
+
+![Lacy sniffing some red and pink leaves, her tail standing upright](Lacy-in-leaves.png)
+
+
 ### Serving locally with drafts
 bundle exec jekyll s --drafts  
 http://localhost:4000/

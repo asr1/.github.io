@@ -29,6 +29,7 @@ Below is the list of movies I've seen this year, very roughly sorted by how much
 * **Thank You For Smoking**
 * **North By Northwest**
 * **Frost/Nixon**
+* **Love Actually**
 * **Terminator** (rewatch)
 * **21 Jump Street (2012)** *Brie Larson can act! Turns out her wooden Captain Marvel was a directorial decision.
  

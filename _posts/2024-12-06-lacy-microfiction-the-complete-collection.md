@@ -10,7 +10,7 @@ tags:
 - dog
 img_path: "../../assets/img/"
 image:
-  path: templateHeaders/lacytweet.jpg
+  path: templateHeaders/lacytweet.png
   alt: A tweet reading "Devastated to announce that I have good news for whoever previously had the second-best dog in the world."
 date: 2024-12-06 12:39 -0800
 ---
