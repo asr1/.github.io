@@ -10,7 +10,7 @@ tags:
 - dog
 img_path: "../../assets/img/"
 image:
-  path: templateHeaders/lacyEyes.png
+  path: lacyEyes.png
   alt: A chocolate lab looking lovingly at the camera
 date: 2024-12-13 10:35 -0800
 ---
