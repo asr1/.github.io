@@ -19,6 +19,7 @@ Below is the list of movies I've seen this year, very roughly sorted by how much
 * **Venom 2: Let There Be Carnage** *Not nearly as charming as the first. Lots of callbacks to jokes that were done better the first time around.*
 
 * **The Disruptors**
+* **Soul Music**
 * **But I'm a Cheerleader**
 * **Terminator 2: Judgment Day** (rewatch) *Not nearly as good as I remember, and not nearly as tightly scripted as the first one.*
 
@@ -38,6 +39,7 @@ Below is the list of movies I've seen this year, very roughly sorted by how much
 * **The Mighty Ducks**
 * **Murder on the Orient Express (2017)**
 * **The Italian Job**
+* **Memento**
 * **Panic Room**
 * **Dungeons and Dragons: Honor Among Thieves** *Really fun adventure movie, in the style of The Mummy. The tiefling design was cowardice, but fun all around.*
 * **His Girl Friday** 
