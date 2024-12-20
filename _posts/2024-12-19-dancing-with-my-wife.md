@@ -12,8 +12,8 @@ img_path: "../../assets/img/"
 image:
   path: lacyEyes.png
   alt: A chocolate lab looking lovingly at the camera
+date: 2024-12-19 21:08 -0800
 ---
-
 Lacy had incredible comedic timing, usually with her tail. She would let out a hearty thump after a burp or off-color comment, or medical concern. "Don't thump for that!" we'd alway chide with a laugh.
 
 Other times, she'd let out a sigh or grumble after a complaint and we'd take it as her whole-hearted agreement.
@@ -27,7 +27,7 @@ But I did see Lacy get upset twice. On two occasions she threatened me because s
 
 The first time was before my wedding. Courtney and I were dancing. Or rather, we were trying to learn how to dance from a terrible DVD we'd purchased for too much money. 
 
-Lacy liked to be where the people were[^1]. If we were gaming, she'd sleep under the table. If we were watching a movie, she'd sleep next to us. She was a sleepy girl.
+Lacy liked to be where the people were[^1]. If we were gaming, she'd sleep under the table[^2]. If we were watching a movie, she'd sleep next to us. She was a sleepy girl.
 
 I would never tell Lacy that she was in the way, but she had a habit of being, well, underfoot. Or in exactly the least convenient spot. She we set up a barricade of sorts. Two tall-backed kitchen chairs stacked next to each other, blocking off the living room entrance so we could dance.
 
@@ -39,7 +39,7 @@ The video started with basics, and we got those down. Then it moved to dips. Dip
 
 I did a dip. Or rather, I tried — if I'd watched the video just a few more seconds, I would have heard the follow up. "You probably just dropped your partner! Here's how to do a dip without dropping them." Did I mention the video was terrible?
 
-Anyway, Courtney and I are dancing, and — from Lacy's point of view —, I throw her onto the ground. Courtney, falling, pulls me down with her. Again, to Lacy it looks like I just double tapped my elbow[^2] and threw Courtney to the grown, diving atop her.
+Anyway, Courtney and I are dancing, and — from Lacy's point of view —, I throw her onto the ground. Courtney, falling, pulls me down with her. Again, to Lacy it looks like I just double tapped my elbow[^3] and threw Courtney to the grown, diving atop her.
 
 In an instant, Lacy went from sitting to CLEARING both chairs, growling and snarling at me. She was ready to take me OUT. She didn't like it, but her hackles were up. Courtney started laughing the moment her butt hit the ground, and that told Lacy it was okay. I also put my hands up and insisted we were cool. Lacy dropped her hackles and *immediately* zoomed around the living room to burn off her fight-or-flight.
 
@@ -57,4 +57,6 @@ She was a very, very good girl.
 
  [^1]: We married twice, first outdoors during covid, and again a few years later with family. During the first wedding (a double wedding with two couples serving as each other's witnesses), Lacy stuck her head up *both* bride's dresses at inopportune times. We didn't want to repeat this.
  
- [^2]: In the international sign for "luchador"
+ [^2]: Lacy wasn't a beggar, not in the traditional sense. What she would do if you had food was sit nearby and just *breathe heavily* at you, as a reminder that she was there, and that if you *had* food and felt so inclined, you could throw some her way. When we'd host board game events, sometimes our guests only interactions with her would be 1. Greeted at the door, toy in mouth. 2. Dinner + grunts and heavy breathing. 3. Sleeping (and snoring!) under the table. Several of our friends thought she had asthma, but no, she was mostly doing that by choice. One particularly funny moment came a few years ago when a friend dogsat her while we were out of town. The husband woke in a hurry to run over to check on Lacy. "She's not breathing!" he yelled, certain something was wrong. Turns out, she was just relaxing, but he'd never heard her when she was awake and there wasn't food nearby.
+ 
+ [^3]: In the international sign for "luchador"
