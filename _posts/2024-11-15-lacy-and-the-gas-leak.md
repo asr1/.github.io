@@ -30,7 +30,7 @@ I told Lacy it was a big hurry, so she ran at full pace... until we got down the
 
 Let me back up.
 
-Most of the time on Lacy's walks, she would pass yards no problem. There were 3 exceptions: The yard bone house (I'll link this once I tell thst story), and two yards that she would stop, roll around frantically, sploot out on her belly, and then stand up, shake herself off, and walk away with an entirely unearned air of dignity. Always the same two yards.
+Most of the time on Lacy's walks, she would pass yards no problem. There were 3 exceptions: The yard bone[^1] house, and two yards that she would stop, roll around frantically, sploot out on her belly, and then stand up, shake herself off, and walk away with an entirely unearned air of dignity. Always the same two yards.
 
 Anyway, we passed a Frolic Yard, and Lacy, heedless of my calls for urgency, decided it was a good time to stop and frolic. 
 
@@ -45,3 +45,6 @@ At one point, she tried to jump onto the back of the fire truck for a ride, and 
 Anyway, that's a lot of words to describe the time when I smelled gas and ran home with Lacy... who decided it was a good time to roll around and frolic in the grass. Lacy!
 
 Miss ya, pups.
+
+
+[^1]: One of our neighbors, Hector, had a big smoker he would use to make ribs. He was a big fan of Lacy. Once, after the smell of pork ribs filled our neighborhood, we took Lacy on a walk. Passing by his yard, Lacy leapt into motion and grabbed a bone, chewing on it furiously. With great effort, we pried it away from her. It still smelled of smoke and barbecue. For years following, Lacy would check that yard, just in case another offering to her had been made. We always joked that when we boarded her, she would tell the other dogs about Yard Bone, and they would roll their eyes and say "there's no such thing as yard bone, Lacy!" The day she passed, we imagined Lacy meeting with dogs we'd known in the past, telling them too about Yard Bone and her best walk ever.

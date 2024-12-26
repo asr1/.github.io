@@ -1,7 +1,16 @@
 ---
 layout: post
-title: November Roundup
+title: December 2024 Roundup
 img_path: "../../assets/img/"
+categories:
+- Roundup
+tags:
+- roundup
+- links
+image:
+  path: templateHeaders/roundup.jpg
+  alt: A wide shot of a library
+date: 2024-12-26 11:12 -0800
 ---
 Below are things I've learned, remembered, or found interesting in the past month: 
 
@@ -34,25 +43,21 @@ Below are things I've learned, remembered, or found interesting in the past mont
 14. [This Bluesky thread from Rahaeli](https://bsky.app/profile/rahaeli.bsky.social/post/3kokvktglp72o) about what to do if your insurance decides a procedure isn't medically necessary. The original thread is good, but the gist of it is to ask in writing for the name, license number, and speciality of the doctor making the decision that it was not necessary, as well as the materials they used to make that decision.  
 ![Bluesky post](bluesky_medical.jpg)
 
-15. Courtesy of [this comic](https://bsky.app/profile/rosemarymosco.com/post/3lcxjfg3l6s22), I learned that domestic pigeons used to be bred in all kinds of [colors and varieties](https://en.wikipedia.org/wiki/Domestic_pigeon).
+1.  Courtesy of [this comic](https://bsky.app/profile/rosemarymosco.com/post/3lcxjfg3l6s22), I learned that domestic pigeons used to be bred in all kinds of [colors and varieties](https://en.wikipedia.org/wiki/Domestic_pigeon).
 
-16. From the cyberpunk chat: [Coca-Cola has a corporate propaganda arm](https://en.wikipedia.org/wiki/The_Coca-Cola_Company#Front_groups), and has been found using shell companies to basically do that one scene from Thank You For Smoking over the past twenty years (or more!)
+2.  From the cyberpunk chat: [Coca-Cola has a corporate propaganda arm](https://en.wikipedia.org/wiki/The_Coca-Cola_Company#Front_groups), and has been found using shell companies to basically do that one scene from Thank You For Smoking over the past twenty years (or more!)
 
-17. Illinois is in the process of [designing a new flag](https://www.ilsos.gov/special/IFC/home.html). The[ top ten finalists (PDF link)](https://www.ilsos.gov/special/IFC/10finalists.pdf) include some good designs, as well as one that is just the existing flag plus a couple additional lines. As funny as it would be to go through this whole process and barely modify the flag (I live in a county that [renamed itself](https://www.historylink.org/File/11261) *to the same name*), I do have to admit that the addition of the lines **is** a marked improvement over the existing.
+3.  Illinois is in the process of [designing a new flag](https://www.ilsos.gov/special/IFC/home.html). The[ top ten finalists (PDF link)](https://www.ilsos.gov/special/IFC/10finalists.pdf) include some good designs, as well as one that is just the existing flag plus a couple additional lines. As funny as it would be to go through this whole process and barely modify the flag (I live in a county that [renamed itself](https://www.historylink.org/File/11261) *to the same name*), I do have to admit that the addition of the lines **is** a marked improvement over the existing.
 
-18. If you've ever been to the Sistine Chapel in the Vatican, you'd know that there's no photography allowed. I tusked at the new Indiana Jones game when a sidequest had me take a picture of the ceiling, which made me wonder if this rule would have been in effect in 1936. It turns out no!  
+4.  If you've ever been to the Sistine Chapel in the Vatican, you'd know that there's no photography allowed. I tusked at the new Indiana Jones game when a sidequest had me take a picture of the ceiling, which made me wonder if this rule would have been in effect in 1936. It turns out no!  
 The Sistine Chapel's ban on photography is not out of religious respect or to preserve the paintings, but because a Japanese company paid for [exclusive photography rights](https://www.mentalfloss.com/article/54641/reason-why-no-photography-allowed-sistine-chapel) in exchange for funding renovations. The kicker? The restrictions never applied to tourists. The bigger kicker? The last of these restrictions expired in 1997!  
 And yet we follow this rule blindly, unaware of why the tradition started. It's like that [old joke](https://www.reddit.com/r/Jokes/comments/1d404jy/a_an_army_colonel_is_newly_assigned_command_of_a/) about the army private guarding a bench.
 
-19. I was curious how reliable the ["Ask the Audience" lifeline](https://millionaire.fandom.com/wiki/Ask_the_Audience) is on Who Wants to Be A Millionaire. There is a [lot of data](https://millionaire.fandom.com/wiki/Ask_the_Audience_statistics#Errors) available, but it's incomplete and summarized, so difficult to analyze. On at least three occasions, every audience member declined to vote on the final answer, presumably due to having no idea. Additional shout out to (not that) [Steve Perry](https://millionaire.fandom.com/wiki/Steve_Perry), who blazed through the first 14 questions (of 15) and walked away on the last question, which has been considered "the most obscure question" the show has ever asked (what was Carol Brady's maiden name in the Brady Bunch?)
+1.  I was curious how reliable the ["Ask the Audience" lifeline](https://millionaire.fandom.com/wiki/Ask_the_Audience) is on Who Wants to Be A Millionaire. There is a [lot of data](https://millionaire.fandom.com/wiki/Ask_the_Audience_statistics#Errors) available, but it's incomplete and summarized, so difficult to analyze. On at least three occasions, every audience member declined to vote on the final answer, presumably due to having no idea. Additional shout out to (not that) [Steve Perry](https://millionaire.fandom.com/wiki/Steve_Perry), who blazed through the first 14 questions (of 15) and walked away on the last question, which has been considered "the most obscure question" the show has ever asked (what was Carol Brady's maiden name in the Brady Bunch?)
 
-20. In today's entry of "things you didn't realize were named after people", I present the fictional [land speeders](https://warhammer40k.fandom.com/wiki/Land_Speeder) in Warhammer 40k. They are, of course, named for [Arkhan Land](https://warhammer40k.fandom.com/wiki/Arkhan_Land), who discovered them.
+2.  In today's entry of "things you didn't realize were named after people", I present the fictional [land speeders](https://warhammer40k.fandom.com/wiki/Land_Speeder) in Warhammer 40k. They are, of course, named for [Arkhan Land](https://warhammer40k.fandom.com/wiki/Arkhan_Land), who discovered them.
 
-21. This bit of trivia from Memento (courtesy of [IMDB](https://www.imdb.com/title/tt0209144/trivia/)):  
+3.  This bit of trivia from Memento (courtesy of [IMDB](https://www.imdb.com/title/tt0209144/trivia/)):  
 
-> Cinematographer Mark Vargo turned down an interview with Sir Christopher Nolan because he didn't understand the script. He later admitted that this was a mistake. Wally Pfister, who got the job, had previously worked with Vargo as a camera operator. He later admitted to Vargo that he didn't understand the script, either.
-
-22. Courtesy of [Astral Codex 10](https://www.astralcodexten.com/p/links-for-december-2024), the [Southern Television Broadcast Interruption](https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption), where a broadcast was interrupted by a message claiming to be from aliens instructing humanity to put down their weapons and achieve a new ae of peace.
-
-23. [10 things I learned](https://garden.alexrinehart.net/reading-and-writing/books/101-things-i-learned-in-architecture-school/) from *101 Things I Learned in Architecture School* ([affiliate link](https://amzn.to/4fyHbgZ)).
+ > Cinematographer Mark Vargo turned down an interview with Sir Christopher Nolan because he didn't understand the script. He later admitted that this was a mistake. Wally Pfister, who got the job, had previously worked with Vargo as a camera operator. He later admitted to Vargo that he didn't understand the script, either.
 
