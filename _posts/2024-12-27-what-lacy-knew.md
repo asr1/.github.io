@@ -10,12 +10,11 @@ tags:
 - dog
 img_path: "../../assets/img/"
 image:
-  path: lacyEyes.png
-  alt: A chocolate lab looking lovingly at the camera
+  path: LacyMatt.png
+  alt: A chocolate lab smiling at the camera
+date: 2024-12-27 12:21 -0800
 ---
-
 When I met Lacy, she knew three words. Her name, her former owner's name (Greg), and "food". She was six years old.
-
 Greg would communicate to Lacy via a series of clicks. He had one for wait, one for release, and probably several others.
 
 He never taught us the clicks.
