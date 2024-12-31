@@ -20,3 +20,4 @@ Below are things I've learned, remembered, or found interesting in the past mont
 
 3. Every few years I remember the [story of Shane Perez sneaking](https://shaneperez.blogspot.com/2009/12/discovery-island.html) onto Disney's abandoned Discovery Park. When looking for it to link here, I found [this Reddit post](https://www.reddit.com/r/HobbyDrama/comments/1244wns/urbex_journey_to_discovery_island_the_area_51_of/) detailing all of the explorers who have come since. Lots of copycats, until it finally got shut down.
 
+4. [CoolioArt on Youtube](https://www.youtube.com/watch?v=WbCQxBTcyRk&feature=youtu.be) remade the kitchen scene from Jurassic Park with scientifically accurate (feathered) dinos!

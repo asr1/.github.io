@@ -17,3 +17,4 @@ Yeah, kid. Tonight she is.
  Lacy on halloween - neighbor girl saying lacy is her favorite, has two dogs. Is she really scooby doo? Tonight she is, kid.
  Two pictues of lacy next to a Bernese mtn dog (willow bigger, eclipsed by other)
  
+The Lacy Fan Club

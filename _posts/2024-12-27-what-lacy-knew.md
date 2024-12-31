@@ -10,7 +10,7 @@ tags:
 - dog
 img_path: "../../assets/img/"
 image:
-  path: LacyMatt.png
+  path: templateHeaders/LacyMatt.png
   alt: A chocolate lab smiling at the camera
 date: 2024-12-27 12:21 -0800
 ---
