@@ -13,9 +13,10 @@ tags:
 img_path: "../../assets/img/"
 image:
   path: templateHeaders/lacyBerner.png
-  alt: A collage of two pictures, each showing Lacy standing next to a (different) Bernese Mountain Dog. On the left, she is significantly larger. On the right, she is utterly dwarfed.
+  alt: A collage of two pictures, each showing Lacy standing next to a (different)
+    Bernese Mountain Dog. On the left, she is significantly larger. On the right,
+    she is utterly dwarfed.
 ---
-
 A bonus Lacy story: Halloween.
 
 Each year, my wife would hang up this terrible pumpkin-headed man outside our door. It would rattle and sway in the breeze, catching Lacy's attention like a rabbit[^1]. 

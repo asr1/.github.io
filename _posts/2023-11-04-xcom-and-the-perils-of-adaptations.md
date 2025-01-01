@@ -8,6 +8,7 @@ tags:
 - rpg
 - ttrpg
 - xcom
+- board-games
 - adaptations
 - games
 date: 2023-11-04 16:47 -0700

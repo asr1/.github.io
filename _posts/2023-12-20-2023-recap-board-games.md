@@ -3,6 +3,9 @@ layout: post
 title: '2023 Recap: Board Games'
 categories:
 - Recap
+tags:
+- board-games
+- games
 img_path: "../../assets/img/"
 image:
   path: templateHeaders/Boardgames.jpg

@@ -4,6 +4,9 @@ title: '2023 Recap: Video Games'
 img_path: "../../assets/img/"
 categories:
 - Recap
+tags:
+- video-games
+- games
 image:
   path: templateHeaders/2023Games.png
   alt: An array of 27 video game covers

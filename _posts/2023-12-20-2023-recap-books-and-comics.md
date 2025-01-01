@@ -4,6 +4,9 @@ title: '2023 Recap: Books and Comics'
 img_path: "../../assets/img/"
 categories:
 - Recap
+tags:
+- books
+- comics
 image:
   path: templateHeaders/bookDoor.jpg
   alt: A door surrounded by shelves of books at all angles
