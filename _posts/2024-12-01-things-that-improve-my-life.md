@@ -422,6 +422,10 @@ So I bought a little dictaphone that I can operate just by feel: flick the switc
 
 I don't expect most people are in this situation often.
 
+## [A second monitor](https://amzn.to/3W3uC6F) (SOR: 5/5)
+
+I used to have one computer monitor. Years ago, when I just had a laptop. Now, I cannot imagine having just one. The ability to move things between screens, or to have reference material available while doing something else is a game changer. If my second monitor broke, I would replace it immediately. It's essential for running RPGs online, and incredibly useful in every other endeavor. 
+
 <hr>
 
 There you have it. A list of things that (as of December 2024) make my life better. It's not complete! Some of it has become water. But I hope that this will inspire you to 1) look around and identify things that make you happy, and to revel in the comforts you have, and 2) consider if there's opportunity to improve what you have in a meaningful, intentional way, and not just in a blind consumerism way. I saw one blog that suggested spending $40 on a single pen! I don't care how good the pen is, I cannot value it that highly.
