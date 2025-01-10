@@ -12,7 +12,6 @@ Then run `bundle exec jekyll build`
 
 
 
-
 I think to publish we just copy to winscp? From the site folder!
 How do I generate the site?
 Jekyll build! I think

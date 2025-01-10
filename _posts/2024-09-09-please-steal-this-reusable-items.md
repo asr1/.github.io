@@ -3,8 +3,10 @@ layout: post
 title: 'Please steal this: reusable items'
 categories:
 - Please steal this
+- Game Design
 tags:
 - rpg
+- game-design
 img_path: "../../assets/img/"
 image:
   path: templateHeaders/theft.jpg

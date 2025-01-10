@@ -2,6 +2,12 @@
 layout: post
 title: Software I recommend
 date: 2025-01-03 16:50 -0800
+categories:
+- Technology
+- Recommendations
+tags:
+- tech
+- software
 ---
 Last year, I posted about [things that improve my life]({% link _posts/2024-12-01-things-that-improve-my-life.md%}). These were largely material items and goods that make my life better.
 

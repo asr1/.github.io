@@ -24,4 +24,4 @@ Below are things I've learned, remembered, or found interesting in the past mont
 
 5. [The quest](https://lostpixellore.com/blog/where-in-the-world-is-static-shock-for-gba/) to find an unreleased Static Shock GBA game.
 
-6. 
+6. The [Liberty Bell](https://en.wikipedia.org/wiki/Liberty_Bell) is overrated. It cracked the first time it was rung, but that wasn't *that* crack. It *may* have rung when the Declaration of Independence was read out, but only because every available bell was wringing. It just sort of got elevated into a symbol of independence because it had a bible quote about freedom on it.
