@@ -25,3 +25,11 @@ Below are things I've learned, remembered, or found interesting in the past mont
 5. [The quest](https://lostpixellore.com/blog/where-in-the-world-is-static-shock-for-gba/) to find an unreleased Static Shock GBA game.
 
 6. The [Liberty Bell](https://en.wikipedia.org/wiki/Liberty_Bell) is overrated. It cracked the first time it was rung, but that wasn't *that* crack. It *may* have rung when the Declaration of Independence was read out, but only because every available bell was wringing. It just sort of got elevated into a symbol of independence because it had a bible quote about freedom on it.
+
+7. This [collection of public domain artwork](https://public.work/) has been going around, and includes some novel ways of exploring the collection.
+
+8. I knew Fortnite was big, but I didn't realize the degree to which it [utterly dominated](https://bsky.app/profile/mrhands31.bsky.social/post/3lfshjryru22n) playtime. Baldur's Gate 3 represented 3.9% of all playtime in 2023. [Initial source](https://www.matthewball.co/all/stateofvideogaming2025) is worth a read. Overall, the video game market appears to be shrinking, down 13% since 2021. One cause (among many) is adults spending leisure hours each day on TikTok.
+
+9. Correction. I [prevously noted]({% link _posts/2024-06-01-may-roundup.md%}) the renaming of Cleaveland to Cleveland, and suggested that it was due to the name not fitting on a newspaper heading. It seems [that is a myth](https://clevelandmagazine.com/in-the-cle/articles/cle-myths-the-a-in-cleaveland).
+
+

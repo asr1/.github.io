@@ -145,7 +145,7 @@ Here are how the different types of inputs will appear to the user. Remember, th
 Text: `<input type="text">`
 <input type="text">
 
-> **Note:** One of the neat things you can do with a text input is provide a `list`. This makes it similar to a `select` element (see below), in that it provides a pre-defined list of choices, but doesn't limit users to those. I'll talk about this 
+> **Note:** One of the neat things you can do with a text input is provide a `list`. This makes it similar to a `select` element (see below), in that it provides a pre-defined list of choices, but doesn't limit users to those. I'll talk about this in a future tutorial.
 {: .prompt-tip}
 
 Number: `<input type="Number">`
@@ -201,7 +201,7 @@ Action buttons have to have a name starting with "act_", while roll buttons requ
 
 All you need to know about buttons for now is that they create events we can listen to when they are clicked. We'll talk about it more when we get to CSS, but the default Action Buttons aren't very pretty, and can be cleaned up dramatically by adding a class of "btn", using Roll20's default styling for its own buttons.
 
-> <b>Note:</b> Aside from from the prefix, ensure you have no other underscores in your button names. Roll20 does not allow you to listen to an event if the name has an underscore. 
+> <b>Note:</b> Aside from the prefix, ensure you have no other underscores in your button names. Roll20 does not allow you to listen to an event if the name has an underscore. 
   <br><br>
   Instead of `name="attr_my_button"`, consider `name="attr_myButton"` or `name="attr_my-button"`.
 {: .prompt-danger}

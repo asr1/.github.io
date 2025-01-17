@@ -33,7 +33,7 @@ And *probably* not the one you're thinking of.
 
 In 1993, Doom was released. In 2016, DOOM was released. And then, in 2016, [DOOM was released.](https://boardgamegeek.com/boardgame/205317/doom-the-board-game)
 
-![DOOM, the board game](https://cf.geekdo-images.com/1BL_D-f3tPbGe9wUjzER6A__imagepage/img/JwO1RKGsb9d4Pjs2VU4WPS2B7Tw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3116318.jpg)
+![DOOM, the board game](https://m.media-amazon.com/images/I/81FVBrmSdAL.__AC_SX300_SY300_QL70_FMwebp_.jpg)
 
 DOOM (the board game) was based off of Descent[^1]. Descent is a dungeon crawler board game where one player controls a bunch of goblins, while the rest get to be plucky heroes with magic powers. The formula was refined for 2014's Star Wars: Imperial Assault, and perfected with DOOM in 2016[^2]. 
 
@@ -59,6 +59,16 @@ In [Cyberrats: Rise of the Briny Bastards,](https://alrine.itch.io/cyberrats-rot
 
 And we did this with point pools. Each round, the Manager is given points ~~based on the number of players~~, and they can spend those however they choose. A bunch of extremely flammable kelpies just to eat up those Operatives' precious actions (this is known as *a distraction*), OR have some patience and bring out a Greatwhite to gobble up a player and disappear into a whirlpool, never to be seen again[^3]. 
 
+## Call Willy and Charles, things are getting fudgey
+
+[Risk of Rain](https://store.steampowered.com/app/1337520/Risk_of_Rain_Returns/) (and many other games) uses a director system to decide how much punishment your character can take. If you are dealing 10 damage / second, it gives you a small number of weak enemies. If you are dealing 20,000 damage / second, it will flood you with strong enemies. 
+
+The director makes the same kinds of choices we are discussing here: it can choose a bunch of small enemies, or bosses. At later stages, it will just shrug and give you all sorts of bosses all at once, whee!
+
+What I'm getting at is this: if you're *already* summoning in new enemies each round, and your players are scything through everything you through at them, it's easy to ramp up the difficulty and give yourself an extra point or two. 
+
+If you're the kind of GM (or the kind of game designer who wants to appeal to the kind of GM) who wants to ensure characters' safety, this can go the other way, too: it's far easier (read: less immersion-breaking) to summon fewer enemies than it is to have the existing enemies just wander off and not attack[^4]. 
+
 ## Speak plainly, man!
 
 What's the big idea, put plainly?
@@ -75,7 +85,11 @@ What's the big idea, put plainly?
 
 * Spending points allows for dynamic fights, and *holding on to* points creates a feeling of suspense that cannot be rivaled.
 
-### What do you want from me??
+### Hey, I'm cheating here!
+
+* It's not just strategies you can change: if you want more (or fewer) enemies, it's easier to do this kind of sleight-of-hand before the monsters even crawl out of their caves.
+
+## What do you want from me??
 
 If you find yourself designing a game with a formula for matching monsters to players based on difficulty, experience levels, or anything else... ask yourself if you need to, or if you can just assign point values and let the GM go wild.
 
@@ -84,7 +98,8 @@ If you find yourself designing a game with a formula for matching monsters to pl
 
 Analysis paralysis, which for some unfortunate reason I've decided to abbreviate as "anal paral" is when a player freezes due to having *too many options*, in the same way that it's easier to pick what to eat from the taco truck than the Cheesecake factory. 
 
-Don't give your GM every available monster at all times! With Briny Bastards, each Cohort consists of 3 enemies[^4]. Doom assigns one to two enemies to each color at the start of the mission (here yellow means "Cacodemon"). If you want maximum flexibility and a big bestiary, you can sort all enemies into categories and let the GM build their own little loadout ahead of time, but just be careful not to get too granular with these categories, or you'll end up back where we started, designing the entire fight before you ever see how the players react!
+Don't give your GM every available monster at all times! With Briny Bastards, each Cohort consists of 3 enemies[^5]. Doom assigns one to two enemies to each color at the start of the mission (here yellow means "Cacodemon"). If you want maximum flexibility and a big bestiary, you can sort all enemies into categories and let the GM build their own little loadout ahead of time, but just be careful not to get too granular with these categories, or you'll end up back where we started, designing the entire fight before you ever see how the players react!
+
 
 
 [^1]: Okay, yes, it was also based off of DOOM, the video game.
@@ -93,4 +108,7 @@ Don't give your GM every available monster at all times! With Briny Bastards, ea
 
 [^3]: RotBB predates Marvel Rivals by several months.
 
-[^4]: Technically one of them has 5, but that's only if you ignore the eggs long enough for them to hatch, and really *that's on you!* Responsible players and pest control agents should only ever see three.
+[^4]: Many games have attack rolls, and some GMs like to just narrate misses. Other games (like Cyberrats) assume the monsters always hit! Fewer monsters means fewer lies.
+
+[^5]: Technically one of them has 5, but that's only if you ignore the eggs long enough for them to hatch, and really *that's on you!* Responsible players and pest control agents should only ever see three.
+
