@@ -116,7 +116,7 @@ Taking it a step further, you can reference entire columns (a:a) or entire rows 
 
 ![A formula showing the sum of everything in the second row.](excel5.png)
 
-So while you can do `=sum(a1, a2, a3)`, it's faster and easier to just do `=sum(a1:a3)`. With column and row references, you no longer need to guess how many entries exist. Instead of doing `=average(a1:a500)` and hoping you remember to update your formula when that 501st piece of data comes in, simple use `=sum(a:a)` and rest without worry.
+So while you can do `=sum(a1, a2, a3)`, it's faster and easier to just do `=sum(a1:a3)`. With column and row references, you no longer need to guess how many entries exist. Instead of doing `=average(a1:a500)` and hoping you remember to update your formula when that 501st piece of data comes in, simply use `=sum(a:a)` and rest without worry.
 
 ## More to come
 
@@ -128,4 +128,4 @@ But even those tricks won't make you ready for [the big time](https://fmworldcup
 
 <hr>
 
-*Disclaimer: at the time of this writing, I am employed by Microsoft, and have worked on Excel. These opinions are my own, and are not endorsed by my employer*
+*Disclaimer: at the time of this writing, I am employed by Microsoft, and have worked on Excel. These opinions are my own, and are not endorsed by my employer.*

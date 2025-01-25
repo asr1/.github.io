@@ -32,4 +32,10 @@ Below are things I've learned, remembered, or found interesting in the past mont
 
 9. Correction. I [prevously noted]({% link _posts/2024-06-01-may-roundup.md%}) the renaming of Cleaveland to Cleveland, and suggested that it was due to the name not fitting on a newspaper heading. It seems [that is a myth](https://clevelandmagazine.com/in-the-cle/articles/cle-myths-the-a-in-cleaveland).
 
+10. Agony [used to be slang](https://old.reddit.com/r/etymology/comments/1i3j2fh/agony_use_has_me_at_a_loss_ideas/) in the US for a popular craze or fashion. Seen in an add for "The latest agony".
 
+11. China has been able to [create artificial photosynthesis](http://en.people.cn/n3/2025/0121/c90000-20268473.html) in space. They have ambitious plans, including building a [solar array](https://www.livescience.com/space/space-exploration/china-plans-to-build-enormous-solar-array-in-space-and-it-could-collect-more-energy-in-a-year-than-all-the-oil-on-earth) that could annually generate 'more energy than all the oil on earth' and a lunar space station by 2035. I'll believe 'em when I see 'em.
+
+12. In 1914, archeologists [found a dinosaur](https://phys.org/news/2025-01-paleontologists-species-north-african-predatory.html). It was classified as a Carcharodontosaurus (shark toothed lizard) and forgotten about. The fossil was destroyed in WWII. Recently, photographs of the skeleton have surfaced, indicating that th dinosaur is a new species after all.
+
+13. A very simple suggestion from [Knight at the Opera](https://knightattheopera.blogspot.com/2025/01/defeat-not-death.html) to have TTRPG baddies gain the "defeated" condition at 0HP, rather than death. It's elegant, and I'll be using it.
