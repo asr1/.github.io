@@ -6,12 +6,14 @@ categories:
 tags:
 - roundup
 - links
+- dinos
+- missing-media
 img_path: "../../assets/img/"
 image:
   path: templateHeaders/roundup.jpg
   alt: A wide shot of a library
+date: 2025-01-28 19:25 -0800
 ---
-
 Below are things I've learned, remembered, or found interesting in the past month: 
 
 1. Courtesy of [Astral Codex 10](https://www.astralcodexten.com/p/links-for-december-2024), the [Southern Television Broadcast Interruption](https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption), where a broadcast was interrupted by a message claiming to be from aliens instructing humanity to put down their weapons and achieve a new ae of peace.

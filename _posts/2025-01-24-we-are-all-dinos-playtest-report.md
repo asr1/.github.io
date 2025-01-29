@@ -9,7 +9,7 @@ tags:
 - dino
 date: 2025-01-24 20:13 -0800
 ---
-Later this year, I will be released *We Are ALl Dinos at the Dino Show*, a LARP-lite game about pretending to be a dinosaur.
+Later this year, I will be releasing *We Are <u>All</u> Dinos at the Dino Show*, a LARP-lite game about pretending to be a dinosaur.
 
 Last weekend, I ran the first public playtest for the game. Before I tell you how it went (good) and what I learned (a bit), you need to understand a little about the game.
 
@@ -50,7 +50,7 @@ First, the playtest went pretty well. We all had fun, the rules were well unders
 But, there are three things I'm going to change as a direct result.
 
 1. Suddenly MATH?<br>Throughout the game, judges hand out first, second, and third place tokens. At the end of the game, these are assigned point values, and we add them up.<br><br>Some people had more than 15 tokens. "You didn't say there'd be MATH!" One player remarked. That's true, I hadn't. Now, I'm going to give out point tokens directly, so the math can be a little more cumulative, instead of a big surprise at the end.
-2. Order matters. <br> I got last place in this game. It's possible I am just bad at pretending to be a dinosaur (I wasn't an imposter), but I refuse to believe that. My parents are extremely proud of me. Instead, I believe the game is broken.<br>Specially, I always went first. That means that I was both the benchmark everyone else compared against, *and* the least fresh when it came time to vote. In the revised version, whoever is deemed to be winning will go first, allowing others to remain in recent memory.
+2. Order matters. <br> I got last place in this game. It's possible I am just bad at pretending to be a dinosaur (I wasn't an imposter), but I refuse to believe that. My parents are extremely proud of me. Instead, I believe the game is broken.<br>Specifically, I always went first. That means that I was both the benchmark everyone else compared against, *and* the least fresh when it came time to vote. In the revised version, whoever is deemed to be winning will go first, allowing others to remain in recent memory.
 3. The lore. It's gotta change. <br> One soft suggestion I received was to switch up the in-universe lore. There's a chance that there are NO imposters here, and that the title is correct. It's also technically possible (but very unlikely) for there to be no dinosaurs! One player suggested that I tweak the lore just a little: instead of last year's show being clean, a single paleontologist snuck in, so suspicions are raised, and everyone is looking for an imposter. This way there's some tension baked into the premise from the start.
 
 ## What's next?
