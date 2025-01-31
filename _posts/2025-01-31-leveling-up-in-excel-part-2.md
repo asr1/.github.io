@@ -10,8 +10,8 @@ img_path: "../../assets/img/"
 image:
   path: templateHeaders/spreadsheet.jpg
   alt: Rows of cells, each filled with numbers
+date: 2025-01-31 12:10 -0800
 ---
-
 [Last time]({% link _posts/2025-01-17-leveling-up-in-excel-part-1.md%}), I explained how there are ten tiers of spreadsheet mastery, and that by conquering each of them you unlock a new level of proficiency. The first 5 are competency, while these five bring you into expertise.
 
 ## 6. Conditionals
@@ -91,7 +91,7 @@ Let's look at that example from before again, with dollar signs:
 
 Look at that! Even though we dragged the formula down, the range reference remains the same. Thanks, $!
 
-## Taking dollar sign references a step further
+### Taking dollar sign references a step further
 
 You can actually name cells and ranges!
 So instead of having to remember that G15 is the total Q1 profit, you can name it Q1_PROFIT and reference it in equations.
@@ -108,14 +108,61 @@ You can also name entire ranges or tables, and [manage](https://support.microsof
 
 ## 9. Pivot tables
 
+Pivot tables are one of Excel's silver bullets. They allow you to take a large, complicated set of data and break it down into small, meaningful bits. If you master pivot tables, you're utilizing a huge portion of Excel's functionality, and embracing one of its most beloved features. 
+
+So what do they do?
+
+*Use pivot tables to summarize complicated data or make interactive dashboards.*
+
+For example, say you've got a sheet representing hundreds or thousands of orders for various products (apples, bananas, cucumbers, eggplants...) and you want to break it down and just answer the question "how much money did I make from each product?"
+
+BAM, pivot table. Simply select a cell within your data, go to insert->tables->PivotTable, and choose your pivots. 
+
+It's a little complicated at first, but there are no shortage of [guides](https://www.excel-easy.com/data-analysis/pivot-tables.html) and [tutorials](https://www.youtube.com/watch?v=F9WgF1K_K2g) to get your started.
+
+You can also use pivot tables to summarize or aggregate your data by any field: region, month, produce item, what have you.
+
+### Take pivot tables a step further with pivot charts
+
+[Pivot charts](https://support.microsoft.com/en-us/office/create-a-pivotchart-c1b1e057-6990-4c38-b52b-8255538e7b1c) are automatically-updating charts that reflect data in a pivot table.
+
+Combine multiple pivot tables to make a dashboard showing off whatever key metrics you care about.
 
 
 ## 10. Automation (VBA or Office Scripts)
 
+This is the big one, the final strate of functionality that separates Excel Power users from the rest. With automation, you can set up tasks to execute on a click of a button that otherwise take manual time.
+
+### What kinds of things can you automate?
+
+* Generate a report from data. <br> Sure, if you're using pivot charts and dashboards, this might be done for you. But if you're exporting a report to PowerPoint or Word, this can save you time.
+* Color-code rows based on the current data, flagging overdue items. <br> This is another are that can be done with conditional formatting, comparing against the `today()` function. Still, it can be useful to color-code, sort, and hide completed rows all with a click of a button, keeping your data clean and organized.
+* Create data from a template (or restore a modifiable worksheet to a default template).<br> Useful for daily reports or worksheets that other people can modify pieces of.
+
+### How do I automate?
+
+Excel has two main ways of automation: [VBA](https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office) (Visual Basic for Applications) and [Office Scripts](https://techcommunity.microsoft.com/blog/excelblog/automate-your-tasks-with-the-automate-tab%E2%80%94now-in-excel-for-windows-and-mac/3705856). 
+
+VBA is older, limited to desktop applications, and allows for interacting with other Office applications (such as Outlook, Word, or Powerpoint). Because it's been around for a while, there's a lot of great documentation and help available. Visual Basic as a language is meant to be English-like and easy to understand. 
+
+Be careful running VBA macros you do not trust. Hackers like to use it to distribute malware.
+
+Office Scripts is more modern, can run on desktop and web, and does not have the security concerns of VBA. It uses a language called TypeScript, which is powerful and popular, but more challenging to understand for beginners.
+
+### Okay but how do I get started?
+
+Pick a project that you want to automate, and jump in! You can use the [Macro Recorder](https://support.microsoft.com/en-us/office/automate-tasks-with-the-macro-recorder-974ef220-f716-4e01-b015-3ea70e64937b) (VBA) or [Action Recorder](https://support.microsoft.com/en-us/office/record-your-actions-as-office-scripts-453ab58d-708f-40a9-ab87-99a743bfa69a) (Office Scripts) to record yourself performing the actions you want to automate. When you are done, code will be generated for you, which you can use as-is, or modify to your specific needs. 
+
+[StackOverflow](https://stackoverflow.com/questions/tagged/vba) is a great resource for finding answers to problems you may encounter, but be warned — they have a reputation for unfriendliness. Search for your questions before asking them, and be sure to follow any submission guidelines.
+
+### Take automation a step further with power automate
+
+[Power Automate](https://www.microsoft.com/en-us/power-platform/products/power-automate) is a third way of automation that doesn't use very much code at all! Rather, it provides connectors between applications, so you can send an email based on the value in a cell, or schedule a report to be sent via Teams.
+
 ## What did I miss?
 
-Sound off in the comments if there's something I missed.
+Sound off in the comments if there's something I missed. Excel is a powerful, complicated behemoth, and I'm sure my 10 levels may look very different than your own.
 
 <hr>
 
-*Disclaimer: at the time of this writing, I am employed by Microsoft, and have worked on Excel. These opinions are my own, and are not endorsed by my employer*
+*Disclaimer: at the time of this writing, I am employed by Microsoft, and have worked on Excel and on the Office Scripts team specifically. These opinions are my own, and are not endorsed by my employer*
