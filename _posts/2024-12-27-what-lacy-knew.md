@@ -40,6 +40,7 @@ Over the following six years, we taught her the following commands. Some of thes
 * Crossing. Run across the street like a bat outta hell. Previously, Lacy would meander lazily across the street, or stop in the middle for a lie-down on the hot pavement. Dangerous!
 * Inside. Lacy loved splitting the pole. Any time on our walks where she could put a tree, pole, or other obstacle between her and me, she would. Inside taught her to heel, or stick by my side. Eventually she stopped needing this one very much, as she picked it up on her own.
 * Untangle. After her frolics[^1], Lacy's leash would wrap around her body and legs. With a command of "untangle", Lacy would lift each of her paws in turn, allowing me to thread the leash out from around her. She had this one down pat, but seemed to forget it in her last couple years.
+* I taught Lacy not to go for any dropped food while I cook. In exchange, I would let her stay near the kitchen, and give her a treat afterward for every dropped morsel. 
 
 [^1]: On our walks, there was one yard Lacy would stop at, usually on her second her third lap, and either sploot down on their lawn for a breather, or roll around with reckless abandon, thrashing on her back and head. Then, after a minute, she would get up, shake herself off gently once, and proceed on her walk with an entirely unearned air of dignity.[^2]. 
 
