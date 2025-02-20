@@ -18,7 +18,7 @@ Jekyll build! I think
 
 Must use bundle exec in front because of version mismatch?
 
-### Including a picture or image
+### Including a picture or image or photo
 
 ![Lacy sniffing some red and pink leaves, her tail standing upright](Lacy-in-leaves.png)
 
