@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Review: a handful of Steam (part 1)'
+title: A handful of Steam (part 1)
 categories:
 - Review
 - Video Games
@@ -11,8 +11,9 @@ img_path: "../../assets/img/"
 image:
   path: templateHeaders/steam.jpg
   alt: A valve releasing steam
+date: 2025-02-20 11:13 -0800
 ---
-
+*This week, I'm reviewing 5 Steam demos that have either been lurking on my backlog, or (in the case of Monster Train 2) I just found out about today. Possibly because it was just released today.*
 
 ## Monster Train 2
 
@@ -28,7 +29,7 @@ The writing in this game is... fine? I don't remember the first one having a plo
 
 The game is a bit less legible than the first, but only barely. It's the same game, with a MUCH higher difficulty and a LOT of new mechanics. Train upgrades, equipables, cooldown abilities, many new keywords, and a huge emphasis on positioning and movement within one level of the train.
 
-**Verdict:** I'll be honest, I'm not immediately sold on this one. There's so much going on, paired with the mobile game aesthetics, it just feels too much like a casino for me to enjoy. I felt a touch overwhelmed and overstimulated. Fans of the first game looking for a harder difficulty and some new mechanics and cards will delight in this, especially if they don't get hung on on the writing.
+**Verdict:** I'll be honest, I'm not immediately sold on this one. There's so much going on, paired with the mobile game aesthetics, it just feels too much like a casino for me to enjoy. I felt a touch overwhelmed and overstimulated. Fans of the first game looking for a harder difficulty and some new mechanics and cards will delight in this, especially if they don't get hung up on the writing.
 
 
 
@@ -79,13 +80,13 @@ I wasn't able to get a sense for how all of the moves worked, but the numbers ar
 
 *Immersive Korean dating sim*
 
-I don't remember how this one appeared on my radar, but it's surprisingly fun! This is a first-person dating sim, where most of the game is FMV videos narrated by our bumbling 30-year old manchild protagonist. Every once in a while, you get a multiple choice option to take the story, sometimes on a timer. Other times, there will be a break for a point-and-click mini game.
+I don't remember how this one appeared on my radar, but it's surprisingly fun! This is a first-person dating sim, where most of the game is FMV videos narrated by our bumbling 30-year old manchild protagonist. Every once in a while, you get a multiple choice option to direct the story, sometimes on a timer. Other times, there will be a break for a point-and-click mini game.
 
 The camera is a little hectic at times, but the writing, acting and production value all seem good. The writing especially is quite fun, even if it's a little inconsistent at times (you start out running late, but then remark that you have extra time, and someone remarks how early you are).
 
 I didn't expect this game to be so funny, but it really is. At one point my demo locked up, getting stuck on a black screen, but exiting to the menu and returning quickly fixed it.
 
-**Verdict:** This is basically a movie with some interludes for decisions and point-and-click. You meet 5 protagonists and build up relationships points with them, including handing out optional love letters. IT's really charming, and I might pick it up on a sale.
+**Verdict:** This is basically a movie with some interludes for decisions and point-and-click. You meet 5 women and build up relationships with them by the choices you make, including handing out optional love letters at the end of each chapter. I's really charming, and I might pick it up on a sale.
 
 ## Ketz Galactic Overlords
 
@@ -97,7 +98,7 @@ If it weren't for the title and the gorgeous UX, I wouldn't really know that thi
 
 The demo starts off a little aimless, and I quickly got stuck near a podium. I had the option to Hit E to interact, which produced a popup informing me that it's walled off in the demo (but not what the podium *did*), and the game stopped responding to input after. I was forced to quit to desktop and completely start over. And this was in the first 30 seconds, before I even had a feel for what the game was!
 
-Reloading, I sw that it wanted me to go straight, and not to the side! Lesson learned.
+Reloading, I saw that it wanted me to go straight, and not to the side! Lesson learned.
 
 The UI is pretty, but a little distracting, with dancing orange lines around every level up selection. And these selections are CONSTANT, especially early on. You are interrupted every few seconds and asked to pick one of three upgrades. There's a wide variety of upgrades, and some of them have obvious particle effect abilities when you choose them. Ice rains from the sky, exploding poison orbs orbit you. These are clear! Others are much more vague, promising to increase luck, or improve "Skill" by 6. It wasn't always clear to me what was happening. 
 
@@ -111,21 +112,8 @@ I did unlock a new character after my first run, but didn't feel the need to try
 
 Verdict: A neat idea, and reasonably well-executed, but lacking the polish of the genre-definer. It IS in early access, but I don't think I'll be revisiting.
 
-## Rogue Waters
+<hr>
 
-![Rogue Waters Banner](https://steamcdn-a.akamaihd.net/steam/apps/1691190/library_600x900_2x.jpg)
+## Next time
 
-
-
-
-## Metaphor
-
-
-
-## Arco
-
-
-
-## Aethermancer
-
-## Northwind
+*Join me next time as I review 5 more demos!*
