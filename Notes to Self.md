@@ -22,6 +22,10 @@ Must use bundle exec in front because of version mismatch?
 
 ![Lacy sniffing some red and pink leaves, her tail standing upright](Lacy-in-leaves.png)
 
+And a caption:
+![Cyberrats character sheet](../../assets/img/CyberratsPreview.png){: width="500"}
+_A small preview of the first page of the Cyberrats character sheet on Roll20._
+
 
 ### Serving locally with drafts
 bundle exec jekyll s --drafts  
