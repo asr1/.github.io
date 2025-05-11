@@ -18,3 +18,4 @@ Below is the list of movies I've seen this year, very roughly sorted by how much
 * **Hundreds of Beavers** *Some pretty good looney tunes style hijinks. There's a reason most looney tunes skits are 100 minutes long.*
 
 * **Deadpool and Wolverine**
+* **Sinners**
