@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Asa Donald Interview Rust Never Sleeps
+title: Mechs, Grunge, and Blackjack - an Interview with Asa Donald (Rust Never Sleeps)
 categories:
 - Interview
 tags:
@@ -12,6 +12,7 @@ img_path: "../../assets/img/"
 image:
   path: templateHeaders/microphone.jpg
   alt: A microphone in a stand.
+date: 2025-05-13 09:45 -0700
 ---
 I talk to Asa Donald about destroying character sheets, the role of music in RPGs, and channeling real-life burnout into mech games.
 
@@ -41,7 +42,7 @@ One of the reasons why I wanted to stick with blackjack as a resolution mechanic
 
 **Alex**: That totally makes sense.
 
-**Asa**: You don't always know when it’s happening, but you're faced with this question of “All right, do I push it for success, knowing that if I fail, then I’m going to suffer a larger consequence?” There are meant to be a couple of different types of mechanics around pushing your luck —One of them is instead of just doing like a basic skill check, what you're really doing is like a _skill challenge_ where you need a certain number of successes but if you hit a certain number of failures first you actually fail whatever you're trying to do.
+**Asa**: You don't always know when it’s happening, but you're faced with this question of “All right, do I push it for success, knowing that if I fail, then I’m going to suffer a larger consequence?” There are meant to be a couple of different types of mechanics around pushing your luck — One of them is instead of just doing like a basic skill check, what you're really doing is like a _skill challenge_ where you need a certain number of successes but if you hit a certain number of failures first you actually fail whatever you're trying to do.
 
 Another one is the challenge, where the idea is that you’re eventually going to succeed, but the question is how _efficiently_ you succeed. In that case, the question becomes is it worth it to push your luck in the hopes of getting an extra success, some extra bonus? At every step, the game is encouraging you to push your luck and take you one step closer to burning out. 
 
@@ -53,7 +54,7 @@ Another one is the challenge, where the idea is that you’re eventually going t
 
 **Asa**: Yeah, it was in some ways, but, really it’s a larger sort of OSR tradition that has explored those types of things. I've written a couple of OSR—style games, and skill challenge–like things are a part of it. Really, I’m trying to smooth out some of the mechanics a little bit. In some of the adventures I was writing, I was exploring this because I wanted them to be things that people could play together or play solo. Even with this game, something I’m thinking about is expanding it out for a duet style game, or a multiplayer game. I think I left myself some cool opportunities with the set up. 
 
-To answer your question, what I like about skill challenges is the same thing a lot of people like — there’s a lot of dramatic potential. They encourage people to think about narrative and to think about story and be more inventive.  It’s one of those moments where you're giving that narrative authority to the players instead of the GM. 
+To answer your question, what I like about skill challenges is the same thing a lot of people like — there’s a lot of dramatic potential. They encourage people to think about narrative and to think about story and be more inventive. It’s one of those moments where you're giving that narrative authority to the players instead of the GM. 
 
 I find it really cool how solo games have this unique flexibility, and I want to explore that. For me, these \[skill challenges\] are a really cool way for me to make it work within blackjack. Not just “I’m going to push it on this skill”, but suddenly, “I’m going to push it because I want the _scene_ to succeed, I want to accomplish this much larger challenge or obstacle.”
 
@@ -83,7 +84,7 @@ I actually sat down and in about two or three weeks, I had basically written up 
 
 **Alex**: I stand by that! It hooked me the moment I saw it.
 
-![A character sheet of a mech, complete with skeuomorphic switches and bulbs, and a big button labeled "Big Red Button"](RNS-Sheet.png){: width="500"}
+![A character sheet of a mech, complete with skeuomorphic switches and bulbs, and a big button labeled "Big Red Button"](RNS-Sheet.png){: width="800"}
 _The Rust Never Sleeps character sheet has you drawing wires and coloring in bright bulbs._
 
 **Asa**:  What I was looking for in that character sheet (or as I call it in this case, a schematic sheet, because it's not just about your character it's also about your mech), the first thing I wanted when I was thinking about this is I wanted a keepsake or an artifact of play. I wanted to be really visually appealing too, but there's a reason why I wanted that keepsake.
@@ -147,3 +148,5 @@ In fact, [Aaron Lim](https://ehronlime.itch.io/) (a really insightful designer, 
 There's something very appealing to me about two players taking turns drawing from a shared deck and placing their cards with one another to form a Blackjack hand. That moment in which they create a hand together for resolution of an action is unifying. I also think it will easily fall into GMless multiplayer play (with separate decks and mechs), as one of its core components is based on skill challenges, which is a mechanic that interests me in how it invests more (or sometimes all) narrative authority into the players.  
 
 Of course, for me this is a solo game. I design its modules and materials with a solo-first mentality. I need to. But I think I said earlier that "play" in the indie ttrpg space is broader than we think. Play can mean experimenting or making a game your own, adapting it for your own circumstances and play style. There is actual pleasure and enjoyment in that, which is why there are so many of us ttrpg designers. For Rust Never Sleeps, the duet and multiplayer options are fertile ground for fruitful play, and I want to invite it. In fact, don't forget that Rust Never Sleeps is still a beta. The beauty of the beta is that it is unfinished, and it asks the community to finish it.
+
+*[Buy Rust Never Sleeps on Itch](https://backwards-tabletop.itch.io/rust-never-sleeps)*
