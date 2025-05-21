@@ -12,6 +12,7 @@ image:
   path: templateHeaders/roundup.jpg
   alt: A wide shot of a library
 ---
+Below are things I've learned, remembered, or found interesting in the past month: 
 
 1. The words "Quote" and "Quoth" are completely unrelated to each other! Quoth comes from proto-Germanic for "To say", while Quote comes from old French for "To mark a reference".
 
@@ -43,3 +44,9 @@ image:
 12. I'm always fascinated whenever we send signals over to our space probes. It's multiple feats of engineering every time, and this [most recent one](https://www.jpl.nasa.gov/news/nasas-voyager-1-revives-backup-thrusters-before-command-pause/) (bringing Voyager 1's backup thrusters back online after decades of inoperability) was inspired by a flash of human insight.
 
 13. An interview with Chris Avellone, the lead writer for Star Wars: Knights of the Republic 2, reveals his (scrapped) [treatment for a third game](https://www.vg247.com/star-wars-knights-of-the-old-republic-3-story). Related, back in March, Saber Interactive [confirmed](https://xcancel.com/TimWillits/status/1900374508113961250) the KOTOR 1 remake is still happening in the weakest possible terms: "...We working on numerous games across many different genres. Everything that we have talked about is still in development. We will share information on upcoming games when we have something cool to share"
+
+14. George Carlin played Mr. Conductor on Thomas the Tank Engine. Someone made a [dub with some of his better known ](https://www.youtube.com/watch?v=ov4RwjQGye0)works mixed in.
+
+15. Oops all video?? [Farmer setting the tale straight about farm subsidies.](https://www.youtube.com/watch?v=NlSRyPcc-so)
+
+16. [Dinosaur mass grave](https://www.bbc.com/news/articles/c0k3x8lmje1o) yields perennial results!

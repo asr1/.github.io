@@ -14,9 +14,9 @@ date: 2025-05-17 15:00 -0700
 ---
 I expected the adverts. Times Square is a billboard turned into an attraction, a subtle trick to make you seek out the flashing signs telling you what you want, what you *need*. What I didn't expect was Chicago.
 
-Multiple ads plastered to the inside of dingy bus stops proclaimed that Chicago had been voted the best big city for 8 years running! That for 9 of the past 10 years, it was CHICAGO that the people had decided was the place to be. It's a funny thing to advertise at all. Usually, if you're the best, you don't pay signs to let people know. You trust that they'll sort of just figure out it.
+Multiple ads plastered to the inside of dingy bus stops proclaimed that Chicago had been voted the best big city for 8 years running! That for 9 of the past 10 years, it was CHICAGO that the people had decided was the place to be. It's a funny thing to advertise at all. Usually, if you're the best, you don't pay for signs to let people know. You trust that they'll sort of just figure out it.
 
-It's doubly funnier to pay for these advertisements in the city who's motto is "We're better than Chicago". Chicago, you're known as the second city, despite these days being the third largest in the country. Why are you advertising to the people in first place?
+It's even funnier to pay for these advertisements in the city who's motto is "We're better than Chicago". Chicago, you're known as the second city, despite these days being the third largest in the country. Why are you advertising to the people in first place?
 
 I suppose it makes sense, from a game theory point of view. Every point you steal from the guy in front of you hits him twice as hard: he's down one, you're up one. That's a two point swing. Or, you can take the T-Mobile approach, buying up the one beneath you, still passing below the behemoth above. So sure, I get it. 
 
