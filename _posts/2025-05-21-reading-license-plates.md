@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading LIcense Plates
+title: Reading License Plates
 categories:
 - Science
 tags:
