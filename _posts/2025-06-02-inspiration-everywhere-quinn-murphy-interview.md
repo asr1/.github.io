@@ -6,7 +6,6 @@ categories:
 tags:
 - interview
 - game-design
-- mech
 - rpg
 img_path: "../../assets/img/"
 image:

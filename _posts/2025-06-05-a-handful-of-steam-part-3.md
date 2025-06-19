@@ -11,7 +11,9 @@ img_path: "../../assets/img/"
 image:
   path: templateHeaders/steam.jpg
   alt: A valve releasing steam
+date: 2025-06-05 18:30 -0700
 ---
+[Part 1]({% link _posts/2025-02-20-review-steam-demos.md%}) and [Part 2]({% link _posts/2025-02-27-a-handful-of-steam-part-2.md%}) 
 
 ## Castle V Castle
 
@@ -71,7 +73,7 @@ Here's the takeaway:
 
 Will definitely be eyeing this one! [Steam link](https://store.steampowered.com/app/3219010/Fogpiercer/).
 
-## Herald The INteractive Period Drama
+## Herald The Interactive Period Drama
 
 ![Herald Banner](https://steamcdn-a.akamaihd.net/steam/apps/380810/library_600x900_2x.jpg)
 

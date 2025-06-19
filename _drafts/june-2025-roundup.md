@@ -22,3 +22,7 @@ Below are things I've learned, remembered, or found interesting in the past mont
 4. A fascinating [long read](https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins) about paleoanthropologists and very old bones. Lots of strong personalities here!
 
 5. Mildly related, the world's oldest recorded fingerprint may also be the [oldest portable art](https://www.theguardian.com/science/2025/may/26/like-a-face-discovery-reinforces-idea-neanderthals-created-art-say-experts).
+
+6. A fleet of electric cars in Utrecht, Netherlands will [use Vehicle-to-grid charging](https://www.autoweek.com/news/a64992869/vehicle-to-grid-charging-renault-utrecht-netherlands/) to use solar power and the cars' batteries to supplement the power grid. Very cool!
+
+7. [John Green telling the story of Jimmy Glass (sports).](https://www.youtube.com/watch?v=DTqgth5aZOM)
