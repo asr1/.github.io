@@ -93,29 +93,29 @@ No further explanation was sought or offered.
 
 **Alex**: Shifting gears, the other work of yours that I'm most familiar with is [Houses of the Sun by Night](https://emilyzhu.itch.io/houses-of-the-sun-by-night) which is, if anything, the opposite of a tactical game. It’s a collection of mini games with just some of the most poetic language used to describe them. Can you talk about how that came about?
 
-**Emily**: Sun by Night is really one of those that I polished for ages. I spent two years on that, just slowly polishing away little bits. The original was a couple of various concepts. There's a big pot of ideas bubbling in my head all the time. And anything that I'm reading or watching or hearing about goes into this big pot. And then sometimes it'll sort of curdle like cheese and a lump will float up that's combined a few different ideas. I was watching a playthrough of Dark Souls at the time, and thinking about this dichotomy of darkness and light and death and hollowness and reincarnation and refilling and so forth.
-
 <aside class="pquote">
     <blockquote>
         <p>I am prone to taking a game concept and just sort of whittling away at it forever and ever and ever.</p>
     </blockquote>
 </aside>
 
+**Emily**: Sun by Night is really one of those that I polished for ages. I spent two years on that, just slowly polishing away little bits. The original was a couple of various concepts. There's a big pot of ideas bubbling in my head all the time. And anything that I'm reading or watching or hearing about goes into this big pot. And then sometimes it'll sort of curdle like cheese and a lump will float up that's combined a few different ideas. I was watching a playthrough of Dark Souls at the time, and thinking about this dichotomy of darkness and light and death and hollowness and reincarnation and refilling and so forth.
+
 **Emily**: There is an Egyptian story about the sun every night entering the underworld. It's the various sun gods on the barque, the solar barque. And they enter the underworld and they pass through the gates of the underworld on the duat, which is, you know, sort of an underworld mirror of the Nile River, and every night he's got to fight off demons and the great serpent, Apep, which is trying to eat him and also the entire world. And so, when an Egyptian dies, they sort of mimic this passage through the underworld. You've got to have the various spells in the pyramid text and you've got to have a heart which is lighter than a feather and so on and so forth. But this idea that the sun dies every evening and is reborn every morning, that resonated with me. I suppose it’s a theme that I keep coming back to.
 
 **Alex**: The idea of reincarnation?
 
-**Emily**: Right, and sort of passing through the underworld, as a mirror to life. Your journey through death being a mirror of your journey through life. And then it started accreting on these different ideas. I was reading [Mobile Firebrand Zero](https://lumpley.itch.io/firebrands) at the time, which is a collection of mini-games in the same vein. It has Shall We Dance, a mini game about a dance, which I think [Friends at the Table](https://friendsatthetable.net/) famously used to model a fight. Or maybe it was the other way, I forget. Afterwards, I read [Stewpot by Takuma Okada](https://noroadhome.itch.io/stewpot) and said to myself, “Well you’ve done it far better than I have, so there goes my feather in my hat.”  
-
-<aside class="pquote">
+<aside class="centerpquote">
     <blockquote>
         <p>Sometimes this pot of ideas will curdle like cheese and a lump will float up, combining a few different ideas.</p>
     </blockquote>
 </aside>
 
+**Emily**: Right, and sort of passing through the underworld, as a mirror to life. Your journey through death being a mirror of your journey through life. And then it started accreting on these different ideas. I was reading [Mobile Firebrand Zero](https://lumpley.itch.io/firebrands) at the time, which is a collection of mini-games in the same vein. It has Shall We Dance, a mini game about a dance, which I think [Friends at the Table](https://friendsatthetable.net/) famously used to model a fight. Or maybe it was the other way, I forget. Afterwards, I read [Stewpot by Takuma Okada](https://noroadhome.itch.io/stewpot) and said to myself, “Well you’ve done it far better than I have, so there goes my feather in my hat.”  
+
 **Emily**: Something must have hit me with this idea of mini games that are separate but connected. I like to present a modular experience, so that you could pick out this portion and use it in some other game. I have some philosophical thoughts on that, but it really comes out of the fact that my first gaming group was and still is wedded to 5th edition D&D, the world's unfortunately greatest role-playing game. 
 
-<aside class="pquote">
+<aside class="centerpquote">
     <blockquote>
         <p>I would take these hot ideas from other games and sort of slip it into D&D, like smuggling medicine into a little peanut butter ball.</p>
     </blockquote>
@@ -143,7 +143,7 @@ No further explanation was sought or offered.
 
 **Emily**: I think that very often someone will write a game which is an attempt to translate very straightforwardly a piece of media. And really this is how I got into games when I was a kid, when I was in middle school, high school, I would encounter some piece of media, some book or some movie, and I would be obsessed with it and have not really anything to do with that obsession, no way to process that, except to I would write a game and be like, okay, if this was a tabletop game, what would it be and what would I be doing and how could I make that character, like writing fanfiction but in the format of a game rather than a story.
 
-<aside class="pquote">
+<aside class="leftpquote">
     <blockquote>
         <p>A copy of a copy is only ever a little bit worse.</p>
     </blockquote>
@@ -187,7 +187,7 @@ No further explanation was sought or offered.
 
 **Emily**: Could I make a game which is phrased entirely in terms of in-game rules or phrased entirely in terms of promises? Let's return to Sun by Night. So the structure of Sun by Night, very secretly, is built on portions from a game called [Chubo's Marvelous Wish-Granting Engine](https://www.drivethrurpg.com/en/product/134196/chuubo-s-marvelous-wish-granting-engine) by Jenna Moran, of whom I am an incredible, enormous fan, supporter, devotee. And Chubo's sort of says there are eight, we'll call them colors, eight genres, eight versions of a character's story, eight moods. And so every character is on a character arc which follows one of these eight patterns of a particular story. And a silver arc is about a sort of, you've got this curse, you've got something heavy weighing on you, how do you progress through life and absorb it and digest it very slowly and eventually come to epiphany? Versus a black arc is about some mystic power in your life, some revelation outside your control and how that reaches into your life and transforms you and transforms those around you. And so in Sun by Night, my secret little game that I played with myself as I was writing the game is can I do that? The first half of Sun by Night, the houses of evening, all the way up until midnight, are a silver arc. They're the story of first being dead and learning to process that and then being dead and being obsessed with it and then being dead and giving up about it and then you reach midnight. 
 
-<aside class="pquote">
+<aside class="leftpquote">
     <blockquote>
         <p>In every game after midnight, I forbid myself to roll dice normally.</p>
     </blockquote>
@@ -223,7 +223,7 @@ No further explanation was sought or offered.
 
 **Emily**: And so all the time when I am writing I am translating a thought into writing. My first language really is thought and is a synesthetic little soup of _what does this really mean to me_? So I am always interested in interesting prose and I'm absorbing it and kind of soaking it up and playing with it. For example as I was working on Houses of the Sun By Night I was reading these Egyptian spells, and I was reading translations of the Descent of Inanna, and I was reading \[The Odyssey\], the Greek about when they go down into the underworld to talk to Tiresias and Achilles, and the way that these things are rendered, it gives a little bit of room to play with it at the same time. 
 
-<aside class="pquote">
+<aside class="leftpquote">
     <blockquote>
         <p>My first language is thought, and so all the time when I am writing I am translating a thought into writing.</p>
     </blockquote>

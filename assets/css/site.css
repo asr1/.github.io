@@ -44,10 +44,10 @@ blockquote {
     margin: 0; /* gets rid of the default blockquote margin */
 }
 
-.pquote {
+.pquote, .rightpquote {
     float: right;
     width: 200px;
-    background: url(images/openquote.gif) top left no-repeat;
+    background: url(../img/openquote.gif) top left no-repeat;
     color: #030;
     font-size: 26px;
     line-height: 0.9;
@@ -55,11 +55,39 @@ blockquote {
     padding: 13px;
 }
 
+.centerpquote {
+    float: center;
+    width: 600px;
+    background: url(../img/openquote.gif) top left no-repeat;
+    color: #030;
+    font-size: 26px;
+    line-height: 0.9;
+    font-weight: bold;
+    font-style: italic;
+    padding: 13px;
+}
+
+.leftpquote {
+    float: left;
+    width: 200px;
+    background: url(../img/openquote.gif) top left no-repeat;
+    color: #030;
+    font-size: 26px;
+    line-height: 0.9;
+    font-style: italic;
+    font-weight: bold;
+    padding: 13px;
+}
+
+.widequote {
+width: 250px;
+}
+
 blockquote {
     margin: 0;
 }
 
-.pquote p:first-letter {
+.pquote p:first-letter, .leftpquote p::first-letter, .centerpquote p::first-letter {
     font-size: 39px;
     font-weight: bold;
 }

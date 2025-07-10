@@ -11,8 +11,8 @@ img_path: "../../assets/img/"
 image:
   path: templateHeaders/microphone.jpg
   alt: A microphone in a stand.
+date: 2025-07-07 17:26 -0700
 ---
-
 I chatted with Matthew Nevers, master of tension, modern horror magistrate, and seasonal sensation. We discussed building in public, fake doors, and learning from other games.
 
 _Adapted from a conversation on May 31, 2025_

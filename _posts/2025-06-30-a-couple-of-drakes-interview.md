@@ -11,8 +11,8 @@ img_path: "../../assets/img/"
 image:
   path: templateHeaders/microphone.jpg
   alt: A microphone in a stand.
+date: 2025-06-30 15:49 -0700
 ---
-
 I’m chatting with Shawn and Navi Drake of A Couple of Drakes, known for games like Dead Belt, Court of Blades, HEDGE, Fe Borg, and more!
 
 _Adapted from a conversation on May 30, 2025_

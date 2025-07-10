@@ -18,5 +18,7 @@ Below is the list of movies I've seen this year, very roughly sorted by how much
 * **Hundreds of Beavers** *Some pretty good looney tunes style hijinks. There's a reason most looney tunes skits are 100 minutes long.*
 
 * **Deadpool and Wolverine**
+* **Puss In Boots (2011)**
 * **Sinners**
+* **Puss In Boots: The Last Wish** *Brilliants film, though I wasn't a fan of the lower frame rate and different animation styles during action sequences.
 * **Monsters University**
