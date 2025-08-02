@@ -11,6 +11,7 @@ img_path: "../../assets/img/"
 image:
   path: templateHeaders/microphone.jpg
   alt: A microphone in a stand.
+date: 2025-07-11 09:52 -0700
 ---
 _I spoke to award-winning TTRPG designer Josh McCrowell about His Majesty The Worm, the dungeon crawling RPG currently nominated for two ENNIE awards._
 
@@ -104,4 +105,4 @@ _Editor’s note: I’ve misrepresented the spirit of the quote, which is that t
 
 **Josh**: In some way, it’s the worst of all worlds. You know, OSR grognards don’t want to learn a new system. The compatibility really is what they want, and they have their preferred systems, you know, why get this weird one? And everyone else thinks that the OSR people are weird and basement-dwelling creeps, and there’s weirder quarters there — I don’t want to go there! So in some ways it’s for nobody! In other ways, it’s for me. It’s the game I wanted to play, it’s the game I have played, and continue to play with my gaming group. Our campaign is ongoing, we’ve been playing for eight years now. And my hope is that whoever you are and wherever you are in your journey of RPGs, if you’ve ever wanted to try out dungeoneering, it will be for you too. I get a kick out of it, and I hope you like it too.
 
-[_Vote for His Majesty the Worm for Best Game and Best Rules in the 2025 Ennies_](https://ennie-awards.com/vote/)_._
+[_Vote for His Majesty the Worm for Best Game and Best Rules in the 2025 Ennies_](https://vote.ennie-awards.com/vote/2025/)_._

@@ -19,6 +19,7 @@ Below is the list of movies I've seen this year, very roughly sorted by how much
 
 * **Deadpool and Wolverine**
 * **Puss In Boots (2011)**
+* **My Neighbor Totoro**
 * **Sinners**
 * **Puss In Boots: The Last Wish** *Brilliants film, though I wasn't a fan of the lower frame rate and different animation styles during action sequences.
 * **Monsters University**

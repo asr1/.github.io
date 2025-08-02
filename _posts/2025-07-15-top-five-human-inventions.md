@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Top five human inventions
+date: 2025-07-15 20:39 -0700
 ---
-
 I love the Nintendo Switch. It’s one of my favorite pieces of technology I own, and is a technological marvel. The screen, the size, the portability, switching seamlessly between handheld and docked modes, the controller pairings.
 
 But this is neither an ad, nor even a blog post about the Nintendo Switch. This is about humanity’s greatest inventions, and as much as I love it, the Nintendo Switch doesn’t even crack to the top 50[^1], especially if you look at all the components that make it happen. The battery, the transistor, electronics, the computer! 
