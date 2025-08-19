@@ -11,8 +11,8 @@ img_path: "../../assets/img/"
 image:
   path: templateHeaders/microphone.jpg
   alt: A microphone in a stand.
+date: 2025-08-15 11:59 -0700
 ---
-
 _Sam Leigh, independent game designer, shared with me her journey from publishing her first game to focusing on game development more substantially, from owning one tarot deck to making a breakout tarot journaling game, and of designing games with introspection at their core._
 
 Edited and adapted from a conversation on July 2, 2025

@@ -10,8 +10,8 @@ img_path: "../../assets/img/"
 image:
   path: templateHeaders/car.jpg
   alt: A blue car. It looks fast.
+date: 2025-08-11 11:02 -0700
 ---
-
 My entrypoint to the [Forza](https://en.wikipedia.org/wiki/Forza) series was Forza Horizon 4, an arcade racing game. I didn't expect to like it. I don't typically enjoy racing games, but I must have had it recommended to me, so I gave it a spin. Immediately I fell in love. 
 
 The goal of Forza was to make car fans into video game fans, and video game fans into car fans. I don't know that it wholly worked on me, but I sure do enjoy zooming around in cars with silly decals. My wife drives a Ford Escape, and I was able to spraypoint one rose gold, cover it in gaudy decals (including one spelling out WIFE in cursive), and now she loves to drive the "Wifemobile" around looking for hidden barns.
@@ -50,10 +50,16 @@ And then there's the drivatars. These are a focal point of later games, avatars 
 
 There seem to be fewer cars per manufacturer this time around, but boy howdy are there a LOT of manufacturers! I expected the opposite, a handful of makes with many models. Very wide, rather shallow. Some of my favorite "casual" cars are missing, but we've got a lot of muscle cars at the like.
 
-The cars don't even have license plates!
+The cars don't even have license plates! The car breaking physics are also very limited compared to later games. Sometimes I'll get an animation of my bumper falling off, but there it is, still attached, like a tooth poking through once the baby tooth is shorn.
+
+There are some lasting damage decals (depending on the car), but this is something the later games really amplify, your ability to roll a car and drive around looking like you just lost a fight with a telephone pole or two.
 
 ## Me
 
 Later games are so customizable, I can pick my name, pronouns, voice, outfits, prosthetic limbs, and more. Here, I'm a specific (unnamed) guy out of the box, with no say in any of that. It's sort of odd, since it's not customizable that I also don't have a name. The later games swing so far in the other direction, there are dozens (if not hundreds) of fully voiced names. Here I am stock, out of the box "mystery driver".
 
 I was surprised in Horizon 4 the first time someone called me Alex (it had read it from my profile automatically), and I just assumed that was the protagonist's name. When it happened again in 5, I realized something was up (and discovered the nickname feature immediately after).
+
+## Design Labs
+
+It's a tradition in every Forza game that I design my wife a hideous car dubbed THE WIFEMOBILE. It uses all her favorite colors, resembles the car she drives, and has WIFE plastered on every surface in a gaudy cursive font. I was pleasantly surprised to see the decal editor in this game! I was sure it was a later addition. There's some clunkiness (can't paint stock tires, can't change tires from the paint shop, can't see all tires without clicking into each brand one at a time... tires are a pain!), but there IS a "copy all decals from other side" button. Unfortunately, they come in mirrored with no way to flip, so that's a non-starter.

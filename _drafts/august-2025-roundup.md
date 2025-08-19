@@ -27,3 +27,8 @@ Below are things I've learned, remembered, or found interesting in the past mont
 6. [Planet, planet, PLANET](https://www.scientificamerican.com/article/jwst-spots-possible-alien-planet-at-alpha-centauri/)!
 
 7. [Lenses, not boxes](https://bsky.app/profile/stcymsn.bsky.social/post/3lvjw6ulxbc2f).
+
+8. Bluesky thread from a lawyer about why digital platforms [gobble up all your image rights](https://bsky.app/profile/questauthority.bsky.social/post/3lty6jspyet2m).
+
+9. Younger Japanese people [talk about time](https://www.japantimes.co.jp/life/2025/08/15/bilingual/japanese-time-clock/?utm_medium=social&utm_source=bluesky#Echobox=1755385063-1) in a slightly different way than previous generations. Slipped in is a neat tidbit: instead of saying that a store closes at 1 am on Tuesday, it'll say that it's open until 25:00 on Monday.
+
