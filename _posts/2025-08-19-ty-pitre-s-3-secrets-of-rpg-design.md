@@ -11,8 +11,8 @@ img_path: "../../assets/img/"
 image:
   path: templateHeaders/microphone.jpg
   alt: A microphone in a stand.
+date: 2025-08-19 07:50 -0700
 ---
-
 *Edited and adapted from a conversation on July 15, 2025*
 
 **Alex**: Now I understand that you are here to tell me the three secrets of RPG design. Is that right?
@@ -43,7 +43,7 @@ image:
 
 **Ty**: Interestingly, I've been working on Hollovine sort of on and off throughout the years. This is the first year of major dedication, but when Wildsea came out, I said, “wow, that concept looks really cool. I'm never going to read that book.” It's too close for cross-contamination. I love looking at the pictures, I love hearing about it, I just absolutely refuse to engage with it — through no fault of its own.
 
-**Alex**: I have some of those. I am working on a game right now that is inspired by my limited understanding of what a [Persona](https://en.wikipedia.org/wiki/Persona_(series)) game is, for that same reason. 
+**Alex**: I have some of those. I am [working on a game]({% link _posts/2025-08-06-road-to-glory-what-s-in-a-name.md%}) right now that is inspired by my limited understanding of what a [Persona](https://en.wikipedia.org/wiki/Persona_(series)) game is, for that same reason. 
 
 **Ty**: I also have a limited understanding of Persona, but I’m suddenly very interested to see what that looks like as an RPG.
 
@@ -87,7 +87,7 @@ image:
 
 **Ty**: Lots of crying?
 
-**Alex**: The [newspaper](https://www.thisamericanlife.org/348/tough-room)! They throw out their first six ideas every day. \[FOOTNOTE: Not quite! Each writer shows up with 15 headlines to a pitch meeting, each one needs 2 votes to not be pruned\]
+**Alex**: The [newspaper](https://www.thisamericanlife.org/348/tough-room)! They throw out their first six ideas every day.[^1]. 
 
 **Ty**: Oh interesting. Yeah, pretty much that. There’s a bit of a weird thing where you come up with an idea and you almost don't want to write it down because you know that you’re going to have to cut it. At the same time, you really just have to get the low hanging fruit out of your system. The only way to make them go away is to physically write them down. You can't just pretend that you won't use it, you actually have to physically take it out of your head and put it on paper. I think that's true for almost everything. This is not mind-blowing stuff I'm saying.
 
@@ -148,3 +148,6 @@ image:
 **Ty**: It feels like a natural way to support play.
 
 _Find Ty’s games on_ [_Itch_](https://mindstormpress.itch.io/)_, and follow his_ [_blog_](https://www.mindstormpress.com/)_._
+
+
+[^1]:  Not quite! Each writer shows up with 15 headlines to a pitch meeting, each one needs 2 votes to not be pruned

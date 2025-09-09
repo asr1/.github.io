@@ -11,8 +11,8 @@ img_path: "../../assets/img/"
 image:
   path: templateHeaders/microphone.jpg
   alt: A microphone in a stand.
+date: 2025-08-26 10:52 -0700
 ---
-
 **I like it when games look nice: an interview with Erin Tierney**
 ==================================================================
 

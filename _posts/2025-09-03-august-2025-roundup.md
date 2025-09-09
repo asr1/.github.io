@@ -11,6 +11,7 @@ img_path: "../../assets/img/"
 image:
   path: templateHeaders/roundup.jpg
   alt: A wide shot of a library
+date: 2025-09-03 21:14 -0700
 ---
 Below are things I've learned, remembered, or found interesting in the past month: 
 
@@ -32,3 +33,8 @@ Below are things I've learned, remembered, or found interesting in the past mont
 
 9. Younger Japanese people [talk about time](https://www.japantimes.co.jp/life/2025/08/15/bilingual/japanese-time-clock/?utm_medium=social&utm_source=bluesky#Echobox=1755385063-1) in a slightly different way than previous generations. Slipped in is a neat tidbit: instead of saying that a store closes at 1 am on Tuesday, it'll say that it's open until 25:00 on Monday.
 
+10. Church in Sweden [took a little journey](https://www.bbc.co.uk/news/articles/cde3xp4xlw9o) across town, organ, paintings, and all.
+
+11. [Questions to ask](https://bsky.app/profile/davechisholmcomics.com/post/3lwrlwzdbzc2j) if you're stuck drawing a comic.
+
+12. [New dinosaur](https://www.nhm.ac.uk/discover/news/2021/september/new-species-of-dinosaur-had-armour-unlike-anything-seen-before.html)! The oldest Ankylosaur ever found, and it's a spiky one!  
