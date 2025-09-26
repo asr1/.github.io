@@ -12,8 +12,10 @@ image:
 ---
 Below is the list of movies I've seen this year, very roughly sorted by how much I enjoyed them (least favorite at the top, favorite at the bottom). Commentary included for select movies.
 
+* **Johnny Dangerously (1984)**
 * **Metropolis (1927)** *I found myself constantly asking, "Wait, how did they do *that* effect?". Visually, the movie is stunning. Thematically, I felt like it went off the rails in the second half, and the final message and ending sequence felt like a return to status quo in a way that is strictly worse for everyone involved*.
 
+* **Planes, Trains, And Automobiles**
 * **On Her Majesty's Secret Service**
 * **Hundreds of Beavers** *Some pretty good looney tunes style hijinks. There's a reason most looney tunes skits are 100 minutes long.*
 
@@ -22,8 +24,11 @@ Below is the list of movies I've seen this year, very roughly sorted by how much
 * **Nope (2022)**
 * **Puss In Boots (2011)**
 * **Rocky (1976)**
+* **¡Three Amigos! (1986)**
 * **My Neighbor Totoro**
 * **Sinners**
 * (Rewatch) **National Treasure**
+* **The Marvels (2023)**
 * **Puss In Boots: The Last Wish** *Brilliants film, though I wasn't a fan of the lower frame rate and different animation styles during action sequences.
 * **Monsters University**
+* **The Naked Gun (2025)**
