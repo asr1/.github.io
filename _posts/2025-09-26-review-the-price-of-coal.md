@@ -10,8 +10,8 @@ img_path: "../../assets/img/"
 image:
   path: templateHeaders/coalprice.png
   alt: Cover image for Price of Coal by Jennifer Adcock
+date: 2025-09-26 14:13 -0700
 ---
-
 [Price of Coal](https://www.indiepressrevolution.com/xcart/The-Price-of-Coal.html) is a GMless story game about labor rights, based on the historical period leading up to the Battle of Blair Mountain in West Virginia, USA.
 
 Mechanically, it's a mix of [Fiasco](https://en.wikipedia.org/wiki/Fiasco_(role-playing_game)) and [The Quiet Year](https://en.wikipedia.org/wiki/The_Quiet_Year). Each player controls two characters, one who is a miner, and one who is a supporting character from the town. Each player takes turns drawing a tarot card and framing a scene based on the prompt. This is repeated several times through each season, leading up to the Battle of Blair Mountain at the end.

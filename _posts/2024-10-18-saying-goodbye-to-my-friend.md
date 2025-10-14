@@ -44,7 +44,7 @@ A week ago we said goodbye to our dog. When I broke the news to a friend, he res
 
 The first time this friend (we'll call him Kyle, because well, that's his name) met Lacy it was to drive her to be boarded for a couple days while my wife and I were traveling. Kyle pulled up and popped his trunk to put her food in the back. Without hesitation, Lacy jumped in to trunk, resurfacing with a tennis ball she had found inside. She immediately and implicitly loved everyone she ever met.
 
-Kyle's favorite Lacy story comes from a board game night at his house. We'd been introducing Lacy ot his two cats. They got along find, but had a healthy respect for one another. Mostly, Lacy was scared senseless of them[^1]. But we had been practicing, and they were comfortable. Until the cheese incident.
+Kyle's favorite Lacy story comes from a board game night at his house. We'd been introducing Lacy ot his two cats. They got along fine, but had a healthy respect for one another. Mostly, Lacy was scared senseless of them[^1]. But we had been practicing, and they were comfortable. Until the cheese incident.
 
 Kyle tossed his cat a small piece of cheese. The cat didn't want the cheese, not all at once, but it sat on it, biding its time. Lacy walked by — TOO CLOSE to the cheese (a tiny morsel, Lacy wasn't even aware of it), and the cat struck, defending its claim.
 
