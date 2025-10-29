@@ -47,7 +47,7 @@ date: 2025-10-22 10:19 -0800
 23b. Some of these AI tools are the fastest-downloaded apps of all time. This proves some craving. No one is craving integration in every facet.  
 23c. Security updates and the like can be recommended in the strongest possible terms. If any software must be forced, it is these.  
 23d. The more seamlessly software is offered, the happier the user is. No one opposes updates. They oppose change and they oppose inconvenience. Minimize both.
-24. AI looks like AL, and we should really do something about serifs. They're important when 1 l and I can all look the same!
+24. AI looks like AL, and we should really do something about serifs. They're important when 1 l and I can all look the same! At a minimum, we should put dots in. A.I.
 
 
 Bonus: AI is not going to destroy civilization, it's over-invested in, and uses too much energy. But, if it's the path that gets America on nuclear energy, there's a silver lining to it all.

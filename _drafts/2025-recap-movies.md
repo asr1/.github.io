@@ -44,6 +44,7 @@ Below is the list of movies I've seen this year, very roughly sorted by how much
 * **Molly's Game**
 * (Rewatch) **National Treasure**
 * **The Marvels (2023)**
+* **The Spy Who Loved Me**
 * **Puss In Boots: The Last Wish** *Brilliants film, though I wasn't a fan of the lower frame rate and different animation styles during action sequences.
 * **The Fabelmans (2022)**
 * **Monsters University**

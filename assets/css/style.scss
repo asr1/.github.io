@@ -12,3 +12,27 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 @import url("site.css");
 
 /* append your custom style below */
+
+/* Light mode link colors */
+:root {
+  --link-color: #0056b3;       /* normal link color */
+  --link-hover-color: #003d80; /* hover color */
+}
+
+/* Dark mode link colors */
+[data-theme="dark"] {
+  --link-color: #66aaff;
+  --link-hover-color: #99cfff;
+}
+
+/* Apply them to all <a> elements */
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: var(--link-hover-color);
+  text-decoration: underline;
+}
