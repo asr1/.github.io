@@ -2,7 +2,7 @@
 layout: post
 title: Watch someone else load your dishwasher for fame and success
 categories:
-- misc
+- Misc
 img_path: "../../assets/img/"
 date: 2025-10-31 07:41 -0700
 ---

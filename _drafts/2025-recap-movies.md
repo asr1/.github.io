@@ -12,6 +12,7 @@ image:
 ---
 Below is the list of movies I've seen this year, very roughly sorted by how much I enjoyed them (least favorite at the top, favorite at the bottom). Commentary included for select movies.
 
+* **Stalker (1979)**
 * **Mr. And Mrs. Smith** *This movie made no sense. If I didn't know the actors were married in real life, I'd never have believed it. A few cool action scenes do not save this trainwreck.*
 
 * **Live and Let Die** *This felt like at least two separate movies, and the first one was wildly bad.*
@@ -36,11 +37,13 @@ Below is the list of movies I've seen this year, very roughly sorted by how much
 * **Puss In Boots (2011)**
 * **Rocky (1976)**
 * **¡Three Amigos! (1986)**
+* **Sonic The Hedgehog 3**
 * **My Neighbor Totoro**
 * **Sinners**
 * **Top Secret (1984)**
 * **Steve Jobs (2015)** *Some phenomenal choices by director Danny Boyle, and the script neatly avoids the issue many biopics have, where the tension and reality diverge to become uninteresting or fizzle out. The movie ends when the tension does, at effectively a random point. How do you take a script that's mostly people talking and make it interesting? Either business or stakes. This film utilizes both, as well as some fascinating visuals. The hallway satellite scene is inspired work!*
 
+* **Frankenstein (2025)**
 * **Molly's Game**
 * (Rewatch) **National Treasure**
 * **The Marvels (2023)**
@@ -48,5 +51,6 @@ Below is the list of movies I've seen this year, very roughly sorted by how much
 * **Puss In Boots: The Last Wish** *Brilliants film, though I wasn't a fan of the lower frame rate and different animation styles during action sequences.
 * **The Fabelmans (2022)**
 * **Monsters University**
+* **Le Samouraï (1967)**
 * **Fantastic Mr. Fox (2009)**
 * **The Naked Gun (2025)**
