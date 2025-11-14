@@ -3,6 +3,10 @@ layout: post
 title: Wolves and doors
 categories:
 - Misc
+tags:
+- ai
+- technology
+img_path: "../../assets/img/"
 date: 2025-11-07 07:00 -0700
 ---
 Two years ago, I received a survey at work that, quite frankly, pissed me off. It presented me with a [Likert scale](https://en.wikipedia.org/wiki/Likert_scale) asking me to rate from 1-5 how much I agreed with the statement

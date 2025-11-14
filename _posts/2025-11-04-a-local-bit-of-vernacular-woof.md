@@ -5,7 +5,7 @@ categories:
 - Misc
 tags:
 - vocab
-date: 2025-11-14 09:00 -0800
+date: 2025-11-21 09:00 -0800
 ---
 Among my friend group, the most versatile word is "woof".
 

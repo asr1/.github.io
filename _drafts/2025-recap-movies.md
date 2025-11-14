@@ -37,6 +37,7 @@ Below is the list of movies I've seen this year, very roughly sorted by how much
 * **Puss In Boots (2011)**
 * **Rocky (1976)**
 * **¡Three Amigos! (1986)**
+* (Rewatch) **Close Encounters of the Third Kind**
 * **Sonic The Hedgehog 3**
 * **My Neighbor Totoro**
 * **Sinners**
