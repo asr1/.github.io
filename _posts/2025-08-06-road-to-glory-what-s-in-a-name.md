@@ -3,6 +3,7 @@ layout: post
 title: 'Road to Glory: what''s in a name?'
 categories:
 - Road to Glory
+- Building in public
 tags:
 - code
 - game-design

@@ -10,6 +10,7 @@ tags:
 - curation
 - recommendation
 - rpg
+img_path: "../../assets/img/"
 ---
 What are you doing right now? I know you're not playing an RPG because you're reading a blog, and doing that at the table would make you *an asshole*. 
 
@@ -38,14 +39,14 @@ Each playbook plays differently, and the enemies are varied as they come pouring
 
 ![SCRPG header](scrpg.png)
 
-Sentinels of the Multiverse is a card game based off a series of comics that don't exist. There's a lot of lore there (some of it I have beef with), but it's a lived-in world with established heroes and villains. Like any good[^1] supers game, you can also create your own.
+Sentinels of the Multiverse is a card game based off a series of comics that don't exist. This is an RPG based off that game. There's a lot of lore there (some of it I have beef with), but it's a lived-in world with established heroes and villains. Like any good[^1] supers game, you can also create your own.
 
 **Why I love it**  
 The character creation in this system rules. You roll a couple dice, and combine them in various ways to pick abilities, origins, motivations, and flaws off of tables, and then get to pick your powers based on the above. It's fun, it's fast, and it's *way* cooler than I'm making it sound.
 
 There's a ton of flexibility in this game, without it turning into a fight to be optimal or a buffet of power points like many supers games. There's a great mix of narrative powers, *and* your abilities change and grow as the fight goes on and you get weaker. Some heroes are tanks from the go, while others only engage once they get into the red...
 
-Sentinels is my favorite comic game, and it shines when the scenes are long, full of dynamic, comic-book style threats and environments, and defined by goals *other* than "punch the other guy" — but of course, there's plenty of punching, too!
+Sentinels is my favorite supers game, and it shines when the scenes are long, full of dynamic, comic-book style threats and environments, and defined by goals *other* than "punch the other guy" — but of course, there's plenty of punching, too!
 
 Bizarrely, the setting of this game is *after* the "end" of the canon world, which just means that you get to set up your own adventures on a fresh plate.
 
@@ -102,7 +103,7 @@ Here, you go below the city, where everyone is evil and the brains run on time. 
 **Why I love it**  
 I could tell you that Heart has a clever fallout system that makes your characters' lives into a slowly building ball of tension that explodes, bit by bit to give them accumulating bits of unnerving, unsettling, and unwelcome tics. That they are morphing the hell around then just as must as the hell around them is morphing them.
 
-That wouldn't be a lie, but it wouldn't be true, either. The reason I love Heart is because it has the best damn powers of any game ever. Spire famously has Man With A Gun, a power where your noir journalist summons a man with a gun and no particular allegiance into the scene. Heart has a man who wears armor that is also a train. Heart has a witch made out of bees. Heart has — did you hear the train one? You can have TRAIN ARMOR!
+That wouldn't be a lie, but it wouldn't be true, either. The reason I love Heart is because it has the best damn classes of any game ever. Spire famously has Man With A Gun, a power where your noir journalist summons a man with a gun and no particular allegiance into the scene. Heart has a man who wears armor that is also a train. Heart has a witch made out of bees. Heart has — did you hear the train one? You can have TRAIN ARMOR!
 
 Heart is a game where you are constantly planning your own demise, because the way you die is VERY COOL! You can make a statue out of beeswax, permanently cementing yourself and another into this terrible place. You can whistle, summoning the train that has been hunting you for ages, telling it exactly where you are... knowing that in its path to run you down (and reclaim its coal-stained hide from your armor?) it will take your foes down with it.
 
@@ -112,14 +113,31 @@ Spire is a game about trying to rebel, and knowing you'll fail. Heart is a game 
 
 The year is 2007. The world has split into 12 realities, all of them doomed. You, like a very small percent of people, have a gene that allows you to travel between them. Oh, you also have experienced severe trauma, which gave you super powers, and the world-traveling can only happen at places of high emotion.
 
-![Broken Rooms Cover](brCover.png)
+![Broken Rooms Cover](brCover.png){: height="350"}
 
 **Why I love it**  
 Broken Rooms has a d12 dice mechanic that matches its lore (13s are crits, and appear *everywhere* in the world). The setting is miserable and familiar, the quests short in nature and mirroring the heroe's journey (easy to go down, hard to climb back "up" to the more stable worlds), and over the source of a campaign you grow more powerful and also less able to relate to those around you. You are constantly seeing suffering and losing your ability to connect as a result of it. 
 
-I'm a sucker for a game with an ending, and this is a game 
+I'm a sucker for a game with an ending, and this is a game about getting too powerful and retiring to heaven (literally — once you attune to all 13 worlds, you're done). Each world gives a different power, and you sort of end up filling out a heist squad as you play. Someone can open up a rift? Someone else can kill the lights? Let's roll.
+
+It's an emotional game that also allows for periods of comedy, of joy, and of pure catharsis. 
+
+Plus, my copy came with the middle 80 pages blank and/or duplicated from those around it, which just makes it a really cool play prop. As far as I can tell, the designers up and vanished into the ether after making it, and it's been out of print for ages, but golly if it will always have a home on my shelves!
 
 ### 13th Age
 
+
+![13th Age header](13thAge.png)
+
+13th Age is my favorite D&D clone. My biggest gripe with it is that that's *all* it's aspiring to be. If it had the kind of crazy classes that Heart had, this game would be an absolute gem. So as much as I frown when I see "Fighter, Ranger, Wizard Rogue", I have to smile at the sheer brilliance of the implementations. 
+
+**Why I love it**  
+People call Pathfinder 1e D&D version 3.75. They're wrong. Pathfinder is 3.5.1. You can fit the changes from 3.5 to Pathfinder 1 on a single notecard. It doesn't take lessons from D&D, it pretends it doesn't exist.
+
+13th Age is 3.75. It takes the roleplaying focus of the 3rd edition of the game and combines it with the tactics of the 4th. Gone are the massive lists of skills, replaced with an elegant background system (I have a 3 in Sailor, and that makes me pretty good at keeping my balance in rough water, surely that applies here!). 
+
+Not everything lands. One Unique Thing is a little kitchy for my taste, and I never really cared for how involved the (13) gods ("Icons") are in play. But the things that land land *hard*. Each enemy has goals and objectives, and every level up matters. It's a theatre-of-the-mind game with *teeth*, where powers hit 5 enemies clustered together, and most spells give you a choice: cast it big and weak, small and focused.
+
+If you're gonna play a D&D-like, you can do a hell of a lot worse than this one!
 
 [^1]: This isn't true! Marvel Heroic, for one, is an excellent supers game that launched without character creation rules and it STILL rules.

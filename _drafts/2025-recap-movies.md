@@ -44,6 +44,7 @@ Below is the list of movies I've seen this year, very roughly sorted by how much
 * **Top Secret (1984)**
 * **Steve Jobs (2015)** *Some phenomenal choices by director Danny Boyle, and the script neatly avoids the issue many biopics have, where the tension and reality diverge to become uninteresting or fizzle out. The movie ends when the tension does, at effectively a random point. How do you take a script that's mostly people talking and make it interesting? Either business or stakes. This film utilizes both, as well as some fascinating visuals. The hallway satellite scene is inspired work!*
 
+* **Arsenic and Old Lace (1944)**
 * **Frankenstein (2025)**
 * **Molly's Game**
 * (Rewatch) **National Treasure**

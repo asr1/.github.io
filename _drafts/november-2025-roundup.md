@@ -1,6 +1,6 @@
 ---
 layout: post
-title: December 2025 Roundup
+title: November 2025 Roundup
 categories:
 - Roundup
 tags:
@@ -33,4 +33,7 @@ Axios also has this [interactive article](https://www.axios.com/ford-pickup-truc
 
 10. I don't like to toot the horn of a.i. [(indeed I made my opinions on the matter clear last month)]({% link _posts/2025-10-22-lukewarm-takes-on-ai.md%}) , but this [write-up from a historian](https://generativehistory.substack.com/p/has-google-quietly-solved-two-of?ref=platformer.news) is pretty impressive.
 
+11. I've known about West [African day names](https://thediasporacollective.com/blogs/discover/african-day-names) for a while, but just learned about [Bali birth order names](https://en.wikipedia.org/wiki/Balinese_name).
+
+12. [Tips on drawing faces](https://bsky.app/profile/feathernotes.bsky.social/post/3lyxwagiho22y).
 
