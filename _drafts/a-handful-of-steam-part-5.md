@@ -24,3 +24,9 @@ and [Part 4]({% link _posts/2025-06-10-a-handful-of-steam-part-4.md%})
 One thing I always look for in a demo is good tutorialization, and this has some of the best I've seen. The game itself looks great, and is full of polish. It's a standard fantasy dungeon crawler with roguelike elements (that are explained clearly to newcomers, but not to tedium for veterans). As you progress, there are some sci fi elements as well, which I'm a big fan of. I don't see myself returning to this one, as there's a lot of involved inventory management, and the Diablo style combat never hooked me. 
 
 But if a pixel graphics Diablo with recruitable party members and a meta plot interests you, then by all means — check this out. It's a very well done implementation of the genre.
+
+## RKGK
+
+![2146570](https://steamcdn-a.akamaihd.net/steam/apps/2146570/library_600x900_2x.jpg)
+
+This is a gorgeous 3D platformer where the main ingredient is Grafiti. Stylistically, it's got a lot of Jet Set Radio, but with extremely competent platforming. Unfortunately, it loses some of the vibrant level design and the music. The music is the biggest loss here, but we get a straightforward plot and a bunch of stages that seem designed to speedrun. The generous demo shows off the platforming, and gives a good idea of whether or not this game will be for you.

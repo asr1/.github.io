@@ -10,8 +10,8 @@ img_path: "../../assets/img/"
 image:
   path: templateHeaders/roundup.jpg
   alt: A wide shot of a library
+date: 2025-11-30 14:15 -0800
 ---
-
 1. Australia has [so much solar](https://electrek.co/2025/11/04/australia-has-so-much-solar-that-its-offering-everyone-free-electricity-3h-day/) that it's giving everyone 3 hours a day, free. There are solutions all around for those with eyes to see. Nuclear, solar (nuclear but far away). We've got options!
 
 2. [Nanotyrannus is back!](https://www.earth.com/news/t-rex-history-is-completely-rewritten-by-the-discovery-of-dinosaur-named-nanotyrannus/)
@@ -24,16 +24,22 @@ image:
 6. This extremely charming [directory of lighthouses](https://www.ibiblio.org/lighthouse/) around the world.
 
 7. An [Axios article](https://www.axios.com/2023/01/23/pickup-trucks-f150-size-weight-safety) about the relative size of Ford trucks over the years. This image (not from the article) depicts it well.
+
   ![A chart showing how truck beds have shrunk while cabs have grown](truckChange.png) 
 Axios also has this [interactive article](https://www.axios.com/ford-pickup-trucks-history) you can scroll through to see changes ovr the years. It's not as elegant as the chart, IMO.
 
-8. Related, the limited-time Ford "Truckle", a **belt buckle for your car fob**, is very funny to me.
+1. Related, the limited-time $200 Ford "[Truckle](https://www.fromtheroad.ford.com/us/en/ford-truckle)", a **belt buckle for your car fob**, is very funny to me.
 
-9. Bhopal, India. 2019. Two clay frogs are married to appease the rain gods. The ploy worked too well: two months later, the frogs [had to be divorced](https://www.ndtv.com/offbeat/weeks-after-marriage-to-please-rain-god-frogs-divorced-to-end-downpour-2100236) due to devastating monsoons and flooding.
+2. Bhopal, India. 2019. Two clay frogs are married to appease the rain gods. The ploy worked too well: two months later, the frogs [had to be divorced](https://www.ndtv.com/offbeat/weeks-after-marriage-to-please-rain-god-frogs-divorced-to-end-downpour-2100236) due to devastating monsoons and flooding.
 
-10. I don't like to toot the horn of a.i. [(indeed I made my opinions on the matter clear last month)]({% link _posts/2025-10-22-lukewarm-takes-on-ai.md%}) , but this [write-up from a historian](https://generativehistory.substack.com/p/has-google-quietly-solved-two-of?ref=platformer.news) is pretty impressive.
+3.  I don't like to toot the horn of a.i. [(indeed I made my opinions on the matter clear last month)]({% link _posts/2025-10-22-lukewarm-takes-on-ai.md%}) , but this [write-up from a historian](https://generativehistory.substack.com/p/has-google-quietly-solved-two-of?ref=platformer.news) is pretty impressive.
 
-11. I've known about West [African day names](https://thediasporacollective.com/blogs/discover/african-day-names) for a while, but just learned about [Bali birth order names](https://en.wikipedia.org/wiki/Balinese_name).
+4.  I've known about West [African day names](https://thediasporacollective.com/blogs/discover/african-day-names) for a while, but just learned about [Bali birth order names](https://en.wikipedia.org/wiki/Balinese_name).
 
-12. [Tips on drawing faces](https://bsky.app/profile/feathernotes.bsky.social/post/3lyxwagiho22y).
+5.  [Tips on drawing faces](https://bsky.app/profile/feathernotes.bsky.social/post/3lyxwagiho22y).
 
+6.  Related, [how to develop your own art style](https://bsky.app/profile/saraalfageeh.bsky.social/post/3m6kfmx7vfs2b)
+
+7.  Lifted from Experimental History, it's a [T-Rex illusion](https://www.youtube.com/watch?v=A4QcyW-qTUg).
+
+8.  Two of the best RPG-related blogs I've read recently: Ty Pitre on [powder keg adventure design](https://www.mindstormpress.com/pocket-sized-powder-kegs) and Clayton Notesine on [genre in RPGs](https://www.explorersdesign.com/one-genre-games/).
