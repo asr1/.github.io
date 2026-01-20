@@ -10,8 +10,8 @@ img_path: "../../assets/img/"
 image:
   path: templateHeaders/roundup.jpg
   alt: A wide shot of a library
+date: 2025-12-31 16:26 -0800
 ---
-
 1. I've been following Lili, the Royal Shakespeare Company's ongoing effort to [develop a video game](https://www.rsc.org.uk/news/macbeth-inspired-video-game-lili). Lot of red flags in that first sentence, but it seems like they're making good choices (e.g. taking a production role and backing an existing entity with a small scope). The name is a nightmare (apologies to any Philips around, but I recoil as through from a snake when I see Ls and Is in close proximity), but it's entering production "late 2025".
 
 2. Over the past few years, I've [encountered](https://www.reddit.com/r/LynnwoodWA/comments/1pbtpl2/man_filming_costco_parking_lot/nrtscv7/) people online using "trespass" as a transitive verb. "The store should trespass you", "My friend and I were trespassed from the gas station", "He should be trespassed". I didn't know if it was a regional English-ism or if I was watching a linguistics shift in real time. It turns out, I'm between 12 and 30 years too late to the party. Investigation led me to [this article](https://www.visualthesaurus.com/cm/dictionary/trespassers-will-be-trespassed/) from 2013 where Neal Whitman does a deep dive into the origins of the usage.
