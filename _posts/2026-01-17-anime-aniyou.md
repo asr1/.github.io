@@ -13,7 +13,6 @@ tags:
 - anime
 - books
 - story
-date: 2026-01-20 10:14 -0800
 ---
 There's a certain kind of person who, when confronted with the fact that someone doesn't like something they like, will recommend more of it.  
 

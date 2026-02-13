@@ -156,3 +156,25 @@ font-family: inherit;
     border: solid 1px var(--kbd-wrap-color);
     box-shadow: inset 0 -2px 0 var(--kbd-wrap-color);
 } */
+
+.rightimg {
+  float: right;
+  width: 200px;     
+  margin: 0 0 1rem 1rem;
+}
+
+.rightimg img {
+  width: 100%;
+  display: block;
+}
+
+.leftimg {
+  float: left;
+  width: 200px;  
+  margin: 0 1rem 1rem 0;
+}
+
+.leftimg img {
+  width: 100%;
+  display: block;
+}

@@ -1,27 +1,31 @@
 ---
 layout: post
-title: February 26 Roundup
+title: February '26 roundup
 categories:
 - Roundup
 tags:
 - roundup
 - links
+img_path: "../../assets/img/"
+image:
+  path: templateHeaders/roundup.jpg
+  alt: A wide shot of a library
 ---
 
-1. The nuclear bunker [that is falling](https://www.bbc.com/news/articles/c4g0dp65v77o) (by now probably has fallen) into the sea
+*Below are things I've learned or found interesting in the past month:*
 
-2. [T-Rexes grew](https://phys.org/news/2026-01-rex-grew-slowly-reveals-king.html) until they were 40 years old!
+1. I've been watching a lot of beloved movies recently. And while I've always enjoyed — if not agreed with — Roger Ebert's reviews, I've found his [series on Great Movies](https://www.rogerebert.com/great-movies) to be extremely helpful in understanding why people enjoy Taxi Driver, for example.
 
-3. The Avengers have had many excuses given for their name. "We might not save the world, but you can be damn sure we'll avenge it." being one of the most famous. The truth is that in the original comic, Wasp just thought [it sounded cool](https://scifi.stackexchange.com/a/222473/55174). She was right!
+2. My favorite blog post from last year, [Pocket-Sized Powder Kegs](https://www.mindstormpress.com/pocket-sized-powder-kegs) by Ty of Mindstorm Press. It's possible I've shared it here before. Whatever, it's rad. If you're using factions in your RPGs, give this one a read.
 
-4. Related, this is EXTREMELY NOT TRUE, but someone made a F[rench reimagining](https://imgur.com/gallery/til-avengers-were-originally-french-ymJvpe8) of what the Avengers might have looked like. It's being pitched as something Marvel stole from in 1916. This does not pass muster. Even a little bit. For one thing, Nick Fury wasn't [black until 2001](https://en.wikipedia.org/wiki/Nick_Fury#Ultimate_Marvel). Please don't spread this image as truth, it's just NEAT. As a reimagining.
+3. Adam Mastroianni of Experimental History on why [you should become a public person](https://www.experimental-history.com/p/underrated-ways-to-change-the-world-b64).
 
-5. Evan Waterman's [complete guide to making a comic](https://evanjwaterman.com/guide/).
+4. I've been learning how to draw out of a book, but people keep recommending [Draw A Box](https://drawabox.com/). Haven't tried it yet myself!
 
-6. Matthew Dicks spent a week [backing into parking spots](https://matthewdicks.com/2016-8-1-backing-into-a-parking-spot/). Years ago a mutual on Twitter blocked me when I asked why people back into parking spots. I think about him from time to time. 
+5. Chris McDowell's [article on GM-Focused Playtesting](https://www.bastionland.com/2026/01/gm-focused-playtesting.html) is basically how I create the handouts and cheat sheets for Cyberrats and my other games. Those are some of the universally-praised aspects of the games, even by the critics.
 
-7. Seroe Colorado (Aruba) has a [large red anchor dedicated](http://beachesofaruba.com/things-to-do-in-aruba/seroe-colorado-anchor/) to all (lost) seaman \[sic\]. The anchor was recovered from the seabed, painted red, and turned into a monument and [landmark](https://www.atlasobscura.com/places/red-anchor-memorial). No one knows for sure what ship it came from!
+6. After the murder of George Floyd, Scrabble [removed racial slurs](https://www.cnn.com/2020/07/09/us/scrabble-slurs-ban-trnd) from its official dictionaries. The subhead from CNN points out that this applies "Even if it would be worth a triple word bonus."
 
-8. Related, the California Lighthouse on Aruba was named after the wreck of the S.S. California (not the S.S. California**n** that ignored the Titanic), and apparently children generations later could be seen [wearing "drowned" clothes](https://en.wikipedia.org/wiki/California_Lighthouse#S.S._California) (intended for sale) that washed asea after the wreck. 
+7. Load Bearing Tomato [On chasing player approval](https://loadbearingtomato.com/p/why-chasing-twitters-approval-doesnt).
 
-9. [Boosterism](https://en.wikipedia.org/wiki/Boosterism) is the act of talking up your city, state, or country. Contrast with Knockerism!
+> It doesn’t occur to most players that result they see was not always what was intended. It’s actually incredibly common for things to work out differently than how they were planned. On every single game that has ever been made, either tech debt, design debt, timing, capitalism, or all of the above has forced developers to make something than they intended.

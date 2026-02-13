@@ -15,8 +15,19 @@ Below is the list of the last 30 movies I've seen, very roughly sorted by how mu
 
 * \[Czech\] **The Fabulous Baron Munchausen (1962)**
 * **You Were Never Really Here (2017)**
+* **Taxi Driver (1976)**
+* **A Fistful of DOllars (1964)**
+* **Juror #2** Strong premise, fell off in the last 30 minutes. Did itself a disservice by evoking 12 Angry Men, a much better film.
+
 * **Exit Through The Gift Shop (2010)**
+* \[French\] **Portrait of a Lady on Fire (2019)** 
+* (Rewatch) \[Spanish\] **Pan's Labyrinth**
+* **The Mask of Zorro**
+* (Rewatch) **Gran Torino (2008)**
 * **The Phoenician Scheme (2025)**
+* **Conclave (2024)** The longer I think about this movie, the more I like it.
+
 * **The Iron Giant (1999)**
+* **A Few Good Men**
 * **The Mummy (1999)**
-* \[French\] **The Count of Monte Cristo (2024)** What a brilliant film. Absolutely perfect.
+* \[French\] **The Count of Monte Cristo (2024)** What a brilliant film. Absolutely perfect.  
