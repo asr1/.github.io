@@ -29,3 +29,13 @@ image:
 7. Load Bearing Tomato [On chasing player approval](https://loadbearingtomato.com/p/why-chasing-twitters-approval-doesnt).
 
 > It doesn’t occur to most players that result they see was not always what was intended. It’s actually incredibly common for things to work out differently than how they were planned. On every single game that has ever been made, either tech debt, design debt, timing, capitalism, or all of the above has forced developers to make something than they intended.
+
+8\. Strip Panel Naked has an [incredibly efficient video](https://www.youtube.com/watch?v=cw-QPyBtbGc) about characterization.
+
+10\. This [audiophile study](https://gizmodo.com/audiophiles-fail-to-hear-difference-in-signal-passed-through-copper-cable-banana-and-tray-of-mud-2000723435) has been making the rounds, and it's exactly the kind of thing I'd expect to see from [Experimental History](https://www.experimental-history.com/) (unaffiliated).
+
+11\. This [Tumblr post](https://www.tumblr.com/annasellheim/175148026204/theory-frank-millers-recent-work-is-good-but-it) about Frank Miller's colorist, and other ways to make his linework pop.
+
+12\. [Dialged.gg](http://dialed.gg/), the HSL color matching challenge game.
+
+13\. [New dino](https://www.sciencefocus.com/news/new-dinosaur-discovered-sahara-spinosaurus-mirabilis)!
