@@ -3,8 +3,8 @@ layout: post
 title: A study on enjambment
 tags:
 - poetry
+date: 2026-03-06 11:39 -0800
 ---
-
 I've been studying poetry recently, and have especially enjoyed Mary Oliver's thoughts on enjambment, the decision of where and when to end a line, and the corresponding effects that choice has on the reader. 
 
 Consider the following:

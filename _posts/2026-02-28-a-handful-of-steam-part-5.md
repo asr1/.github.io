@@ -4,17 +4,20 @@ title: A handful of Steam Part 5
 categories:
 - Review
 - Video Games
+- Curation
 tags:
 - video-games
 - review
+- curation
 img_path: "../../assets/img/"
 image:
   path: templateHeaders/steam.jpg
   alt: A valve releasing steam
+date: 2026-02-28 10:38 -0800
 ---
 [Part 1]({% link _posts/2025-02-20-review-steam-demos.md%})  
 [Part 2]({% link _posts/2025-02-27-a-handful-of-steam-part-2.md%})  
-[Part 3]({% link _posts/2025-06-05-a-handful-of-steam-part-3.md%}) 
+[Part 3]({% link _posts/2025-06-05-a-handful-of-steam-part-3.md%})  
 and [Part 4]({% link _posts/2025-06-10-a-handful-of-steam-part-4.md%}) 
 
 ## Escape the Mad Empire
@@ -53,3 +56,22 @@ There'ss also character arcs, and a bit of a story here. After each playable sce
 The framework of being in a studio means that a missed attempt has some cruft — skippable cruft, to be sure, but cruft all the same — of having to hear the director call cut and give a little banter before you can go again.
 
 **Verdict**: This would have killed in the era of World of Goo, but today it feels a little off. Not bloated, exactly, but not as streamlined as modern puzzle platformers. The writing is fun, with lots of jokes and movie references. It took a minute for me to warm up on this one, but it does have a lot of charm, and by the end of the demo, I was smiling and hoping for one more level. ([link](https://store.steampowered.com/app/1684270/Its_a_Wrap/))
+
+
+# All Will Rise
+
+![All Will Rise](https://steamcdn-a.akamaihd.net/steam/apps/3165340/library_600x900_2x.jpg)
+
+A legal drama deckbuilder, this is one of the more unique concepts I've encountered. You are a team of lawyers trying to get justice for a murdered river. Each week you choose missions (one to play, two to send your sidekicks on to resolve off-screen). Each conversation is a battle, where you play cards as consequences or causes to modify 3 attributes of yourself and your partner. 
+
+The game is beautiful, and the writing at times sharp, other times trying too hard. I like the concept, but there are so many scripted events that transform cards that I'm not sure it works for me. Ultimately this is a visual novel with an additional layer on top, and while I find it interesting, it doesn't compel me. That said, I did get a feeling of "One More Turn" when losing a battle that I could have won if I'd picked a different card. The game is still early access, and I would *love* a text warning of "Last turn!", instead of just the progress bar at the top of the screen.
+
+**Verdict:** If you are interested in pretty graphics, sharp writing, or visual novels, check this one out. If you're looking for a deckbuilder, that genre's presence is a little overstated here. The cards are built up slowly, modified by conversation, and sometimes before you ever get to play them. It feels more like showing you a dialogue option and then changing it before giving you the chance to click it.
+
+# Shinobi: Art of Vengeance
+
+![Shinobi: Art of Vengeance2361770](https://steamcdn-a.akamaihd.net/steam/apps/2361770/library_600x900_2x.jpg)
+
+Art is right! This is a stunningly gorgeous metroidvania where you play as a ninja named... Joe. The game is very easy, but the point is that you're overpowered and can execute combos while leveling up quickly (with a very generous economy to learn new moves). It's a beat-em-up that feels modern in its controls and in its setting. Early enemies start with swords but quickly move to guns and helicopters, and I saw a sizzle reel at the end of the demo that showed my ninja leader — who, once again, is named *Joe* — riding a missile towards some enemies.
+
+**Verdict** A fun, pretty, arcadey game that isn't for me.

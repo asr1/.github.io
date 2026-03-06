@@ -16,7 +16,10 @@ Below is the list of the last 30 movies I've seen, very roughly sorted by how mu
 * \[Czech\] **The Fabulous Baron Munchausen (1962)**
 * **You Were Never Really Here (2017)**
 * **Taxi Driver (1976)**
+* \[Korean\] **The Good, The Bad, The Weird (2008)**
 * **Father of the Bride (1991)**
+* **Sex lies and videotape (1989)**
+* **The Batman (2022)**
 * **A Fistful of Dollars (1964)**
 * **The Adventures of Tintin (2011)**
 * **Casino (1995)**

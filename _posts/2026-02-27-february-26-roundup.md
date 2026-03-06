@@ -10,8 +10,8 @@ img_path: "../../assets/img/"
 image:
   path: templateHeaders/roundup.jpg
   alt: A wide shot of a library
+date: 2026-02-27 13:27 -0800
 ---
-
 *Below are things I've learned or found interesting in the past month:*
 
 1. I've been watching a lot of beloved movies recently. And while I've always enjoyed — if not agreed with — Roger Ebert's reviews, I've found his [series on Great Movies](https://www.rogerebert.com/great-movies) to be extremely helpful in understanding why people enjoy Taxi Driver, for example.
