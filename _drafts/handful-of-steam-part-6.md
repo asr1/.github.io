@@ -11,4 +11,19 @@ and [Part 5]({% link _posts/2026-02-28-a-handful-of-steam-part-5.md%})
 
 ## End of Garbage
 
+![End of Garbage Banner](https://steamcdn-a.akamaihd.net/steam/apps/4256210/library_600x900_2x.jpg)
+
+End of Garbage is a short, spooky first-person puzzle game made by a friend of mine. The demo is the first couple of puzzles, and give you a sense for the vibe of the game. 
+
+I've played the whole thing, and while the experience is short, the polish is high and the puzzles really get you thinking. 
+[Check it out](https://store.steampowered.com/app/4256210/End_of_Garbag4256210e/).
+
 ## Australia Did It
+
+![Australia did it Banner](https://steamcdn-a.akamaihd.net/steam/apps/2396130/library_600x900_2x.jpg)
+
+I'm a sucker for any game with a train, as well as merging classes (see my review of Slice & Dice) and this one is no different. 
+
+It's a tricky game, as you have to manage units in a slow tactical layer before transitioning to a bullet hell mode. I made many mistakes in the demo, but couldn't deny its charm, or the QOL features that encouraged experimentation in the weird, radioactive world.
+
+What happened to that world? Well, the answer's in the [title](https://store.steampowered.com/app/2396130/Australia_Did_It/).
