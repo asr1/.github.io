@@ -10,5 +10,10 @@ Below is the list of the last 30 movies I've seen, very roughly sorted by how mu
 **Master and Commander**
 **Batman: Gotham by Gaslight**
 **The Great Dictator (1940)**
+**My Life as a Zucchini**
+**\[French\] Girlhood (2014)**
 **Total Recall (1990)**
-**Project Hail Mary (2026)**
+**Weapons (2025)**
+**American Fiction (2023)**
+**\[French\] Petite Maman**
+**Project Hail Mary (2026)** 

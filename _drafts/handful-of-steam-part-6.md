@@ -27,3 +27,11 @@ I'm a sucker for any game with a train, as well as merging classes (see my revie
 It's a tricky game, as you have to manage units in a slow tactical layer before transitioning to a bullet hell mode. I made many mistakes in the demo, but couldn't deny its charm, or the QOL features that encouraged experimentation in the weird, radioactive world.
 
 What happened to that world? Well, the answer's in the [title](https://store.steampowered.com/app/2396130/Australia_Did_It/).
+
+
+## Cursed Words: The Word Game That Isn't
+
+![Cursed WOrds Banner](https://steamcdn-a.akamaihd.net/steam/apps/3856460/library_600x900_2x.jpg)
+
+It's Balatro but Boggle, and it rules. The demo is extensive, and it quickly lives up to its title about not being a word game at all. [Check this one out](https://store.steampowered.com/app/3856460/Cursed_Words_The_Word_Game_That_Isnt/) for sure. Simple premise, very addicting.
+
