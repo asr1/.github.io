@@ -3,8 +3,8 @@ layout: post
 title: Poem for Lacy
 tags:
 - poetry
+date: 2026-05-07 21:55 -0700
 ---
-
 One sound could rouse that dog  
 from the deepest sleep anywhere in her home.  
 The spinning of the popcorn maker,  
