@@ -31,7 +31,15 @@ What happened to that world? Well, the answer's in the [title](https://store.ste
 
 ## Cursed Words: The Word Game That Isn't
 
-![Cursed WOrds Banner](https://steamcdn-a.akamaihd.net/steam/apps/3856460/library_600x900_2x.jpg)
+![Cursed Words Banner](https://steamcdn-a.akamaihd.net/steam/apps/3856460/library_600x900_2x.jpg)
 
 It's Balatro but Boggle, and it rules. The demo is extensive, and it quickly lives up to its title about not being a word game at all. [Check this one out](https://store.steampowered.com/app/3856460/Cursed_Words_The_Word_Game_That_Isnt/) for sure. Simple premise, very addicting.
 
+## There are No Ghosts at the Grand
+
+![There are No Ghosts at the Grand Banner](https://steamcdn-a.akamaihd.net/steam/apps/3725190/library_600x900_2x.jpg)
+
+They say that when your only tool is a hammer, every problem looks like a nail. 
+You have lots of tools in this charmingly funny demo, but they all look like guns. You also are greeted with a set of problems suited to the tools you have on hand. Mostly these involve cleaning and repairing things. There are some incredible needle drops, and while the game didn't run extremely smoothly on my old hardware, it looks great and has a fun sense of humor. Definitely interested!
+
+Find it here: https://store.steampowered.com/app/3725190//There_Are_No_Ghosts_at_the_Grand/

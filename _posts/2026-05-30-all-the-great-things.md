@@ -5,7 +5,7 @@ categories:
 - Misc
 tags:
 - politics
-date: 2025-05-30 12:00 -0800
+date: 2026-05-30 12:00 -0800
 ---
 <style>
 .redacted {
@@ -41,6 +41,8 @@ html[data-theme="light"] .redacted {
   margin-left: 0.05rem;
 }
 </style>
+
+*This post depends on CSS styling, and is best viewed directly on [the site](https://blog.alexrinehart.net/posts/all-the-great-things/)*
 
 <span class="redacted">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </span> <span class="redacted"> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt </span> <span class="redacted"> ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit </span> <span class="redacted"> anim id est laborum </span><span class="unredacted">signed the First Steps act, a bill for criminal sentencing and prison reform.</span> <span class="redacted">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span>
 
