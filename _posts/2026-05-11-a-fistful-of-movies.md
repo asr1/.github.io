@@ -5,6 +5,10 @@ categories:
 - Recap
 tags:
 - movies
+img_path: "../../assets/img/"
+image:
+  path: templateHeaders/movies.jpg
+  alt: A line of DVDs on a library shelf
 date: 2026-05-11 22:38 -0700
 ---
 Below is the list of the last 30 movies I've seen, very roughly sorted by how much I enjoyed them (least favorite at the top, favorite at the bottom). 

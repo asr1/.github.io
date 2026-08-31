@@ -8,9 +8,6 @@ tags:
 - game-design
 - rpg
 img_path: "../../assets/img/"
-image:
-  path: templateHeaders/roundup.jpg
-  alt: A wide shot of a library
 date: 2026-07-04 14:47 -0700
 ---
 Symmetry is a spectrum. In game design, it refers to how much one player's turn mirrors another. Specifically, it refers to the levers they can pull. 
