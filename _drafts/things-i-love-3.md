@@ -12,7 +12,7 @@ tags:
 - video-games
 ---
 
-# Boarsd Games
+# Board Games
 
 
 ## Raptor

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Belgian Rhapsody
-description: "The first time I heard Bohemian Rhapsody, I was in seventh grade."
+description: The first time I heard Bohemian Rhapsody, I was in seventh grade.
 categories:
 - Stories
 - Personal
@@ -9,8 +9,8 @@ tags:
 - stories
 - travel
 - music
+date: 2026-09-13 15:10 -0700
 ---
-
 ## I
 
 The first time I heard Bohemian Rhapsody, I was in seventh grade. My friend Burt[^1] played while we hung out after school. I thought it was fine, if a bit long. Fun enough. The second time I heard Bohemian Rhapsody, I was in seventh grade. My friend Burt played it while we hung out after school. The third time I heard Bohemian Rhapsody, I was in seventh grade. The 180th time I heard Bohemian Rhapsody, I was in seventh grade.
