@@ -1,6 +1,6 @@
 ---
 layout: post
-title: October 26 Roundup
+title: November 26 Roundup
 ---
 
 Below is a list of things I learned, remembered, or found interesting this month.
@@ -29,4 +29,24 @@ Below is a list of things I learned, remembered, or found interesting this month
 
 11. [Never pitch reviews](https://aftermath.site/never-pitch-reviews/)
 
-12.
+12. People used to [sleep twice](https://www.bbc.com/future/article/20220107-the-lost-medieval-habit-of-biphasic-sleep) a night, with a break in the middle of the night.
+
+13. Dinosaur blood (but no DNA 🙁 ) [found in a fossil](https://www.popsci.com/science/first-dinosaur-blood-fossil-discovery/).  
+
+14. Related, [DNA found](https://www.sciencedaily.com/releases/2026/11/261102075903.htm) in ancient aseroid!
+
+15. The [many ghosts](https://en.wikipedia.org/wiki/The_Grey_Lady) called the Gre(a)y Lady.
+
+16. [Foxes pounce Northwest](https://www.nationalgeographic.com/science/article/foxes-use-the-earths-magnetic-field-as-a-targeting-system)
+
+17. Martin McDonaugh's [hilarious reasoning](https://www.cinemablend.com/movies/why-john-malkovichs-movie-called-wild-horse-nine-martin-mcdonagh) behind the title of his newest movie (I don't believe him!)
+
+18. Over in the Garden, I put down some thoughts I've long held about [software updates](https://garden.alexrinehart.net/software-and-technology/software-updates/) and [when app developers](https://garden.alexrinehart.net/update-when-leaving/) should prompt them.
+
+19. Europe's [oldest medical school](https://www.medicaleconomics.com/view/montpellier-france-oldest-medical-school-europe)
+
+20. Pesticide analysis in Iowa: [it's bad](https://iihr.uiowa.edu/all-news/2026/11/new-study-on-pesticide-monitoring-in-Iowa)!
+
+21. Solar power generation worldwide: [it's good](https://reneweconomy.com.au/chart-of-the-day-reality-keeps-surprising-the-iea-when-it-comes-to-global-solar-growth/)!
+
+22. Tornado alley is.... [moving](https://www.usnews.com/insurance/homeowners-insurance/new-tornado-alley-2026-shifting-risks)?!

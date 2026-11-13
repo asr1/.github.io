@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Things I love 2025 edition
+title: Things I love 2027 edition
 ---
 
 
@@ -9,6 +9,8 @@ This is a sequel to 2024's [post]({% link _posts/2024-12-01-things-that-improve-
 # Home
 
 Electric pencil sharpener
+
+Uniball Powertank pens
 
 # Bathroom
 
